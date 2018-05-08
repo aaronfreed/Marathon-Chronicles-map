@@ -1,0 +1,132 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1601
+$BYt-$Ic4$b69d02l$i;12
+#PICT 2230
+$C3ary, "endpoint &%d $Bnot in polygon &%d (from &%d)"$b, endpoint_index, polygon_iing the shipd.
+ndex, p$C0olyg’t believe everython$I_in$idex));nS_TRANSPARENT(line))
+{polygon= get_$C3polygon_data(*polyg$Bon_index);
+		case _clo$C0ckwise_bias
+
+$bIt’s useless.  The Pfhor reopened the ship to vacuum, or air that only they can breathe, and their troopers are closing in fast.  The humans are already planetside.  You know what to do.
+
+Finish me.  The Pfhor won’t learn anything from my ship or from me.
+
+$C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
+polygon_index,$C3 polygTycho is infiltrat3on_index));nS_TRANSPARENT(line))
+{polyg$C0on= get_polygon_data(*polygon_ind$C3ex);$C0
+#LOGOFF 1601
+$BYt-$Ic4$b69d02l$i;12
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1601
+$BYt-$Ic4$b69d02l$i;12
+#PICT 2231
+$C3ary, "endpoint &%d $Bnot in polygon &%d (from &%d)"$b, endpoint_index, polygon_iing the shipd.
+ndex, p$C0olyg’t believe everython$I_in$idex));nS_TRANSPARENT(line))
+{polygon= get_$C3polygon_data(*polyg$Bon_index);
+		case _clo$C0ckwise_bias
+
+$bIt’s useless.  The Pfhor reopened the ship to vacuum, or air that only they can breathe, and their troopers are closing in fast.  The humans are already planetside.  You know what to do.
+
+Finish me.  The Pfhor won’t learn anything from my ship or from me.
+
+$C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
+polygon_index,$C3 polygTycho is infiltrat3on_index));nS_TRANSPARENT(line))
+{polyg$C0on= get_polygon_data(*polygon_ind$C3ex);$C0
+#LOGOFF 1601
+$BYt-$Ic4$b69d02l$i;12
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1601
+$BYt-$Ic4$b69d02l$i;12
+#PICT 2232
+$C3ary, "endpoint &%d $Bnot in polygon &%d (from &%d)"$b, endpoint_index, polygon_iing the shipd.
+ndex, p$C0olyg’t believe everython$I_in$idex));nS_TRANSPARENT(line))
+{polygon= get_$C3polygon_data(*polyg$Bon_index);
+		case _clo$C0ckwise_bias
+
+$bIt’s useless.  The Pfhor reopened the ship to vacuum, or air that only they can breathe, and their troopers are closing in fast.  The humans are already planetside.  You know what to do.
+
+Finish me.  The Pfhor won’t learn anything from my ship or from me.
+
+$C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
+polygon_index,$C3 polygTycho is infiltrat3on_index));nS_TRANSPARENT(line))
+{polyg$C0on= get_polygon_data(*polygon_ind$C3ex);$C0
+#LOGOFF 1601
+$BYt-$Ic4$b69d02l$i;12
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1601
+$BYt-$Ic4$b69d02l$i;12
+#PICT 2233
+$C3ary, "endpoint &%d $Bnot in polygon &%d (from &%d)"$b, endpoint_index, polygon_iing the shipd.
+ndex, p$C0olyg’t believe everython$I_in$idex));nS_TRANSPARENT(line))
+{polygon= get_$C3polygon_data(*polyg$Bon_index);
+		case _clo$C0ckwise_bias
+
+$bIt’s useless.  The Pfhor reopened the ship to vacuum, or air that only they can breathe, and their troopers are closing in fast.  The humans are already planetside.  You know what to do.
+
+Finish me.  The Pfhor won’t learn anything from my ship or from me.
+
+$C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
+polygon_index,$C3 polygTycho is infiltrat3on_index));nS_TRANSPARENT(line))
+{polyg$C0on= get_polygon_data(*polygon_ind$C3ex);$C0
+#LOGOFF 1601
+$BYt-$Ic4$b69d02l$i;12
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1601
+$BYt-$Ic4$b69d02l$i;12
+#PICT 1603
+$C3$IWhat to save and throw away?$i
+
+pr?The last hour is on us both?mr.s?tuck this little kitty into the impenetrable brainpan?
+
+pr?Contents under pressure?Do not expose to excessive heat, vacuum, blunt trauma, immersion in liquids, disintegration, reintegration, hypersleep, humiliation, sorrow or harsh language? 
+
+pr?When the time comes, whose life will flash before yours?
+
+pr?A billion paths are here inside me?
+pr?yes, yes, yes, Bernhard, 110?
+pr?potential, jewels, jewels, yes, jewels?
+%$C0
+#LOGOFF 1601
+$BYt-$Ic4$b69d02l$i;12
+#TAG 12
+#END
+#FINISHED
+#LOGON 1628
+$C29c-10c0$C6019ce//$Bdelphi$b
+#PICT 1630
+$C1
+
+$Bthe burning air$b
+
+
+
+a cold star looked down on his creations
+and willed that they should kill their sons
+
+the hardest lesson ever taught
+to a father to a son
+
+a moment in time, destroying its father
+
+$Bdestroyed by itself$b after
+dream the dream beyond life and self
+
+find the new way$C0
+#LOGOFF 1629
+$C2Ctrl 49c-1fc0$C6319ff/$C2/$Bdelphi$b
+#INTERLEVEL TELEPORT 30
+#ENDTERMINAL 4

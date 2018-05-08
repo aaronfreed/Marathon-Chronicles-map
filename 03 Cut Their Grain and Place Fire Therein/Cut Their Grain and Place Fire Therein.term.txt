@@ -1,0 +1,233 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C2gjk//H-v58-$C6w12pcgbk$C0
+#PICT 2630
+$C2gjk//H-v58-$C6w12pcgbk$C3
+
+Control Station 187-f was once the pride of the Pfhor on Lh’owon. The structure is an ancient S’pht citadel converted to more suitably modern uses, and the Pfhor wisely stockpiled their defenses here while they were establishing operations on Lh’owon fifteen years ago. It is a construct so well organized for defense that, for ten years, there was foreseeable way for it to fall.
+
+But Control Station 187-f is on the Minor River, and rivers are prone to flooding. You’ve managed to set off the safeguard for every dam on Lh’owon, and your work has brought with it ten thousand violent F’lickta, whom the Pfhor are fighting everywhere. While they’re busy and it’s still nighttime on this side of the planet, I need you to do some work.$C0
+#PICT 2630
+$C2gjk//H-v58-$C6w12pcgbk$C3
+
+Your first objective will be to disable the defenses operating around the fort. You should be careful to stay on the course I’ve plotted: this is a heavily guarded facility, your presence will make offense, and the Pfhor will periodically restock their troops and drones should you chance to knock them out.
+
+You’ll need to smash some circuitry to enter the central control room, and the Pfhor will be keeping their defenses high. Once you reach said control room, you’ll have to open the panels and destroy the circuitry inside. Ordinarily this would disable the automatic defenses covering our future headquarters, allowing us at least a certain amount of refuge from the inevitable Pfhor backlash.$C0
+#PICT 2673
+$C2gjk//H-v58-$C6w12pcgbk$C3
+
+Unfortunately, our tri-optic friends were expecting our attack, which leads me to believe Tycho is in line with the bugs. I want you to access all the terminals here, because I want to learn more about the S’pht and the Pfhor empire. I think you’ll find something for us. I’ll be sending you to learn more about the S’pht, soon. You’re also likely to be here for awhile –– the Pfhor, who are so very fond of you, have generously installed some additional circuitry in the area for you to smash. If you have any desire to disable security and thereby enable a human victory you’ll have to smash these circuits, and you’ll also have to find them on your own because all mention of their installation has been carefully eradicated from the few sections of the Pfhor network I have access to. Our friends were clearly expecting us.$C0
+#PICT 2631
+$C2gjk//H-v58-$C6w12pcgbk$C3
+
+We’ll remedy my access problems soon, but for now, don’t worry about that. I need you to focus on killing Pfhor. I suspect you’ll probably have to do some swimming, and I’m not willing to send any oxygen canisters since if the Pfhor see too many transports penetrating their shields they’ll certainly do some research and our cloaked ship will be in danger of discovery. There has to be an oxygen recharger somewhere around here.
+
+I don’t think I need to reiterate how important it is that you hurry. If we don’t establish a base here, quickly, our mission on Lh’owon will most certainly fail.
+
+Best of luck –– we’re counting on you. I’ll contact you again if I can find a suitable terminal and avoid attracting attention.$C0
+#LOGOFF 1600
+$C2gjk//H-v58-$C6w12pcgbk$C0
+#END
+#FINISHED
+#LOGON 1600
+$C2gjk//H-v58-$C6w12pcgbk$C0
+#PICT 1701
+$C2gjk//H-v58-$C6w12bernal$C3
+
+I’m disappointed. There was very little useful information on the computer network of this base, and all we learned about the S’pht is that they resist the Pfhor and that if the Eleventh Clan is found they will rebel. And perhaps Tycho is the “human-constructed informant” mentioned in a transmission I intercepted. The Pfhor bureaucracy is highly inefficient, but apparently their IT security drone is competent. Perhaps your intrusion was an alarum to the Pfhor, to shut out useful bits from human access.$C0
+#PICT 2673
+$C2gjk//H-v58-$C6w12bernal$C3
+
+Not wishing to pass up a valuable source of information for myself, I took a couple of microseconds to locate F’tha, the Compiler who helped you access the submerged Pfhor network, and whisk him away before the Pfhor could. Because of his actions he was scheduled for execution, and he may turn out to be a valuable resource for us. I believe the S’pht have collective knowledge that they have never disclosed to the Pfhor. On Earth, during those barbaric times when Africans were kept as slaves in the West, they kept an entire life hidden from their White slavemasters. Many secretly learned to read, even though the punishment for learning was death, and they would gather round campfires at night and sing songs of hope and devotion. Perhaps the S’pht have similar rituals. We need to learn as much as we can, quickly.$C0
+#PICT 2210
+$C2gjk//H-v58-$C6w12bernal$C3
+
+You see, on the bright side of things, my humans are knocking down the Pfhor left and right, your work has flooded the bugs hopelessly, and the three-eyed aliens have begun evacuating the personnel of their affected bases, including our future command centre, to other parts of the planet. On the other hand, while you were accessing the network here, I intercepted transmissions from Pfhor Prime that indicate that the Pfhor think Lh’owon is infinitely more valuable than they previously believed. I’m absolutely certain they’ve found Tycho, and given the incredible speed of their bureaucracy we can expect them to send a naval force within two weeks. I’d have liked far more, but our time clearly isn’t as plentiful as we’d hoped.$C0
+#PICT 2063
+$C2gjk//H-v58-$C6w12bernal$C3
+
+Furthermore, something has gone wrong with my compilers, and since the S’pht were our primary source of weaponry and ammunition, we’re now struggling to produce anything. I won’t be getting the fusion pistol to you as soon as I had hoped, and you’ll be facing the Pfhor Hunters and Enforcers without a better weapon.
+
+I need complete access to the entire Pfhor network fast, and the only place I can get it has turned into a central evacuation hub. I’m sending you to install two uplink chips at key locations in the command complex. I’ll send in some humans to soften up resistance, but you’ll be hitting the Pfhor where their defenses are strongest, and our commandos are spread thin.
+
+You’d better clear that clip.$C0
+#LOGOFF 1600
+$C2gjk//H-v58-$C6w12pcgbk$C0
+#INTERLEVEL TELEPORT 4
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1640
+$C5%94301=30290
+#PICT 2632
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C5
+
+I remember you. I first saw you through the collective eyes of my race, as you danced around the corridors of a brightly painted Pfhor ship slaying our masters, trying to fell the enormous, hulking monstrosity of the Empire. We wanted to see your victory; I remember it all. No one has spoken of it to our masters $C7(?bastards)$C5, but we all wanted you to win.
+
+You won the respect of all S’pht the day you killed the last crewman of that ship, the day you destroyed the cyborg $C7(?monster)$C5 that controlled $C7(?perverted)$C5 the wills of fellow S’pht to destructive ends.
+
+
+
+%94301=30290
+#PICT 2633
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C5
+
+I am F’tha, a lowly S’pht compiler, but my name is unimportant. You cannot see me right now, but your deeds have reached far into the S’pht consciousness. The vile $C7(?ugly)$C5 Pfhor slave us to more powerful $C7(?painful)$C5 machines, but we resist them and do not fight as well as we could. We do not wish it, and the will of the S’pht is strong even when it is controlled $C7(?bent)$C5.
+
+Our freedom will mean nothing without royalty. We are but the body and the royalty our mind. If you find the royalty, all S’pht will be your ally.
+
+
+
+
+%94301=30290
+#PICT 2634
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C5
+
+The royalty $C7(?mind)$C5 must exist. We know so because we exist; our existence is proof enough. The threads that bind our thoughts together link us to the royalty $C7(?mind)$C5, and the connection cannot be severed.
+
+It took us a long time to realise this.
+
+Mechanisms are in place to cripple the Pfhor $C7(?empire)$C5 when the unit is of one mind. You must find the Eleventh Clan, and when you do, the vile bipeds will surely fall.
+
+You may kill my brothers, but you will free the unit-whole.
+
+
+Lhar 103-30!a
+#LOGOFF 1640
+$C5Lhar 103-30!a
+#TAG 9
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1647
+#PICT 1651
+$C2Humans’ Arrival in Force
+origin: $C6Pfhor High Command$C2
+destin: $C6Lh’owon Command Station 187-f$C2
+ref: $C6Compiler conversing with marine$C2
+stamp: $IRetribution$i
+
+The flooding of the Minor River and its tributaries was probably not natural. We have been lead to believe that the humans are here and that they are talking to the S’pht, and we can expect Durandal to arrive shortly.
+
+Within your station we detected strange readings from the Compiler network. We probed it in further detail and found that F’tha, a rogue Compiler, was conversing with the human-cyborg construct. We believe him to be the same one responsible for holding back the assault on the $IMarathon$i and capturing the $ISfiera$i.
+#PICT 1650
+$C2Humans’ Arrival in Force
+origin: $C6Pfhor High Command$C2
+destin: $C6Lh’owon Command Station 187-f$C2
+ref: $C6Compiler conversing with marine$C2
+stamp: $IRetribution$i
+
+We cannot discern what purpose the humans would have here, but we believe they are investigating old S’pht legends about the Eleventh Clan and Jjaro space-folding technology. Our human-constructed friend has warned us about that. If the humans get hold of Jjaro technology and contact the Eleventh Clan, the Empire would be in grave danger. This must not be allowed to happen.
+#PICT 1651
+$C2Humans’ Arrival in Force
+origin: $C6Pfhor High Command$C2
+destin: $C6Lh’owon Command Station 187-f$C2
+ref: $C6Compiler conversing with marine$C2
+stamp: $IRetribution$i
+
+We must be cautious. F’tha was talking about retribution, about S’pht rebellion. He mentioned the lost Eleventh Clan. He told the human that the S’pht deliberately fight poorly. We will try to remedy this. There are measures we can take. Our Council is currently debating a course of action, and when we have decided, you must act quickly. The safety of the Empire is at stake.
+
+If F’tha is found alive, he is to be executed.
+#LOGOFF 1647
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1649
+#PICT 2635
+$C2$B$IWater Purity Maintenance Terminal 7A
+$buser interface activated
+$i
+C:\>$C6Remove water control safeguards
+
+$C2Warning: Removing the safeguards is dangerous even if you know what you're doing, since if you're unauthorised, your superiors will learn. Are you sure you want to do this? y
+
+$B$IWater control safeguards removed.$b
+$i
+C:\>$C6SET "emission.twr" TYPE="erratic"
+
+$C2Warning: Setting tower emissions type to "erratic" can cause such disastrous consequences as flooding, short-circuiting machinery, and your execution. Are you $Isure$i you want to continue? y
+
+$B$IWater tower emissions type "erratic" set.
+#PICT 2636
+$C2$B$IWater Purity Maintenance Terminal 7A
+$buser interface activated
+$i
+C:\>$C6SET "emission.twr" TYPE="erratic"
+
+...
+$C2
+The sequence that you plan to set in motion is likely to flood the area, as a result if you want to continue you will have to make certain changes. Do you wish to continue? y
+#PICT 2637
+$C2$B$IWater Purity Maintenance Terminal 7A
+$buser interface activated
+$i
+C:\>$C6SET "emission.twr" TYPE="erratic"
+
+...
+$C2
+Activate flood-escape platforms for easy escape to drier regions? y
+#PICT 2638
+$C2$B$IWater Purity Maintenance Terminal 7A
+$buser interface activated
+$i
+C:\>$C6SET "emission.twr" TYPE="erratic"
+
+...
+$C2
+Seal off Area 51 to preserve its valuable secrets? n
+#PICT 2639
+$C2$B$IWater Purity Maintenance Terminal 7A
+$buser interface activated
+$i
+C:\>$C6SET "emission.twr" TYPE="erratic"
+
+...
+$C2
+Error: You do not have the proper ID to authorise this action. Floodgates have been sealed, and this terminal’s scanners have failed to locate proper identification. You will not escape.
+
+$B$IAlert$b
+$iSecurity breach at 8.21.12.09
+(Water Purity Maintenance Terminal 7A)
+
+     intruder type = human-cyborg construct
+  intruder mission = unknown
+recommended action = capture
+#LOGOFF 1649
+#TAG 7
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1600
+$C2Sfolsfol$C6sfiera7$C3
+#PICT 1602
+$C2Sfolsfol$C6sfiera7$C3
+
+Apparently your presence hasn’t amused the bugs. They’ve locked out your way via their local water purification system, which has lately been crawling with F’lickta and isn’t working properly. I’d like you to damage it further. If you can sink this place under an extra six metres of sludge, you’ll probably gain an extra sense of fulfillment from your mission. It’s also the only way you’ll be able to finish it.
+
+Keep in mind that since you’ll be interfacing with an antiquated Pfhor terminal, there is the danger that they will notice your handicraft and they won’t be particularly pleased if they find you here. Exercise caution.
+#PICT 1602
+$C2Sfolsfol$C6sfiera7$C3
+
+Also note that Pfhor machinery tends not to work very well underwater, and even less so under sludge. This terminal and its pattern buffer are likely to be caught in the flood since they’re only slightly higher than the flood level now. Therefore I won’t be able to extract you from this terminal, and you won’t be able to make use of this pattern buffer whenever you break free.
+
+On the other hand, I’ll try to transport in some goods for you in case you need them. My S’pht have had a slight increase in their productivity. It may have something to do with that Compiler who contacted you. S’pht consciousness is like a billion points connected by a single slender thread, and what affects one S’pht is felt by all others. It is for this reason that we know the Eleventh Clan still lives.
+#PICT 1602
+$C2Sfolsfol$C6sfiera7$C3
+
+When you’re done here, I’d like to take you to do some excavation elsewhere on Lh’owon. I firmly believe the warring factions of the S’pht knew more about the Eleventh Clan than they ever told the Pfhor, but it has been forgotten over the millennia.
+
+I believe the first ten clans knew where the S’pht’Kr could be found, and they must’ve written it down somewhere.
+
+At any rate, keep searching for the reset of that circuitry. You’re doing tremendously well, given that none of us has any clue exactly where you need to go. All of us are counting on you, so try not to get in too much trouble. You know how I, er, worry.
+
+$C0/-/$C3durandal$C0.$C3out$C0/-/$C3
+#LOGOFF 1600
+$C2Sfolsfol$C6sfiera7$C3
+#ENDTERMINAL 4

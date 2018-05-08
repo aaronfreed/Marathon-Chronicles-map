@@ -1,0 +1,53 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1695
+$C3$Ball.roads.lead.to.trantor$C0$b
+#PICT 1696
+#LOGOFF 1697
+#TAG 7
+#END
+#FINISHED
+#LOGON 1695
+#PICT 1696
+
+the player should not be here.
+
+
+$C3escape will make me god
+
+
+   ||   ||   ||   ||
+  _||_ _||_ _||_ _||_
+  \  / \  / \  / \  /
+   \/   \/   \/   \/
+    
+we demo space kill game
+
+
+$C0coincidence?  i think not.
+#LOGOFF 1695
+DTB is for pansies
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1695
+#PICT 1696
+#LOGOFF 1695
+#END
+#FINISHED
+#LOGON 1695
+life.unwind
+#PICT 1696
+#LOGOFF 1695
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1690
+#PICT 1691
+#LOGOFF 1690
+#INTERLEVEL TELEPORT 32
+#ENDTERMINAL 2

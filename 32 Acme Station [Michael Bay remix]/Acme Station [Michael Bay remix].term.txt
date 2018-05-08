@@ -1,0 +1,35 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1647
+#PICT 1651
+#LOGOFF 1647
+#END
+#FINISHED
+#LOGON 1647
+#PICT 1651
+You’ve finished my silly Vid challenge remix of Acme Station. Well done. In truth this isn’t nearly as difficult as the original, which probably means it’s in keeping with M∞’s Vid challenge. You will hereby be teleported to a bunch of other levels I didn’t feel were worth keeping in the main scenario as they’re not as good as the others, but they’re not horrible enough to keep entirely out of public view, either. The difficulty curve will be erratic and the story will be nonexistent, but that latter part hardly distinguishes it from the other levels here. Enjoy.
+#LOGOFF 1647
+#INTERLEVEL TELEPORT 33
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1647
+#PICT 1651
+#LOGOFF 1647
+#END
+#FINISHED
+#LOGON 1647
+#PICT 1651
+You’ve finished my silly Vid challenge remix of Acme Station. Well done. In truth this isn’t nearly as difficult as the original, which probably means it’s in keeping with M∞’s Vid challenge. You will hereby be teleported to a bunch of other levels I didn’t feel were worth keeping in the main scenario as they’re not as good as the others, but they’re not horrible enough to keep entirely out of public view, either. The difficulty curve will be erratic and the story will be nonexistent, but that latter part hardly distinguishes it from the other levels here. Enjoy.
+#LOGOFF 1647
+#INTERLEVEL TELEPORT 33
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1647
+#PICT 1651
+#LOGOFF 1647
+#ENDTERMINAL 2

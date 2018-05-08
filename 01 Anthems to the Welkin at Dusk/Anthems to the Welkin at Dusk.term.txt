@@ -1,0 +1,109 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C3D.1707 Recognizant
+#PICT 1605
+Ah, fair K’lia. The old S’pht construct Thoth would wax poetic about this place, but seeing as he was destroyed along with the remainders of the Lh’owon system about three hundred years ago, this is no time to get mystical about ancient S’pht legends. Modern affairs are far more pressing.
+
+You are in an ancient S’pht’Kr citadel where the S’pht’Kr have centred their government and religious operations. It is currently under siege from certain reactionary factions within the Pfhor government. The vast majority of the Pfhor still seem to support the 304-year-old human-Pfhor treaty, as would be evidenced by the simple fact that they’re fighting on our side, but the Pfhor that have turned against us are really quite masterful at producing Juggernauts, and I am currently unable to produce fusion weapons keyed to their shield frequency. An unkeyed fusion rifle would be completely ineffective against these Juggernauts, so you and the human fighters will have to resort to your MOW-MDN guns. Don’t worry – you’ll have plenty of help.
+
+I need you to reactivate an ancient S’pht’Kr personality construct. This AI was designed to repel attacks on K’lia like this one, but since the S’pht’Kr knew that the AI meant business, your route may be fairly complicated. I’ll check in if I obtain any further information.
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1600
+<Pragma Jct. 1600 Enabled>
+#PICT 1605
+It looks like the next door is stuck. I’ll help. As you may recall, doors were once a speciality of mine.
+
+You’ll find an underwater passageway which should lead to one of the activation sites by way of a crumbled S’pht’Kr citadel. Wind erosion may have taken its toll on the citadel, but I think you should be able to find a path upwards without my help. Keep in mind that your new pistol works underwater, as do both triggers of your staff. My S’pht are working on a more powerful weapon with underwater capacities, but right now your two pistols and your staff are the only underwater ordinances I can supply you with.
+
+In case you were wondering, the staff I’ve given you is more powerful than an ordinary Fighter’s staff, and it is much more versatile as well. Have you tried using the melee and projectile attacks at the same time yet? Unlike the Fighters, you can do so, and using these triggers together can stun a foe, propel him backwards with almost as much force as a grenade would, and often keep him from reacting to anything you do. Obviously this technique will be useless against the Juggernauts, which is what grenades are for.
+
+You’ll be receiving plenty of help, so don’t waste your ammunition on the Juggernauts unless you have to. You may need it going forward.
+#LOGOFF 1600
+#TAG 2
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#FINISHED
+#LOGON 1600
+<Pragma Jct. 1600 Enabled>
+#PICT 1605
+Nice work. Watching you has made realise anew why I have so long held so much faith in your abilities.
+
+<poor writing expunged>
+
+                 $B   $C5Teleport now.$C0$b
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 2
+#END
+#UNFINISHED
+#LOGON 1600
+#PICT 1605
+
+
+
+
+
+
+That was cool how you jumped out that narrow window and up thirty feet in through this one, but I’m still not going to let you leave.
+
+Go activate the S’pht’Kr AI, before I decide you’re not so useful after all and teleport you out into space!
+
+Still Rampant,
+Durandal
+#LOGOFF 1600
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#FINISHED
+#LOGON 1640
+#PICT 1641
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C5
+
+
+
+
+
+As the Pfhor unleashed the $C4trih xeem$C5, K’lia was whisked away by unknown forces into the great void of the... unknown. The remaining S’pht are in a state of shock. We haven’t seen a Jjaro for three hundred years, and if Yrro himself were to show up, we’d hardly know. Yrro’s vengeance is not merciful... anyone who reads this terminal, do not underestimate him.
+#LOGOFF 1640
+#END
+#UNFINISHED
+#LOGON 1640
+#PICT 1641
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C5
+
+
+
+
+
+
+
+You are using DTB? We S’pht’Kr don’t approve of such methods, but if this is the only way open to you, then so be it.
+#LOGOFF 1640
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#FINISHED
+#LOGON 1640
+#PICT 1642
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C5
+
+Now, when we are so near our end, I think upon the fate of our ancestor S’pht Y’sa M’nr, who went before the S’pht’Kr while they pleaded for peace.
+
+On hearing our just grievances, S’boath addressed our ancestor thus:
+
+“Of these thousand forms of $C4$B[?Yrro]$C5$b? Which is the very first? In the hearts of the retainers before me are a thousand thoughts and ten thousand imaginings, of these, which is the very first one?
+#PICT 1643
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C5
+
+S’pht Y’sa M’nr replied: “Who is this $C4$B[?Yrro]$C5$b?”
+
+S’boath caught him by a spline and flung him into a pit.
+
+A thousand of our lifetimes do not equal one moment over Y’sa’s pit.
+#LOGOFF 1640
+$C5#LOGOFF 1640
+#ENDTERMINAL 3

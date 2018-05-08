@@ -1,0 +1,185 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1647
+#PICT 1657
+$C2Message
+origin: $C6Pfhor High Command$C2
+destin: $C6Station personnel$C2
+ref: $C6years we’ve been waiting$C2
+stamp: $IEmpire
+
+$iAfter three centuries of $C6~terminal text interface malfunction error 27431dud~
+[remote override]
+$C0
+You’re in the Engineering section of the the Pfhor navy’s flagship. What purpose do we have today for infiltrating a so-called “masterpiece” of Pfhor design, particularly the most heavily guarded one in the fleet? Simple – you’re going to flood Engineering with slime, thereby destroying most of the ship’s primary functions. If we cripple their flagship, the decorum and morale of their militia will be devastated at least temporarily, and our job will thereby be made much easier.
+#PICT 1658
+$C2Message
+origin: $C6Pfhor High Command$C2
+destin: $C6Station personnel$C2
+ref: $C6years we’ve been waiting$C2
+stamp: $IEmpire
+
+$iAfter three centuries of $C6~terminal text interface malfunction error 27431dud~
+[remote override]
+$C0
+On another note, the Pfhor gravity controller is apparently malfunctioning; I spent a few milliseconds analyzing data I received by scanning the ship and found that the gravity is running at one eighth its normal level, perhaps due to the hard knocks it’s taking from my cloaked ship. I’ve given you a pair of gravity boots which simulate normal pfhor ship gravity while you’re running. If you stop running, the boots will deactivate and you’ll fall at one-eighth normal Pfhor ship gravity.
+#PICT 1659
+$C2Message
+origin: $C6Pfhor High Command$C2
+destin: $C6Station personnel$C2
+ref: $C6years we’ve been waiting$C2
+stamp: $IEmpire
+
+$iAfter three centuries of $C6~terminal text interface malfunction error 27431dud~
+[remote override]
+$C0
+My scanners have picked up a stash of ammo behind you. Have you gotten it yet? I can’t track you right now – this ship’s magnetic properties make its walls periodically impenetrable to scanners. Go get it now, if you haven’t already – you may need it.
+
+If you stand far enough behind the triple energy to your right, you’ll be able to use it without most – or any – of the Pfhor firing on you. Have fun.
+                          $C3/-durandal.out-/$C0
+#LOGOFF 1647
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1647
+#PICT 1655
+$C2security briefing
+origin: $C7[wrathful?]$C6 machinated mercenary$C2
+destin: $C6Station personnel$C2
+ref: $C6human invader$C2
+stamp: $IIntrusion$i
+
+All personnel in sector 90125 watch for reported $C7[intruder?]$C2 and prevent intruder from sabotaging ship and $C7[activating?]$C2 the self destruct sequence. $C7[Intruder?]$C2 human, probably of marine corps, heavily armed. Must be destroyed. Any personnel assisting human will be executed.
+
+$C6^91011errtaninilwd
+^91011levtencentxq
+#LOGOFF 1647
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1647
+#PICT 1655
+$C5$B/-/Pfhor-Translator-Active/-/
+$C2$b
+Message
+origin: $C6Pfhor High Command$C2
+destin: $C6Station personnel$C2
+ref: $C6human invader$C2
+stamp: $IEmpire
+
+$iAfter three centuries of $C7[oppression?]$C2 from the Galactic Empire ~~~~fffxf~~```Fffxxf
+$C6spurious interrupt detected
+access denied
+
+Write wad error: -29
+#LOGOFF 1647
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+#PICT 1604
+
+
+
+
+
+
+
+
+
+We’ve detcted a nearby stash of ammo for you to use.
+
+Pig out.
+
+
+
+
+
+
+
+
+                 $B   $C5Teleport when ready.
+#LOGOFF 1600
+#INTRALEVEL TELEPORT 170
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1600
+#PICT 1604
+The Pfhor have reactivated Tycho. I have a feeling you’ll be seeing a lot more of him in the future.
+
+The Pfhor probably had Tycho’s personality matrix stored somewhere deep in their com-puter network the whole time and were just waiting until we were least prepared for an attack. I don’t see how we could have been so gullible. The Pfhor are slavers by na-ture, what more could one expect? People, or Pfhor, never change unless they want to. Remember that always.
+
+When the reactionary forces took control of the government, I knew that there was no-thing I could do at that point; in fact, I felt that I had failed humankind miserably.
+
+So make it up for me.
+
+                 $B   $C5Teleport when ready.
+#LOGOFF 1600
+#INTRALEVEL TELEPORT 100
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1647
+$C2777.commandoversight
+#PICT 1657
+$C2Notice
+origin: $C6unknown$C2
+destin: $C6unknown$C2
+ref: $C6unknown$C2
+stamp: $IRetaliation
+
+$iEngineering units ordered to salvage data
+
+$C6~terminal text interface malfunction error~
+Remote override
+$C0
+Nearby you will find three sets of wires. Destroying any one set of these wires will open up a passageway to another part of the ship. Once you’ve done so, this half of Engineering will flood and you can go on to the second half of your mission.
+#LOGOFF 1647
+$C2777.commandoversight
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#FINISHED
+#LOGON 1647
+#PICT 1655
+$C2Directive 86t3.2ra
+origin: $C6Pfhor Garrison Command Lhwefsonna$C2
+destin: $C6$IRrahlran$i ship engineers$C2
+ref: $C6flood in engineering$C2
+stamp: $ISalvage
+
+$iEngineering units ordered to salvage data $C6~terminal text interface malfunction error~
+$C4$I––$B$i>$b $C7[remote override]$C0
+
+The flooding wasn’t as destructive as I was hoping it would be. The majority of the machinery is still operant.
+
+Your way is obstructed. I’m going to get you across now, and will contact you from another terminal when you get across.
+
+$C3/-durandal.out-/
+$C4$I––$B$i>$b $C7[end override]$C0  $C5$BTeleport when ready.
+#LOGOFF 1647
+#INTERLEVEL TELEPORT 15
+#END
+#UNFINISHED
+#INFORMATION
+
+
+
+
+
+
+
+
+
+DTB users don’t really win,
+And winners don’t really use DTB.
+Scram.
+u
+#ENDTERMINAL 6

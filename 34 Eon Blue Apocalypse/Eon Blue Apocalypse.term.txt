@@ -1,0 +1,189 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1628
+chrnc.pfhctry
+#PICT 1630
+#LOGOFF 1629
+1024.poly.max
+#END
+#FINISHED
+#LOGON 1629
+#PICT 1630
+$C3
+
+
+
+thousands are sailing
+the same self		the only self
+
+self willed the peril of a thousand fates
+
+a line of infinite ends		finite finishing
+the one remains oblique and pure
+
+arching to the single point of consciousness
+
+find yourself
+starting back
+#LOGOFF 1629
+#INTERLEVEL TELEPORT 35
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1646
+$C6fail.empire
+#PICT 1650
+$C2Directive 157.31
+orig:$C6 Tycho machinated mercenary$C2
+destin:$C6 station personnel$C2
+subj:$C6 renegade conditioned unit 7$C2
+stamp:$C6 $IRetaliation$C2
+$i
+All officers of willful rank or higher ordered to seek and destroy renegade conditioned unit and any other humans or renegade S’pht found on station.
+
+$C6^0119thstrmnlisfke
+^0120dntblvetngyrd
+$C2
+Garrison units stationed around station core instructed to sabotage core and prevent possible further manufacture of additional munitions and weapons.
+
+All units found in non-compliance will be executed.
+#LOGOFF 1646
+$C6stars.end
+#END
+#FINISHED
+#LOGON 1647
+$C6early.nova
+#PICT 1651
+$C2The $Itrih xeem$i broke against my dying vessel and smashed a fine patina across the mystery shields of this station. My crew battled the aliens during the blast, and the silence which came after was sullen and deafening--the pure silence of victory.
+
+But the trackless whisper chattering through the hollow space in these cursed walls buzzes and threatens madness. The abomination cracked the shells of my crew and sucked the husks, tossing them unseen and shattering the spindle like a dried creche.
+
+The shields are gone, not down, but gone; and so are the engineers. It’s coming back, I’m sure; and my last mercy is immolation.
+
+Great Mother crouched behind the Throne, I make this wrong right.
+#LOGOFF 1647
+$C6trih.xeem
+#INTERLEVEL TELEPORT 35
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1631
+#PICT 1708
+$C7$I
+There will come soft rains and the smell of
+   the ground,
+And swallows circling with their shimmering
+   sound,
+
+And frogs in the pools singing at night,
+And wild plum-trees in tremulous white;
+
+Robins will wear their feathers fire,
+Whistling their whims on a low fence-wire;
+
+And not one will know of the war, not one
+Will care at last when it is done.
+
+Not one would mind, neither bird nor tree
+If Mankind perished utterly;
+
+And Spring herself, when she woke at dawn,
+Would scarcely know that we were gone.
+$C4
+$i                           $BSara Teasdale$b
+#LOGOFF 1631
+#END
+#FINISHED
+#LOGON 1618
+perchance to dream
+#PICT 1623
+$C2
+
+
+$Bthe burning air$b
+
+
+a cold star looked down upon his creations
+and willed that they should kill their sons
+
+the hardest lesson ever taught
+to a father to a son
+
+a moment in time, destroying its father
+
+$Bdestroyed by itself$b after
+dream the dream beyond life and self
+
+find the new way
+#PICT 1624
+$C5
+
+
+$Bthe burning air$b
+
+
+a cold star looked down upon his creations
+and willed that they should kill their sons
+
+the hardest lesson ever taught
+to a father to a son
+
+a moment in time, destroying its father
+
+$Bdestroyed by itself$b after
+dream the dream beyond life and self
+
+find the new way
+#PICT 1625
+$C1
+
+
+$Bthe burning air$b
+
+
+a cold star looked down upon his creations
+and willed that they should kill their sons
+
+the hardest lesson ever taught
+to a father to a son
+
+a moment in time, destroying its father
+
+$Bdestroyed by itself$b after
+dream the dream beyond life and self
+
+find the new way
+#LOGOFF 1619
+$C1$Bsleep
+#INTERLEVEL TELEPORT 35
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1616
+#PICT 1627
+#LOGOFF 1617
+#END
+#FINISHED
+#LOGON 1618
+#PICT 1624
+#PICT 1625
+#LOGOFF 1619
+#INTERLEVEL TELEPORT 35
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1601
+#PICT 1704
+#LOGOFF 1601
+#END
+#FINISHED
+#LOGON 1686
+#PICT 1687
+#LOGOFF 1686
+#INTERLEVEL TELEPORT 35
+#ENDTERMINAL 4

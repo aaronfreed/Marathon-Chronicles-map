@@ -1,0 +1,29 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+#PICT 1602
+The latest bit of phlebotinum I need you to activate is deep in an abandoned mine. Sorry you had to start out so far from this terminal, but there was no alternative - teleporting you in closer to your mission would have risked losing you to interference from the mine. Fortunately, there is a nearby region with a signal booster that should enable me to extract you without difficulty.
+
+The bottom of the mine is filled with a noxious gas that was a byproduct of the mining process, and should you chance to fall in, I will be unable to rescue you before you suffocate, so you will want to watch your step. It is just as dangerous to the Pfhor and their slaves as it is to human-cyborg constructs, however, so you may find it helpful to knock them off the passages with your staff. I will try to send you ammunition and recharges as best as possible, but I can’t promise to be able to send in a continuous stream of toys.
+
+Come back here when you’re done and I’ll open up the pathway out of here.
+#LOGOFF 1600
+#TAG 3
+#END
+#FINISHED
+#LOGON 1600
+#PICT 1602
+
+
+
+
+
+
+
+
+
+Very good. I can now open the way to a region from which I should be able to teleport you out. Stand in the centre and I’ll try to extract you.
+#LOGOFF 1600
+#TAG 4
+#ENDTERMINAL 0

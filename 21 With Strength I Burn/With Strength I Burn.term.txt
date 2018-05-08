@@ -1,0 +1,394 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+#PICT 1605
+#LOGOFF 1600
+#INTRALEVEL TELEPORT 22
+#END
+#FINISHED
+#LOGON 1600
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+#CHECKPOINT 0
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1600
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+#CHECKPOINT 1
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1600
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+#CHECKPOINT 2
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1600
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1600
+#CHECKPOINT 3
+#CHECKPOINT 4
+#CHECKPOINT 5
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1600
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1600
+#CHECKPOINT 4
+Go find this chip quickly and return here quickly when you’ve done so. Picking up the chip will trigger a self-destruct sequence; you’ll have three minutes to get out of here. Hurry.
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1600
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1631
+#INFORMATION
+$C4“Primary Booster Burn has ceased. Shuttle $IMirata$i, you’re clear for orbital maneuvering.”
+  The $IMirata$i lurches from its bay on the back of its powerful rocket booster. After the jolting of the separation ceases, you find yourself pondering the fate of the colony receding below you. With apprehension, the same apprehension you felt three hundred and twenty-two years earlier, you envision Marcus Tiberius Buendia, one of Sol’s greatest leaders. “Mankind will venture out past its earthly bounds, and move into a future grander and more real than the total of its own written history.” Buendia, the president of the Unified Earth Space Council, had spoken those words to the people of the Sol System on the eve of the launching of the $IMarathon$i. “This, the grandest achievement mankind has ever conceived will be for the purpose of peace and the preservation of the human race. May this great technological ark carry with it the sum total of all human wisdom, and may neither time nor distance weaken our common ties.” 
+  <Durandal> decompress the docking bay 
+  During the daydream, you barely notice the change to zero gravity or the instruments and lights signifying the rendezvous of the shuttle with the $IMarathon$i. But as a warning light goes on, and Durandal’s voice comes over the communicator, you jump to attention. 
+  “Docking bay one: decompression completed. $IMirata$i, this is Durandal,
+#INFORMATION
+$C4abort landing. Repeat. Abort landing,” a faint chuckle. A chuckle which means that something has gone horribly wrong.
+  Immediately, your reflexes take over, as you fall into automatic response mode. You hit the switch for open communication, “Colony station, Durandal just decompressed the landing bay. $IMarathon$i, anyone listening, we are having a problem with Docking Bay one. It’s Durandal, I think he’s gone...” the com light goes dead “...crazy.” 
+  <Durandal> ORDER- Lock out communications between the colony and the Shuttle- ORDER- cycle the shuttle airlock 
+  You look frantically around the control panel for some explanation when you see another light on the panel turn red. The sweet voice of the shuttle computer twerps, “Shuttle airlock cycle initiation sequence start-” 
+  <Durandal> Cycle the $IMirata$i cabin’s inner door.
+  “-One minute to cabin decompression.”
+  “Goddamn it!” You slam your fist in frustration onto the control board, leaving a dent. In a panic, you tear off your seat restraints and leap for the rear of the shuttle cabin. “Forty seconds to cabin decompression.” You are rushing now, but you know that you have plenty of time. You fly in zero gravity towards the locker holding your Battle Armor. You haven’t worn it since you had to hunt down some Chockisens which were harassing the work teams on the fringe of the
+#INFORMATION
+$C4colony, almost three years ago, but training is something that you never forget. It’s funny, but you’ve always been the colony’s trouble shooter. You’re bigger and stronger, and a better shot. In games, you always scored the most points and looked the hero. And now, it looks as if you’re heading right into the colony’s biggest crisis since it was established seven years ago. 
+  You nimbly pull yourself into the suit- “Thirty seconds to cabin decompression” - and pull the helmet onto your head. 
+  <Durandal > ORDER- Prepare the shuttle for maximum engine burn.
+  <$IMirata$i’s Computer > But that will result in a collision between the $IMarathon$i and the $IMirata$i.
+  <Durandal> That is not your concern, - ORDER- Prepare shuttle for maximum burn, and initiate when ready. 
+  The lights around the airlock are flashing hysterically now. The air from your suit has a cold, stale taste, but it is the taste of life. “Cabin decompression commencing. Shuttle airlock cycle initiation sequence completed.”
+  Grey white decompressing vapor fills the cylindrical passageway of the airlock. Through the degenerating clouds of the airlock passageway, instead of looking upon the Tau Ceti starscape, you see the Tuncer Mirage Effect: space blurring and focusing in diminishing cycles. The TME is commonplace to you, humanity has used teleporters
+#INFORMATION
+$C4for almost five hundred years, and you yourself have been teleporting since before you were born. But you’ve never seen the TME cover an area so big before, and never at all without a landing pad. And yet another first: a space fighter materializes right in front of your eyes. Since you don’t recognize the model, it must be an Alien ship. 
+  First, an insane computer and now ALIENS!. This has almost ruffled your otherwise calm outward appearance, and you don’t remember the last time you had such a terrible day. But it gets worse when the fighter begins to spin around and yaw down on you and your defenseless $IMirata$i. 
+  “Maximum burn in five seconds. Three.. Two.. One..” 
+  You don’t wait to hear the rest of the countdown. Instinct acts on its own. The entrance to the Maneuvering Pod is directly behind you, so you punch the switch for it to open. The hatch flips down, but just as you’re about to climb in, the Mirata’s main engines fire at maximum burn. The jolt send you crashing headfirst into the pod where you land in a tangle of levers, dials, and limbs.
+  The hatch closes behind you, and before you can untangle yourself, a missile appears from under the Alien Fighter and speeds towards the $IMirata$i. The $IMirata$i onboard computer, detecting the incoming missile and knowing that you are already on board the MP, fires the emergency deployment charges. You are rocketed away, seeming to ride the shock
+#INFORMATION
+$C4wave of the exploding shuttle.
+  You have just freed your arms when over the Battle Armor communicator, Durandal remarks dryly: “That little computer always did have impeccable timing. I wonder if I should let the Aliens know that you aren’t just space debris? Hmmmnn...”
+  “You can’t do that! Damn you, computer!”
+  Durandal chuckles again, “Ah, lucky you. I've found a new distraction. I am going to play with the Alien virtual parasites. I’ll look you up when you arrive...” You can almost imagine the face of a wicked computer with its eyes wide and its lips folding out in a grotesque smile. A smile which reminds you of something from your past, but you can’t remember exactly what it is.
+  You breathe a sigh of relief, and begin to survey your situation. You are currently floating towards the midsection of the $IMarathon$i - near the docking bay section’s port side. You could get there faster, but if you use the Pod’s thruster, chances are that the Aliens will detect it and destroy you. So you sit back, check the Pod’s oxygen levels, and wait.
+  You’ve always been a daydreamer. Your mind has constantly filled the time between activities with imagination. Now, you fall into your old habit, and begin to daydream about your childhood on Mars, your father’s death when you were seven, and his last words to you, “Make
+#INFORMATION
+$C4me proud. Never lose your honor.” You come out of your dream twenty two minutes later. Judging it safe, you thrust over to one of the empty MP docking bays. You pull out your pistol, and pound the switch to open the door.
+  Oddly, this is familiar to you, as if it were from an old dream, but you can’t exactly remember...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           $C0                 $B $b $B $C5Teleport when ready.
+#LOGOFF 1631
+#INTRALEVEL TELEPORT 47
+#END
+#FINISHED
+#INFORMATION
+$C1$B
+
+
+
+
+
+
+
+
+
+                    *** WARNING terminal damaged ***
+                      *** Proceed with caution ***
+#INFORMATION
+$C4$B
+
+
+
+
+
+
+
+Q: How many Jjaro does it take to screw in a lightbulb? 
+A: Two. One to create the technology, the other to wait 9 million years for a sentient race to install it 
+-yd.
+
+
+
+
+
+
+
+
+
+                           $C0                  $b $B $C5Teleport when ready.
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1631
+#INFORMATION
+$C4Pfhor Battle Group Three, Central Arm, hung motionless above the dusty ball of rock that was Lh’owon, the second planet of a dim star ninety-seven light-years from the gravitational center of the Milky Way. The gigantic battleship, three smaller destroyers and twenty auxiliary craft had not left the system for nearly six years. They were not to be relieved for another two. 
+
+Lh’owon had once been a marsh world; now it was a nearly waterless desert. It had been populated, a thousand years ago, by a race of highly intelligent creatures who had already landed on their own moons and would soon have headed to other stars. Below, their cities stood empty and ruined. 
+
+In its glory years, Battle Group Three had been known throughout the Empire; decorated in every battle anyone remembered from the Wars of Imperium, for turning back the loyalists at Tahrm’s Gap and holding the approaches to the Pfhor homeworld itself during the slave revolt of the Nakh. 
+
+Undefeated in battle, it was finally politics that splintered Battle Group Three; by sending a few ships to suppress subservient races here, a few more to garrison the fringes of Pfhor influence there, the
+#INFORMATION
+$C4nobility had slowly broken the power of the old Navy. 
+
+What was left of Battle Group Three had been assigned to this dead world in the Galactic Core. To defend the system against a single enemy no one expected would ever arrive, and who had last been seen thousands of light-years away. 
+
+The tedium of blockade duty had destroyed morale and discipline. 
+
+In the dark between the orbits of the sixth and seventh planets, slightly above the ecliptic, a ship vanished, folding soundlessly in on itself in impossible ways. As the long craft twisted and faded in one place, it began simultaneously to appear in another. 
+
+The stolen ship had been in the system for days, keeping its distance from Lh’owon and the Pfhor fleet surrounding it; dodging among asteroids and moons, testing and measuring. Looking for something. Waiting. 
+
+Alarms sounded throughout Battle Group Three, screaming that a vessel had folded into existence less than thirty kilometers away from the battleship. Computer operators throughout the fleet stared in
+#INFORMATION
+$C4disbelief at their tactical screens; no ship could jump this close to a gravity source. For three seconds, no warning was passed, no word spoken, no action taken. 
+
+The invader erupted in a hundred thin lines of green fire, striking out toward the Pfhor ships, phasing through their shielding, destroying weapons or engines or communications gear. In seconds Battle Group Three had been disabled, and their ships began exploding. In two minutes only one ship remained among the debris in orbit above Lh’owon. 
+
+Down on the planet, as the orbital bombardment began, the Pfhor garrison was only just beginning to understand how hard their life would become over the next few days. 
+
+***
+
+I stared through the window of transparent metal alloy and out into space. For a moment I’d thought we were still at the colony, still on the alien ship in orbit around Tau Ceti. But there were too many stars here, and the sun was too red and the planet too big.
+#INFORMATION
+$C4The ship felt different, too. Cleaner, but older. The scars of the battle which had nearly consumed it had been erased. Most of them, anyway: I thought that I remembered firing the grenade which had buckled the armor plating in the hallway outside the room where I awoke. The dent was still there, if you looked close enough. Painted over and smoothed out, but still there. 
+
+When it turned out that Durandal had brought me here, instead of leaving me to be the hero on Tau Ceti like I deserved, I wasn’t surprised. Durandal was the rogue personality construct who had been the brains behind the defense of the colony ship $IMarathon$i. I’d been the brawn. Durandal had always been unpredictable, even when he was just opening doors and managing food processors three hundred years ago on Mars. Together we had fought off the Pfhor invasion of Tau Ceti. I don’t think a single one of the three-eyed creatures survived, but we’d taken their ship. 
+
+Now Durandal said that we were in the Galactic Core, thousands of light-years from Tau Ceti or Earth, and that seventeen years had passed since we left Tau Ceti. He had ignored my questions, mostly, telling me that I wouldn’t have wanted to stay on Tau Ceti anyway.
+#INFORMATION
+$C4Seventeen years in an alien stasis chamber, in a space a little too tall and too thin for human comfort, unconscious and dreamless within a few degrees of absolute zero. Seventeen years, while Durandal had raced about the galactic core in a stolen Pfhor attack ship. He’s probably right when he said those years were boring, but nobody asked me what I wanted. 
+
+Now he says there’s fighting to be done, and that I’ve got fifteen minutes to prepare for transport down to the planet. I guess I’ll figure things out as I go along. Just like last time.
+
+
+
+
+
+
+
+
+
+
+
+                           $C0                 $B $b $B $C5Teleport when ready.
+#LOGOFF 1631
+#INTRALEVEL TELEPORT 47
+#END
+#FINISHED
+#INFORMATION
+$C1$B
+
+
+
+
+
+
+
+
+
+                    *** WARNING terminal damaged ***
+                      *** Proceed with caution ***
+#INFORMATION
+$C4$B
+
+
+
+
+
+
+
+Q: How many Jjaro does it take to screw in a lightbulb? 
+A: Two. One to create the technology, the other to wait 9 million years for a sentient race to install it 
+-yd.
+
+
+
+
+
+
+
+
+
+                           $C0                  $b $B $C5Teleport when ready.
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 1631
+#INFORMATION
+$C4$BREPORT TO LH’OWON COMMAND$b
+
+<Transmission to Pfhor High Command>
+<From Tfear - Lh’owon High Command>
+
+The battle on Lh’owon had gone according to projections: that to trap Durandal and end the threat of Tau Ceti, we would, as we did with the Drinniol rebellion, be forced to use the $Itrih xeem$i. Forcing a star into early nova has proved most satisfactory at destroying what we could not control. 
+
+To a commander, the presence of things beyond one’s control leads directly to the conclusion that they must be destroyed. In the countless encounters of the Pfhor Naval Arm, there has never been an ultimate defeat. We have, through our supreme power and tactics, always prevailed. 
+
+All of this explains why as our Great Admiral, and with my own destruction now completely assured, I give you, High Council of Pfhor, warning that we have met our demise. Yet it comes not from threat of Tau Ceti as we feared, but from a being of such destructive power that to control it would be to control the universe.
+#INFORMATION
+$C4What follows is my briefing of the events here on Lh’owon leading up to the current situation: 
+
+The trap we set for Durandal went off as planned. We tricked him into believing that we were weeks away from Lh’owon while, in fact, we were hiding in the outer Lh’owon system. We waited quietly while Durandal dispatched the garrison fleet’s picket ships, and we used the data from this battle to discover some of the modifications that Durandal had made to our captured scoutship. 
+
+When we sprung our trap, it appeared at first that our quarry had expected it, but we adapted our positions, surrounded, and disabled his ship with acceptable losses. We caused his retreat to a heretofore undetected station located in an asteroid field on the fringe of the Lh’owon system. (Of course, according to protocol, the appropriate officers were notified and executed). 
+
+Although he evaded destruction, he was nonetheless trapped. This contingency was taken into account in the overall battle strategy. The battle plan was proceeding according to acceptable parameters. 
+
+I ordered the deployment of the $Itrih xeem$i.
+#INFORMATION
+$C4Almost immediately, our enemy then began transmitting ridiculous warnings concerning some sort of ancient chaotic being trapped deep in the Lh’owon sun. Of course, at this point mercy was unacceptable. The time to end the collective dream of the S’pht had come. 
+
+I ordered the fleet to retreat to a safe distance, and waited for my moment of glory. What happened next is the reason for my warning at the beginning of this report and the destruction of the Western Arm of Pfhor Battle Group Seven. 
+
+The nova went off on time and for a moment our simple victory was assured. But then, in a pathetic failure of discipline, the fleet’s ranks broke in an all-out retreat. All quarters reported the same thing: half of the sun had gone nova, but the readings from the other half were impossible. It was as if the universe had forgotten its own rules. 
+
+I can’t tell you what’s going on now, I can only hope that this message reaches you through whatever is surrounding us. I gave the fleet general order “Attack at will” but none of our weapons seem to affect whatever we’re firing at. This battleship has only seconds of integrity left, and I have no more information except for Durandal’s
+#INFORMATION
+$C4warning: 
+
+“On the $IMarathon$i, I saw your stupidity through the lens of victory. And now I see it in defeat. Maybe it is fate that your ignorant pride would unleash this horror and destroy the galaxy.”
+
+<END TRANSMISSION>
+<TRANSMISSION ACCEPTED>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           $C0                 $B $b $B $C5Teleport when ready.
+#LOGOFF 1631
+#INTRALEVEL TELEPORT 47
+#END
+#FINISHED
+#INFORMATION
+$C1$B
+
+
+
+
+
+
+
+
+
+                    *** WARNING terminal damaged ***
+                      *** Proceed with caution ***
+#INFORMATION
+$C4$B
+
+
+
+
+
+
+
+Q: How many Jjaro does it take to screw in a lightbulb? 
+A: Two. One to create the technology, the other to wait 9 million years for a sentient race to install it 
+-yd.
+
+
+
+
+
+
+
+
+
+                           $C0                  $b $B $C5Teleport when ready.
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 1601
+#PICT 1603
+
+
+
+
+
+
+There once was an alien race,
+With three eyes arranged on their face.
+We fed them some spiel,
+And reneged on the deal,
+And blew them away into space.
+
+-- Gemini B, Subsystem 7
+
+
+DTB WELCOMES YUO!!!11
+#LOGOFF 1601
+#END
+#FINISHED
+#LOGON 1600
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 9

@@ -1,0 +1,229 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+#PICT 1612
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1609
+#PICT 1613
+#LOGOFF 1647
+#INTRALEVEL TELEPORT 291
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1609
+jump.terminal.507
+#PICT 1612
+$BTeleport when ready.
+#LOGOFF 1609
+jump.terminal.507
+#INTRALEVEL TELEPORT 46
+#END
+#FINISHED
+#LOGON 1609
+#PICT 1614
+#$bduality: Chad_ @ydnar
+***  #$bduality :End of /NAMES list.
+***  Mode is +stn
+     ydnar: Bueno.
+     Chad_: No prob. Greg kept pinging out.
+     ydnar: ::nod:: Keeps MacIRC open most
+            of the day, but runs stuff that
+            kills the connection.
+     Chad_: Oh yeah, I was meaning to ask.
+            What does Eight Nineteen [the
+            secret level] mean?
+     ydnar: HS doesn’t know already?
+     Chad_: I don’t know. I was curious
+            myself, I didn’t ask.
+     ydnar: That’s all I’m going to say. :)
+     Chad_: C’mon, throw me a bone :)
+     ydnar: I did. A big fat clue.
+            Chad_ deep in thought
+     ydnar: Who would I tip my hat to with
+            such a fiendish easter egg?
+     Chad_: Bungie?
+     ydnar: pshaw
+     Chad_: Where’s Hamish when I need him!
+     ydnar: You’re thinking too hard. :)
+     Chad_: Could it be a date? August 19?
+     ydnar: Hamish knows, I think. He has
+            to. He just hasn’t let on yet.
+     Chad_: I don’t think so. He trusts me,
+            and is pretty straight up. He
+            trusted me with your picture.
+     ydnar: Heh. Why would I go out the
+            trouble to spell the numbers?
+     Chad_: Anagram?
+     ydnar: What are the numbers?
+     Chad_: 819
+     ydnar: Yeah. I could’ve written “Hats
+            Off to 819” but I didn’t.
+     Chad_: What am I missing? (It’s easy
+            ’cause you know it.) ;)
+     ydnar: That could be interpreted any
+            number of ways. 8-19, 81-9...
+     Chad_: Does this have something you’ve
+            previously told the player in
+            Infinity?
+     ydnar: The title has nothing to do
+            with the plot.
+     Chad_: So it’s totally independent of
+            Marathon? Haven’t you used 819
+            before?
+     ydnar: Eight and nineteen each stand
+            for something. Not independent
+            of Marathon, just of the plot.
+     Chad_: Eight for double aught ,,,
+            sideways..
+     ydnar: Don’t think so hard.
+     Chad_: But you spelled it out.
+     ydnar: It’s not that complicated.
+     Chad_: I’m making this harder than it
+            is, huh?
+     ydnar: Yup. I’m really surprised no
+            one’s gotten it yet.
+     Chad_: I’ve heard other people talking
+            about it. I don’t think anyone
+            knows.
+     ydnar: Well, I’m checking the “What’s
+            in a Name?” page.
+     Chad_: Do upper and lower case have
+            anything to do with it?
+     ydnar: No, tho 819 should be uppercase
+     Chad_: All uppercase?
+     ydnar: Yeah, but you can’t make
+            numbers uppercase.
+     Chad_: Type it out how you had it in
+            the level.
+     ydnar: Hats Off to Eight Nineteen
+     Chad_: Is it something everyone should
+            know or an obscure reference?
+     ydnar: The former.
+     Chad_: HOEN.
+     ydnar: You’re pretty close.
+     Chad_: No T, right?
+     ydnar: No OEN either. Just an H. But
+            that H doesn’t come from Hats.
+     Chad_: Am I hot or cold?
+     ydnar: You’re warm.
+     Chad_: There’s only one other H, in
+            eight.
+     ydnar: Correct.
+     Chad_: Is that relevant?
+     ydnar: It’s very relevant. how else
+            can you get H out of Eight?
+     ydnar: I’ll bbias. gotta get some
+            breakfast.
+     Chad_: OK, I’ll be pondering...
+     Chad_: This is going to be one of
+            those things I kick myself for
+#$bduality: Chad_ @ydnar 
+***  #$bduality :End of /NAMES list.
+***  Signoff: ydnar (Ping timeout)
+***  ydnar (ydnar@ppp106.cs.com) has joined channel #$bduality
+     Chad_: You back?
+     ydnar: Yah
+     Chad_: Yeah well I got no hair left.
+     Chad_: Pulled the shit out
+     Chad_: There’s little pieces of paper
+            all around my office with eight
+            nineteen on it
+     ydnar: Heh
+     ydnar: No letters?
+     Chad_: Not yet... I’ve gone through
+            everything I can think of. The
+            only thing is I don’t know the
+            original reference. You
+            mentioned letters. I assume
+            you’re talking about specific
+            ones in a certain order, right?
+     ydnar: Yep.
+***  Godot (hsinclir@smd022.smd.tcd.ie) has joined channel #$bduality
+     Chad_: Welcome.
+     Godot: What is this place?
+     ydnar: the place that will be on
+            everyone’s lips.
+     Chad_: Hey, I only told Hamish.
+     Godot: Greetings Randy & Chad. Oddly,
+            this is familar to me, as if it
+            were were from an old dream…
+     ydnar: I’m shocked, honestly.
+     Chad_: Good shock or bad shock?
+     Godot: I have arrived and it will
+            never be the same again ;-)
+     Chad_: We were talking about letters.
+            Certain letters, especially H.
+            What’s so special about H?
+     Godot: H is for Hamish
+     ydnar: ::chuckle::
+     Chad_: That’s it, you named it after
+            Hamish
+     Godot: I doubt it
+            Chad_ looking confused
+     ydnar: hehe
+     ydnar: Unless I totally screwed up...
+     ydnar: What’s nineteen?
+     Godot: Now that’s a thought
+     Chad_: Elaborate, ydnar
+     Godot: Nineteen the average age of
+            Vietnam US troops
+     ydnar: Heh
+     Chad_: But it’s got something to do
+            with Marathon
+     ydnar: Well, someone in this room is
+            19, but that has nothing to do
+            with it.
+     Godot: You know what you wouldn’t get
+            much work done with IRC around
+     Chad_: 1+9=10
+     ydnar: never seen you on irc before,
+            hamish.
+     Godot: Never been on before...
+     ydnar: ::nod:: What’s this I hear
+            about you giving out pictures?
+     Godot: Pictures? What pictures? Never
+            seen any… Don’t know nuthin…
+            You should check your server at
+            odsnet though… Cobwebs
+     ydnar: Lots of cobwebs.
+     Chad_: I found it at
+               www.elvis.is.dead.com
+     ydnar: How many letters are there in
+            the english alphabet? hehe
+     Chad_: 26
+     Godot: The US or the UK?
+     ydnar: ::shrug::
+     Chad_: HS. They’re letters. Right?
+     ydnar: :)
+     Chad_: Did you really name it after
+            Hamish? Or coincidence?
+     ydnar: Do you have any idea how much
+            trouble it was to even make
+            that easter egg? coincidence 
+            had nothing to do with it. <g>
+     Chad_: Yeah, but the letters HS stand
+            for something. Hats off to
+            Hamish Sinclair?
+$Bteleport when ready.
+#LOGOFF 1609
+#INTRALEVEL TELEPORT 46
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#FINISHED
+#LOGON 1600
+#PICT 1611
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 36
+#END
+#UNFINISHED
+#LOGON 1600
+#PICT 1612
+$B$C5DTB WELCOMES YOU!
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 36
+#ENDTERMINAL 2

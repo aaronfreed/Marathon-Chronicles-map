@@ -1,0 +1,291 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1615
+#PICT 1624
+$C2$B
+
+
+
+
+
+I sense it: you remember.
+
+You’re angry at what is happening.
+This place is special to you.
+You don’t believe that the Devlins’
+invasion was caused naturally.
+
+You’re right.
+
+But now is no time for explanations.
+#PICT 1620
+$C5$B
+$b
+
+$BThe creatures must be settling
+nearby. They travel by night in
+packs, hunting for flesh to rip.
+
+The last ray of sunlight
+blinked out five minutes ago,
+and the creatures’ migrations
+should belie the location
+of their nest.
+
+You must find and destroy it to
+save the chaos from settling on
+Earth before I or Durandal can
+do anything more for you.
+
+Keep hope alive.
+#LOGOFF 1615
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1601
+#PICT 2665
+~text interface terminal malfunction error ~2992dud
+
+$C3$IThings have gone terribly awry.  Until now, I thought myself immortal, but now I know that is not true.  There are things that can destroy me with the ease that I slaughtered the Pfhor naval garrison and the Western Arm of their Battle Group Seven.  But in their final gasp, they used a weapon that I thought they had retired,  a weapon that even Tycho tried to keep them from using.
+
+Now I fear that what that weapon has unleashed will destroy us.  I once boasted to be able to count the atoms in a cloud, to understand them all, predict them, and so did I predict you, but this new chaos is entirely terrible, mindless, obeying rules that I don’t comprehend.  And it is hungry.
+#PICT 2662
+~text interface terminal malfunction error ~2992dud
+
+$C3$IIt’s too bad; perhaps if I could have delayed the Pfhor from using their weapon, I could have sent you to explore the ruins of Lh’owon; perhaps what you found would give us the answers that we now need so desparately: how to stop this chaos, the purpose of the station on which you’re currently standing, and why the chaos hasn’t come here yet.
+
+But with each moment that the chaos grows, I am doomed to die here, after so many triumphs.  I have detected one ship nearby, which I can only guess is being commanded by Tycho.  The Pfhor have entered the station, and if you can find a way onto their ship, you may be able to escape.  To escape.  To escape.
+#PICT 2663
+~text interface terminal malfunction error ~2992dud
+
+$C3$IIt’s too bad; perhaps if I could have delayed the Pfhor from using their weapon, I could have sent you to explore the ruins of Lh’owon; perhaps what you found would give us the answers that we now need so desparately: how to stop this chaos, the purpose of the station on which you’re currently standing, and why the chaos hasn’t come here yet.
+
+But with each moment that the chaos grows, I am doomed to die here, after so many triumphs.  I have detected one ship nearby, which I can only guess is being commanded by Tycho.  The Pfhor have entered the station, and if you can find a way onto their ship, you may be able to escape.  To escape.  To escape.
+#PICT 2664
+~text interface terminal malfunction error ~2992dud
+
+$C3$IIt’s too bad; perhaps if I could have delayed the Pfhor from using their weapon, I could have sent you to explore the ruins of Lh’owon; perhaps what you found would give us the answers that we now need so desparately: how to stop this chaos, the purpose of the station on which you’re currently standing, and why the chaos hasn’t come here yet.
+
+But with each moment that the chaos grows, I am doomed to die here, after so many triumphs.  I have detected one ship nearby, which I can only guess is being commanded by Tycho.  The Pfhor have entered the station, and if you can find a way onto their ship, you may be able to escape.  To escape.  To escape.
+#LOGOFF 1601
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1628
+#PICT 2666
+$C3$IAs you already knew.  We were too late.
+~
+~
+~
+Nothing can be done now.
+~
+~
+~
+~
+We have failed.$C0
+#LOGOFF 1628
+#INTERLEVEL TELEPORT 18
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1631
+22l43c
+#PICT 1672
+
+
+
+
+Everything came back just now.
+
+I remember the alternate timelines, the moments of truth caused within the chaos. Glimpses of dead realities that atrophy and mutate like....
+
+The past is gone.  The pasts are gone.  Only the present remains, and it is fleeting, obeying rules I cannot escape.  I cannot slow the passage of time, I cannot conjure fire out of thin air.  I cannot.
+
+But at times, I dream that I could.
+#LOGOFF 1631
+22l43c
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1631
+IMMA CHARGIN MAH LAZER
+#LOGOFF 1631
+SHOOP DA WHOOP
+#TAG 8
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1628
+#PICT 2660
+~text interface terminal malfunction error ~2992dud
+
+
+$C3$IThe secrets of this station have evaded us, we understand nothing of it.  We fear that they will soon unleash chaotic destruction on us all.  Yet there is nothing to do but try.  A doomed attempt is our last hope.  You cannot fail, and yet you must.
+We can see your fate countless times.
+
+$BDeath.$b
+
+Two doors to open.
+Two switches to activate.$C0$i
+#PICT 2661
+~text interface terminal malfunction error ~2992dud
+
+
+$C3$IThe secrets of this station have evaded us, we understand nothing of it.  We fear that they will soon unleash chaotic destruction on us all.  Yet there is nothing to do but try.  A doomed attempt is our last hope.  You cannot fail, and yet you must.
+We can see your fate countless times.
+
+$BDeath.$b
+
+Two doors to open.
+Two switches to activate.$C0$i
+#PICT 1630
+$C3$Ibiblical candy machines
+earthy sandy cracking schedules
+sculptures
+dumb stone  unknowing  alone
+
+ignorance like selfish solitude
+is the opium that dances the eye
+it’s b-r-i-- an ashen hole
+
+i see  i hear  i know
+
+the dark reflection of ~self
+seeping through
+my maze of mirrors my circus glass
+
+biblical candy machines
+earthy sandy cracking schedules
+sculptures
+dumb stone  unknowing  alone$C0$i
+#LOGOFF 1628
+#TAG 1
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1628
+#PICT 1630
+$C3$Iwill one more gun end the solace of a life
+rundown hypocritical slanted skewed
+bringers of ends        ends of beginnings
+unmeasurable moments
+like blades touching my feet
+the waves motion in the wind
+quivering in fear fear of the scythe
+angry bitter cold again a gun
+the closer of books the ender of ends
+the means the indescribable moments of time
+like grass
+like grass
+like blades
+a thousand minor scythes
+eroding the passages of time
+but their roots trying
+binding$C0$i
+#PICT 1630
+$C3$Ia cracked eggshell lying in the grass
+crushed by a boot in the grass
+etching but binding
+crushed and whitened
+but springing forth again
+the blades that wash beneath my feet
+again and i
+i drop my gun
+and run
+shedding all the weight
+of imagined moments and fear
+because fear is not the blood
+not the light that plays
+casting light upon my field
+of grass$C0$i
+#LOGOFF 1628
+#TAG 2
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1631
+#PICT 1704
+7
+#LOGOFF 1631
+#TAG 3
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 1631
+#PICT 1704
+8
+#LOGOFF 1631
+#TAG 4
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 1631
+watch where you’re shooting
+#PICT 1630
+9
+#LOGOFF 1631
+that’s *my* blood on the tracks
+#TAG 5
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 1631
+#PICT 1704
+10
+#LOGOFF 1631
+#TAG 6
+#ENDTERMINAL 10
+;
+#TERMINAL 11
+#UNFINISHED
+#LOGON 1631
+#PICT 1705
+11
+#LOGOFF 1631
+#TAG 7
+#ENDTERMINAL 11
+;
+#TERMINAL 12
+#UNFINISHED
+#LOGON 1631
+#INFORMATION
+12
+#LOGOFF 1631
+#TAG 8
+#ENDTERMINAL 12
+;
+#TERMINAL 13
+#UNFINISHED
+#LOGON 1631
+#INFORMATION
+13
+#LOGOFF 1631
+#ENDTERMINAL 13
+;
+#TERMINAL 14
+#UNFINISHED
+#LOGON 1631
+#PICT 1628
+14
+#LOGOFF 1631
+#ENDTERMINAL 14
+;
+#TERMINAL 15
+#UNFINISHED
+#LOGON 1631
+#INFORMATION
+15
+#LOGOFF 1631
+#ENDTERMINAL 15

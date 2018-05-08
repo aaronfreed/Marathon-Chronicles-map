@@ -1,0 +1,204 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1648
+#PICT 1665
+$C2Directive 86t3.2ra
+origin: $C6Pfhor Garrison Command Lhwefsonna$C2
+destin: $C6$IRrahlran$i ship engineers$C2
+ref: $C6flood in engineering$C2
+stamp: $ISalvage
+
+$iEngineering units ordered to salvage data
+
+$C6~terminal text interface malfunction error~
+$C4–––––––––––––––––$I––$B$i>$b $C7[remote override]$C0
+
+You are still in the Engineering hull of the Pfhor flagship $IRrahlran$i.  This section is partially outdated, and doubles as a storage area, but the critical power-coolant fluid is largely stored within this area, allowing the entire ship to run on naturally generated electricity.
+
+
+
+
+$C2Directive 86t3.2ra
+origin: $C6Pfhor Garrison Command Lhwefsonna$C2
+destin: $C6$IRrahlran$i ship engineers$C2
+ref: $C6flood in engineering$C2
+stamp: $ISalvage
+
+$iEngineering units ordered to salvage data
+
+$C6~terminal text interface malfunction error~
+$C4–––––––––––––––––$I––$B$i>$b $C7[remote override]$C0
+
+Your flood of half of Engineering has put a strain on much of the machinery on the region, and as a result, many switches and doors do not operate properly.  Let’s call this floor floor 4; from the schematics I have access to, the door you need to go through is on floor 3, and its controller is on floor 2. Tragically, much of the local circuitry is malfunctioning, and if a switch’s override controllers have been zapped you’ll have to find the overrides
+$C2Directive 86t3.2ra
+origin: $C6Pfhor Garrison Command Lhwefsonna$C2
+destin: $C6$IRrahlran$i ship engineers$C2
+ref: $C6flood in engineering$C2
+stamp: $ISalvage
+
+$iEngineering units ordered to salvage data
+
+$C6~terminal text interface malfunction error~
+$C4–––––––––––––––––$I––$B$i>$b $C7[remote override]$C0
+
+and reset them.
+
+There is unfortunately no surefire way to do this except trial and error. Usually, the override will be close to the switch, but unfortunately this is not a universal rule. You’ll simply have to be patient.
+
+
+
+
+$C2Directive 86t3.2ra
+origin: $C6Pfhor Garrison Command Lhwefsonna$C2
+destin: $C6$IRrahlran$i ship engineers$C2
+ref: $C6flood in engineering$C2
+stamp: $ISalvage
+
+$iEngineering units ordered to salvage data
+
+$C6~terminal text interface malfunction error~
+$C4–––––––––––––––––$I––$B$i>$b $C7[remote override]$C0
+
+Pfhor ships are usually powered by parallel chambers of molten Pfhor sludge. The efficiency of this process apparently has something to do with its ubiquity. I’m sending you exploring the area so we can look for a weakness in their power system. When you’re done, return here so I can give you further instructions.
+
+Have fun.
+$C3/-durandal.out-/$C4–$I––$B$i>$b $C7[end override]$C0
+#LOGOFF 1648
+#END
+#FINISHED
+#LOGON 1649
+#PICT 1663
+$C2Directive 86t3.2rf
+origin: $C6Pfhor Garrison Command Lhwefsonna$C2
+destin: $C6$IRrahlran$i ship engineers$C2
+ref: $C6intruder in engineering$C2
+stamp: $IAlarum
+
+$iEngineering units ordered to protect section from rogue alien conditioned unit
+$C6~terminal text interface malfunction error~
+$C4–––––––––––––––––$I––$B$i>$b $C7[remote override]$C0
+
+Unfortunately, it wasn’t as possible for you to get through to the central power station as I had hoped it would be. You’ll have to find another route of access.
+
+I’ve hacked into the ship and opened a door down to another storage region, opposite the door on Floor Three which you followed on your espionage mission. Jump down the rabbit-hole and I’ll contact you again. We’re going to do some espionage.
+#LOGOFF 1649
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1649
+#PICT 1664
+$C6$B—————>$C2remote override$C0$b
+
+In this room are seven uplink insertion slots.  One of them will allow you to go on with your mission.  The other six will trap you and flood this room with slime.  (Lovely, isn’t it?)
+
+Each switch, including the good one, disables this terminal and the pattern buffer, so it would be prudent to make use of the latter whilst it’s still possible to do so.  Furthermore, once you leave this area, you will not be able to return; a forcefield will seal this region off.  The mechanics of this forcefield are beside the point.
+#PICT 1664
+$C6$B—————>$C2remote override$C0$b
+
+The point is, I have sent you only one uplink chip, because six of those switches should obviously be left untouched. The correct one is in the centre. Be careful not to insert the chip into any of the others.
+
+/-durandal.out-/
+$C5$B
+$C6—————>$C2end override
+#LOGOFF 1649
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1649
+#PICT 1663
+$C2Directive 86t3.2rf
+origin: $C6Pfhor Garrison Command Lhwefsonna$C2
+destin: $C6$IRrahlran$i ship engineers$C2
+ref: $C6intruder in engineering$C2
+stamp: $IAlarum
+
+$iEngineering units ordered to protect section from rogue alien conditioned unit
+$C6~terminal text interface malfunction error~
+$C4–––––––––––––––––$I––$B$i>$b $C7[remote override]$C0
+
+Unfortunately, it wasn’t as possible for you to get through to the central power station as I had hoped it would be. You’ll have to find another route of access.
+
+I’ve hacked into the ship and opened a door down to another storage region, opposite the door on Floor Three which you followed on your espionage mission. Jump down the rabbit-hole and I’ll contact you again. We’re going to do some espionage.
+#LOGOFF 1649
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1649
+#PICT 1655
+$C2
+
+
+
+
+
+
+
+
+Sluice Command 3 Lockout 286
+
+Error: improper identification.
+Access denied...
+#LOGOFF 1649
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1649
+#PICT 1655
+$C2
+
+
+
+
+
+
+
+
+
+Found engineer access key 4872b.
+You may proceed.
+#LOGOFF 1601
+#TAG 1
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1649
+#PICT 1658
+How fortunate that the $IRrhalhran$i’s chief engineer kept his access key in plain sight within his room.  Normally, Tahrl does not welcome unexpected visitors during his daytime breaks and keeps his door locked, but I hacked into the network and unlocked it for you.  If you recall, I used to open doors for a living several centuries ago.
+
+Right now, you’re going to have to go down to the central engineering compartment and trigger a flood of molten Pfhor goo. You can use Tahrl’s access chip to open the first of two sets of smashable wires, then you can trigger access to the second set by smashing the first. Smash the second, and you can briefly watch the goo flooding out of its normal, stationary position before it covers the entire ship.
+
+You’ll most likely want to leave in a hurry, as the flood will trigger a core breach and scatter the atoms of this ship across the farthest reaches of the galaxy.  You’ll probably also want to leave the door in its down position, as a flood will probably destroy the operant machinery and leave you without an exit. The flood will coincide with the breakdown of nearly all this ship’s systems. I’ll try to keep one of the terminals in this room operant; if I can’t, you’ll simply be lifted out from this room when you’ve compromised the $IRrahlran$i’s hull integrity, as there is a clear view which will be made even clearer by the breakdown of the $IRrahlran$i’s electronic security systems.
+
+The Pfhor machinery will not recognise you as human, but the Pfhor will, so be prepared to fight.
+
+                           /-durandal.out-/
+#LOGOFF 1649
+#END
+#FINISHED
+#LOGON 1649
+#PICT 1657
+$C6–––––––––$B$I—————$i>$C2remote override$C0$b
+
+Your work has paid off; this ship is about to become a fine layer of plasma, molten steel, and carbonated Pfhor soot spread across the farthest reaches of the Andromeda galaxy.  The Pfhor morale is crushed and their flagship is almost gone. But I need you to return to the $IRozinante$i quickly; a new crisis has arrived. Congratulations and further explanations can both wait until you’re at a minimum safe distance.$C5$B
+
+Teleport now.$C0$b             $C6/-durandal.out-/$C0
+$C6–––––––––$B$I—————$i>$C2end override
+#LOGOFF 1649
+#INTERLEVEL TELEPORT 16
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1649
+#PICT 1659
+You’re in a central storage compartment that doubles as a communications centre for engineers on this ship.
+
+Read the transmissions and come back here when you’re finished.  Hopefully, one will have the information I need.
+#LOGOFF 1649
+#ENDTERMINAL 6

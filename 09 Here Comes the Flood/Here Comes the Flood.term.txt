@@ -1,0 +1,49 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+#PICT 1606
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1600
+#PICT 1606
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 10
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+#PICT 1606
+
+
+
+
+
+If we’re going to have any hope of driving the Pfhor away from Earth, we must stir commotion within their ranks. Sinking them under fourteen metres of sludge and debris should do the trick.
+
+The ancient Italians had a similar idea for dealing with invaders, as it turns out, and unfortunately I can’t get the $IRozinante$i to work its magic from on high, which is why I’ve teleported you down here.
+#PICT 1606
+
+There is a complicated network of switches in the region that will activate a complicated series of pathways that will eventually lead you to the flood controls. Summarising the pattern that will lead you to these controls would probably take me longer than it would take you to reach them, so I won’t. You’re probably safe just punching everything in sight.
+
+Causing a flood will likely disable this terminal, as it is fairly antiquated and this particular location has been abandoned since the twenty-first century. Some urban legend about ghosts. You’ll need to find another one if you hope to get out. I’ll contact you again when you find a promising terminal.
+
+/-durandal.out-/
+#LOGOFF 1600
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+#PICT 1606
+#LOGOFF 1600
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+#PICT 1606
+#LOGOFF 1600
+#ENDTERMINAL 3

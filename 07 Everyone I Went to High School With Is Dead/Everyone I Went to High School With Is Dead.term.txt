@@ -1,0 +1,928 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+#PICT 1604
+
+
+
+
+You’re at Pine View School for the Gifted in Sarasota, Florida.  Evidently, the Pfhor  wanted to rid humanity of its best and brightest minds of the future. However, their research must not have been particularly thorough, because they’ve taken the liberty of attacking it on a school holiday.
+
+I have yet to determine what strategic interest they think attacking Pine View serves.  Perhaps they believe attacking Bernhard’s old high school will help them avenge Battle Group Seven.
+#PICT 1604
+
+
+At any rate, their invasion has been uncharacteristically coordinated, and they appear to be using Pine View as their base of communications on Earth. I think you’ve known me long enough to know what I want you to do.
+
+By the way, I’ll be sending some of my S’pht in to help with the fighting.  They’re coloured differently from the enslaved S’pht (blue and green, specifically), so you should be able to tell them apart. I know it’s your idiom to attack everything that moves, but please refrain from attacking them.
+
+I’ll contact you again when you’ve found this school’s computer lab. Good luck.
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1688
+#INFORMATION
+Newsgroups: comp.sys.mac.games
+From: swashin@eis.calstate.edu (Steve Washington)
+Subject: void MarathonMessage(void)
+Date: 17 Nov 1994 10:23:03 -0800
+
+void MarathonMessage(void) /* sends daily message to csmg newsgroup */
+{
+  FILE *fp;
+  
+  fp = fopen( "mar.txt", "w" );
+  fprintf(fp, "I called Bungie today. I talked to a guy who ");
+  fprintf(fp, "sounds like he knows whats up.  He said that ");
+  fprintf(fp, "the demo will be here %s night, or %s at the ");
+  fprintf(fp, "latest.\n", Tommorrow(), DayAftTom());
+  fprintf(fp, "Boy-o-boy!\n");
+  fclose( fp );
+  send_news( "Marathon Tomorrow!", comp.sys.mac.games, "mar.txt" );
+}
+
+/* Hate mail to swashin@eis.calstate.edu */
+--
+
+Newsgroups: comp.sys.mac.games
+From: john.hirsch@mixcom.com (John Hirsch)
+Subject: Re: Marathon Demo Today For Sure
+Date: Fri, 18 Nov 1994 11:50:01 GMT
+
+Robert Alan Danforth <rd2b+@andrew.cmu.edu> wrote:
+
+>>dcorsi@orion.it.luc.edu (David O. Corsi) writes:
+>> 
+>>>If it's up on AOL today when do ya all think it will be on sumex?
+>>>I wish I had kept my free intro membership disk for AOL.
+>> 
+>>I have a nice quick T1 connection to AOL and the Internet so as soon
+>>as it is posted on AOL, I will grab it and post it wherever the
+>>consensus thinks would be fastest site to check it and release it.
+>> 
+>>Any suggestions?
+>> 
+>How about comp.binaries.mac??
+
+How about alt-folklore-urban??
+
+Newsgroups: comp.sys.mac.games
+From: thomas@pacific.urbana.mcd.mot.com (Tim Thomas)
+Subject: Re: Marathon Bug Fixes from Bungie
+Date: 8 Dec 1994 17:22:13 GMT
+
+trentmd@stu.beloit.edu (Michael Trent) writes:
+
+> bungie1@aol.com (BUNGIE1) wrote:
+
+>> launch the game, it will default to Keyboard. This is a bug that
+>> will be fixed.  (You can tell how much our beta tester used mouse
+>> control)
+
+>DUH! That's what's taking Bungie so damned long! They only have _ONE_
+>beta tester!
+
+That's because they've shot all the other ones:
+    "Tester 1, you leaked the Beta!"   <Blam!>  "Aahhhhhhh!"
+    "Tester 2, you leaked the Gamma!"  <Blam!>  "Aahhhhhhh!"
+    "Tester 3, ....  Hey!  Come back here!" :-)
+
+
+Newsgroups: comp.sys.mac.games
+From: thomas@pacific.urbana.mcd.mot.com (Tim Thomas)
+Subject: Re: Marathon Bug Fixes from Bungie
+Date: 8 Dec 1994 17:22:13 GMT
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Tim Thomas
+thomas@urbana.mcd.mot.com
+
+In order to prevent network flames this message has been carefully
+checked with a spell cheeker.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-)
+
+
+
+
+
+
+
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: bungie1@aol.com (BUNGIE1)
+Subject: Bungie's Apology
+Date: 24 Nov 1994 00:15:40 GMT
+Xdisclaimer: No attempt was made to authenticate the sender's name.
+
+After endless delays due to massive debugging, we are sorry to state that the Marathon Demo has been canceled.  Due to your endless begging, bickering, and bullshit, several of our programmers have worked 20 hour shifts to resolve programming problems to appease the Macintosh gaming public.  As a result, several of our programming staff have undergone tramatic stress breakdown.  They are now recooperating, under doctor's orders, and will resume programming and debugging in mid-December.  We all express great regret to announce the climatic cancelation of the Marathon Demo.  However, this must be done in order to alleviate the tremendous stress-load of our hardworking, dedicated programmers.  This was a difficult decision to make but remember you brought this on to yourselves.  On the other hand, the full Marathon game will be expected to release no later than January 30, 1995.  This full version will be by far superior to the Demo.s
+
+Newsgroups: comp.sys.mac.games
+From: koesel@engin.umich.edu (Mark Koesel)
+Subject: Re: How do I get a demo or beta of Marathon?
+Date: 8 Nov 1994 23:47:54 GMT
+
+Christian Handsack <handsack@omnifest.uwm.edu> wrote:
+
+>I have heard some talk of a beta version and demo of Marathon. If
+>there is one could someone tell me where it is. I would be greatly
+>appreacitive.
+
+It comes on the Sys7.5 CD.  It's in a folder called 'Illegal Stuff'.
+       __
+    __/\_\ Mark G. Koesel - koesel@engin.umich.edu
+ __/\_\/_/ Computer Engineering - University of Michigan, Ann Arbor
+/\_\/_/\_\ 
+\/_/\_\/_/  
+   \/_/\_\ Instruction Set <Computer> Personal Computer...  err,   
+      \/_/ something like that. 
+
+
+
+Newsgroups: comp.sys.mac.games
+From: ez023826@bullwinkle.ucdavis.edu (!!Norm!!)
+Subject: Re: GAMMA MARATHON
+Date: 12 Nov 1994 02:51:03 GMT
+
+Justin Johnson (johnson@macline.com) wrote:
+
+:Does anyone know where Marathon GAMMA is on the Internet?
+:
+:*********************************************************************
+:Mac Line BBS: (608) 233-9487 - A FirstClass System in Madison, WI USA
+:*********************************************************************
+
+127.0.0.1
+
+
+
+
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: meggs@virginia.edu (Andrew Meggs)
+Subject: Re: How to get MARATHON beta legally
+Date: Tue, 1 Nov 1994 18:23:47 GMT
+
+tuncer@mcs.com (Tuncer Deniz) wrote:
+> 
+> The Marathon demo will have network play.
+> 
+> Tuncer
+>
+
+You mean the demo that came out yesterday, right?
+
+-- 
+______________________________________________________________________
+andrew meggs                                    i got no problems, man
+meggs@virginia.edu                                   i live in TV land
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: tfinley@en.com (Tom Finley)
+Subject: Re: Marathon Crisis day number?
+Date: 21 Nov 1994 20:57:39 -0500
+
+Stevo (smazer@gpu.srv.ulberta.ca) wrote:
+:What day is it in the Marathon Crisis? When was the first date that
+:they said that it was "definitely" going to be released? Wasn't it
+:two weeks after Macworld in August? So what does that make it? If we
+:count day 1 as being September 1, 1994, that would make this Day 82
+:in the Marathon Crisis. Does anybody have a closer guess?
+
+August 23 was when they said it would definatly be out.  So that's... 90 days since the Marathon crisis started.  On the end of the month we should pray, since it'll be 100 days since the crisis began.
+-- 
+                                        Tom Finley
+                                          tfinley@en.com
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: tuncer@mcs.com (Tuncer Deniz)
+Subject: Marathon Demo coming Wednesday!
+Date: Tue, 22 Nov 1994 21:59:07 -0600
+
+Just got off the phone with Jason, lead programmer at Bungie. Tomorrow
+night the demo will be posted on AOL, eWorld, CompuServe, and of course,
+the Internet.
+
+Please don't e-mail me, I don't have it.
+
+Tuncer
+
+
+
+
+
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: johnsonr@hoshi.Colorado.EDU (Richard Johnson)
+Subject: Re: Marathon Demo coming Wednesday!
+Date: 23 Nov 1994 08:00:08 GMT
+
+Tuncer Deniz (tuncer@mcs.com) wrote:
+>Just got off the phone with Jason, lead programmer at Bungie.
+>Tomorrow night the demo will be posted on AOL, eWorld, CompuServe,
+>and of course, the Internet.
+
+Hahahaha.  Fool me once, shame on you.  Fool me twice, shame on me.  Tell Jason and Doug that I don't believe them.  Too much 'wolf', not enough herding.  :)
+
+Rich
+
+--
+Loudyellnet: Richard Johnson | Sneakernet: ECNT1-6, CB 429, CU Boulder
+Phonenet:    +1.303.492.0590 | Internet:   Richard.Johnson@Colorado.EDU
+   RIPEM and PGP public keys available by server, finger or request
+   Speaker to avalanche dragons.   Do you really think they listen?
+Newsgroups: comp.sys.mac.games
+From: hyongel@merle.acns.nwu.edu (Hyong Lee)
+Subject: Re: Marathon Demo coming Wednesday!
+Date: 23 Nov 94 04:55:47 GMT
+
+tuncer@mcs.com (Tuncer Deniz) writes:
+
+>Just got off the phone with Jason, lead programmer at Bungie.
+>Tomorrow night the demo will be posted on AOL, eWorld, CompuServe,
+>and of course, the Internet.
+>
+>Please don't e-mail me, I don't have it.
+>
+>Tuncer
+
+ZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzz...................
+Huh? What's that? You've found Godot?
+
+
+-- 
+                                - hyong
+hyongel@merle.acns.nwu.edu
+Newsgroups: comp.sys.mac.games
+From: kc003d@uhura.cc.rochester.edu (Stupendous Man)
+Subject: Re: Marathon Demo coming Wednesday!
+Date: Wed, 23 Nov 94 16:23:51 GMT
+
+hyongel@merle.acns.nwu.edu (Hyong Lee) writes:
+>tuncer@mcs.com (Tuncer Deniz) writes:
+>
+>>Just got off the phone with Jason, lead programmer at Bungie.
+>>Tomorrow night the demo will be posted on AOL, eWorld, CompuServe,
+>>and of course, the Internet.
+>>
+>>Please don't e-mail me, I don't have it.
+>>
+>>Tuncer
+>
+>ZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzz...................
+>Huh? What's that? You've found Godot?
+
+Who are we waiting for again?
+
+--Stupendous Man
+#LOGOFF 1688
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+#PICT 1604
+(rewrite later)
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1688
+#INFORMATION
+$C3Newsgroups: comp.sys.mac.games
+From: swashin@eis.calstate.edu (Steve Washington)
+Subject: void MarathonMessage(void)
+Date: 17 Nov 1994 10:23:03 -0800
+
+void MarathonMessage(void) /* sends daily message to csmg newsgroup */
+{
+  FILE *fp;
+  
+  fp = fopen( "mar.txt", "w" );
+  fprintf(fp, "I called Bungie today. I talked to a guy who ");
+  fprintf(fp, "sounds like he knows whats up.  He said that ");
+  fprintf(fp, "the demo will be here %s night, or %s at the ");
+  fprintf(fp, "latest.\n", Tommorrow(), DayAftTom());
+  fprintf(fp, "Boy-o-boy!\n");
+  fclose( fp );
+  send_news( "Marathon Tomorrow!", comp.sys.mac.games, "mar.txt" );
+}
+
+/* Hate mail to swashin@eis.calstate.edu */
+--
+
+Newsgroups: comp.sys.mac.games
+From: john.hirsch@mixcom.com (John Hirsch)
+Subject: Re: Marathon Demo Today For Sure
+Date: Fri, 18 Nov 1994 11:50:01 GMT
+
+Robert Alan Danforth <rd2b+@andrew.cmu.edu> wrote:
+
+>>dcorsi@orion.it.luc.edu (David O. Corsi) writes:
+>> 
+>>>If it's up on AOL today when do ya all think it will be on sumex?
+>>>I wish I had kept my free intro membership disk for AOL.
+>> 
+>>I have a nice quick T1 connection to AOL and the Internet so as soon
+>>as it is posted on AOL, I will grab it and post it wherever the
+>>consensus thinks would be fastest site to check it and release it.
+>> 
+>>Any suggestions?
+>> 
+>How about comp.binaries.mac??
+
+How about alt-folklore-urban??
+
+Newsgroups: comp.sys.mac.games
+From: thomas@pacific.urbana.mcd.mot.com (Tim Thomas)
+Subject: Re: Marathon Bug Fixes from Bungie
+Date: 8 Dec 1994 17:22:13 GMT
+
+trentmd@stu.beloit.edu (Michael Trent) writes:
+
+> bungie1@aol.com (BUNGIE1) wrote:
+
+>> launch the game, it will default to Keyboard. This is a bug that
+>> will be fixed.  (You can tell how much our beta tester used mouse
+>> control)
+
+>DUH! That's what's taking Bungie so damned long! They only have _ONE_
+>beta tester!
+
+That's because they've shot all the other ones:
+    "Tester 1, you leaked the Beta!"   <Blam!>  "Aahhhhhhh!"
+    "Tester 2, you leaked the Gamma!"  <Blam!>  "Aahhhhhhh!"
+    "Tester 3, ....  Hey!  Come back here!" :-)
+
+
+Newsgroups: comp.sys.mac.games
+From: thomas@pacific.urbana.mcd.mot.com (Tim Thomas)
+Subject: Re: Marathon Bug Fixes from Bungie
+Date: 8 Dec 1994 17:22:13 GMT
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Tim Thomas
+thomas@urbana.mcd.mot.com
+
+In order to prevent network flames this message has been carefully
+checked with a spell cheeker.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-)
+
+
+
+
+
+
+
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: bungie1@aol.com (BUNGIE1)
+Subject: Bungie's Apology
+Date: 24 Nov 1994 00:15:40 GMT
+Xdisclaimer: No attempt was made to authenticate the sender's name.
+
+After endless delays due to massive debugging, we are sorry to state that the Marathon Demo has been canceled.  Due to your endless begging, bickering, and bulls--t, several of our programmers have worked 20 hour shifts to resolve programming problems to appease the Macintosh gaming public.  As a result, several of our programming staff have undergone tramatic stress breakdown.  They are now recooperating, under doctor's orders, and will resume programming and debugging in mid-December.  We all express great regret to announce the climatic cancelation of the Marathon Demo.  However, this must be done in order to alleviate the tremendous stress-load of our hardworking, dedicated programmers.  This was a difficult decision to make but remember you brought this on to yourselves.  On the other hand, the full Marathon game will be expected to release no later than January 30, 1995.  This full version will be by far superior to the Demo.s
+
+Newsgroups: comp.sys.mac.games
+From: koesel@engin.umich.edu (Mark Koesel)
+Subject: Re: How do I get a demo or beta of Marathon?
+Date: 8 Nov 1994 23:47:54 GMT
+
+Christian Handsack <handsack@omnifest.uwm.edu> wrote:
+
+>I have heard some talk of a beta version and demo of Marathon. If
+>there is one could someone tell me where it is. I would be greatly
+>appreacitive.
+
+It comes on the Sys7.5 CD.  It's in a folder called 'Illegal Stuff'.
+       __
+    __/\_\ Mark G. Koesel - koesel@engin.umich.edu
+ __/\_\/_/ Computer Engineering - University of Michigan, Ann Arbor
+/\_\/_/\_\ 
+\/_/\_\/_/  
+   \/_/\_\ Instruction Set <Computer> Personal Computer...  err,   
+      \/_/ something like that. 
+
+
+
+Newsgroups: comp.sys.mac.games
+From: ez023826@bullwinkle.ucdavis.edu (!!Norm!!)
+Subject: Re: GAMMA MARATHON
+Date: 12 Nov 1994 02:51:03 GMT
+
+Justin Johnson (johnson@macline.com) wrote:
+
+:Does anyone know where Marathon GAMMA is on the Internet?
+:
+:*********************************************************************
+:Mac Line BBS: (608) 233-9487 - A FirstClass System in Madison, WI USA
+:*********************************************************************
+
+127.0.0.1
+
+
+
+
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: meggs@virginia.edu (Andrew Meggs)
+Subject: Re: How to get MARATHON beta legally
+Date: Tue, 1 Nov 1994 18:23:47 GMT
+
+tuncer@mcs.com (Tuncer Deniz) wrote:
+> 
+> The Marathon demo will have network play.
+> 
+> Tuncer
+>
+
+You mean the demo that came out yesterday, right?
+
+-- 
+______________________________________________________________________
+andrew meggs                                    i got no problems, man
+meggs@virginia.edu                                   i live in TV land
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: tfinley@en.com (Tom Finley)
+Subject: Re: Marathon Crisis day number?
+Date: 21 Nov 1994 20:57:39 -0500
+
+Stevo (smazer@gpu.srv.ulberta.ca) wrote:
+:What day is it in the Marathon Crisis? When was the first date that
+:they said that it was "definately" going to be released? Wasn't it
+:two weeks after Macworld in August? So what does that make it? If we
+:count day 1 as being September 1, 1994, that would make this Day 82
+:in the Marathon Crisis. Does anybody have a closer guess?
+
+August 23 was when they said it would definatly be out.  So that's... 90 days since the Marathon crisis started.  On the end of the month we should pray, since it'll be 100 days since the crisis began.
+-- 
+                                        Tom Finley
+                                          tfinley@en.com
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: tuncer@mcs.com (Tuncer Deniz)
+Subject: Marathon Demo coming Wednesday!
+Date: Tue, 22 Nov 1994 21:59:07 -0600
+
+Just got off the phone with Jason, lead programmer at Bungie. Tomorrow
+night the demo will be posted on AOL, eWorld, CompuServe, and of course,
+the Internet.
+
+Please don't e-mail me, I don't have it.
+
+Tuncer
+
+
+
+
+
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: johnsonr@hoshi.Colorado.EDU (Richard Johnson)
+Subject: Re: Marathon Demo coming Wednesday!
+Date: 23 Nov 1994 08:00:08 GMT
+
+Tuncer Deniz (tuncer@mcs.com) wrote:
+>Just got off the phone with Jason, lead programmer at Bungie.
+>Tomorrow night the demo will be posted on AOL, eWorld, CompuServe,
+>and of course, the Internet.
+
+Hahahaha.  Fool me once, shame on you.  Fool me twice, shame on me.  Tell Jason and Doug that I don't believe them.  Too much 'wolf', not enough herding.  :)
+
+Rich
+
+--
+Loudyellnet: Richard Johnson | Sneakernet: ECNT1-6, CB 429, CU Boulder
+Phonenet:    +1.303.492.0590 | Internet:   Richard.Johnson@Colorado.EDU
+   RIPEM and PGP public keys available by server, finger or request
+   Speaker to avalanche dragons.   Do you really think they listen?
+Newsgroups: comp.sys.mac.games
+From: hyongel@merle.acns.nwu.edu (Hyong Lee)
+Subject: Re: Marathon Demo coming Wednesday!
+Date: 23 Nov 94 04:55:47 GMT
+
+tuncer@mcs.com (Tuncer Deniz) writes:
+
+>Just got off the phone with Jason, lead programmer at Bungie.
+>Tomorrow night the demo will be posted on AOL, eWorld, CompuServe,
+>and of course, the Internet.
+>
+>Please don't e-mail me, I don't have it.
+>
+>Tuncer
+
+ZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzz...................
+Huh? What's that? You've found Godot?
+
+
+-- 
+                                - hyong
+hyongel@merle.acns.nwu.edu
+Newsgroups: comp.sys.mac.games
+From: kc003d@uhura.cc.rochester.edu (Stupendous Man)
+Subject: Re: Marathon Demo coming Wednesday!
+Date: Wed, 23 Nov 94 16:23:51 GMT
+
+hyongel@merle.acns.nwu.edu (Hyong Lee) writes:
+>tuncer@mcs.com (Tuncer Deniz) writes:
+>
+>>Just got off the phone with Jason, lead programmer at Bungie.
+>>Tomorrow night the demo will be posted on AOL, eWorld, CompuServe,
+>>and of course, the Internet.
+>>
+>>Please don't e-mail me, I don't have it.
+>>
+>>Tuncer
+>
+>ZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzz...................
+>Huh? What's that? You've found Godot?
+
+Who are we waiting for again?
+
+--Stupendous Man
+#LOGOFF 1688
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+#PICT 1604
+(rewrite later)
+#LOGOFF 1600
+#END
+#FINISHED
+#LOGON 1688
+#INFORMATION
+Newsgroups: comp.sys.mac.games
+From: swashin@eis.calstate.edu (Steve Washington)
+Subject: void MarathonMessage(void)
+Date: 17 Nov 1994 10:23:03 -0800
+
+void MarathonMessage(void) /* sends daily message to csmg newsgroup */
+{
+  FILE *fp;
+  
+  fp = fopen( "mar.txt", "w" );
+  fprintf(fp, "I called Bungie today. I talked to a guy who ");
+  fprintf(fp, "sounds like he knows whats up.  He said that ");
+  fprintf(fp, "the demo will be here %s night, or %s at the ");
+  fprintf(fp, "latest.\n", Tommorrow(), DayAftTom());
+  fprintf(fp, "Boy-o-boy!\n");
+  fclose( fp );
+  send_news( "Marathon Tomorrow!", comp.sys.mac.games, "mar.txt" );
+}
+
+/* Hate mail to swashin@eis.calstate.edu */
+--
+
+Newsgroups: comp.sys.mac.games
+From: john.hirsch@mixcom.com (John Hirsch)
+Subject: Re: Marathon Demo Today For Sure
+Date: Fri, 18 Nov 1994 11:50:01 GMT
+
+Robert Alan Danforth <rd2b+@andrew.cmu.edu> wrote:
+
+>>dcorsi@orion.it.luc.edu (David O. Corsi) writes:
+>> 
+>>>If it's up on AOL today when do ya all think it will be on sumex?
+>>>I wish I had kept my free intro membership disk for AOL.
+>> 
+>>I have a nice quick T1 connection to AOL and the Internet so as soon
+>>as it is posted on AOL, I will grab it and post it wherever the
+>>consensus thinks would be fastest site to check it and release it.
+>> 
+>>Any suggestions?
+>> 
+>How about comp.binaries.mac??
+
+How about alt-folklore-urban??
+
+Newsgroups: comp.sys.mac.games
+From: thomas@pacific.urbana.mcd.mot.com (Tim Thomas)
+Subject: Re: Marathon Bug Fixes from Bungie
+Date: 8 Dec 1994 17:22:13 GMT
+
+trentmd@stu.beloit.edu (Michael Trent) writes:
+
+> bungie1@aol.com (BUNGIE1) wrote:
+
+>> launch the game, it will default to Keyboard. This is a bug that
+>> will be fixed.  (You can tell how much our beta tester used mouse
+>> control)
+
+>DUH! That's what's taking Bungie so damned long! They only have _ONE_
+>beta tester!
+
+That's because they've shot all the other ones:
+    "Tester 1, you leaked the Beta!"   <Blam!>  "Aahhhhhhh!"
+    "Tester 2, you leaked the Gamma!"  <Blam!>  "Aahhhhhhh!"
+    "Tester 3, ....  Hey!  Come back here!" :-)
+
+
+Newsgroups: comp.sys.mac.games
+From: thomas@pacific.urbana.mcd.mot.com (Tim Thomas)
+Subject: Re: Marathon Bug Fixes from Bungie
+Date: 8 Dec 1994 17:22:13 GMT
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Tim Thomas
+thomas@urbana.mcd.mot.com
+
+In order to prevent network flames this message has been carefully
+checked with a spell cheeker.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-)
+
+
+
+
+
+
+
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: bungie1@aol.com (BUNGIE1)
+Subject: Bungie's Apology
+Date: 24 Nov 1994 00:15:40 GMT
+Xdisclaimer: No attempt was made to authenticate the sender's name.
+
+After endless delays due to massive debugging, we are sorry to state that the Marathon Demo has been canceled.  Due to your endless begging, bickering, and bulls--t, several of our programmers have worked 20 hour shifts to resolve programming problems to appease the Macintosh gaming public.  As a result, several of our programming staff have undergone tramatic stress breakdown.  They are now recooperating, under doctor's orders, and will resume programming and debugging in mid-December.  We all express great regret to announce the climatic cancelation of the Marathon Demo.  However, this must be done in order to alleviate the tremendous stress-load of our hardworking, dedicated programmers.  This was a difficult decision to make but remember you brought this on to yourselves.  On the other hand, the full Marathon game will be expected to release no later than January 30, 1995.  This full version will be by far superior to the Demo.s
+
+Newsgroups: comp.sys.mac.games
+From: koesel@engin.umich.edu (Mark Koesel)
+Subject: Re: How do I get a demo or beta of Marathon?
+Date: 8 Nov 1994 23:47:54 GMT
+
+Christian Handsack <handsack@omnifest.uwm.edu> wrote:
+
+>I have heard some talk of a beta version and demo of Marathon. If
+>there is one could someone tell me where it is. I would be greatly
+>appreacitive.
+
+It comes on the Sys7.5 CD.  It's in a folder called 'Illegal Stuff'.
+       __
+    __/\_\ Mark G. Koesel - koesel@engin.umich.edu
+ __/\_\/_/ Computer Engineering - University of Michigan, Ann Arbor
+/\_\/_/\_\ 
+\/_/\_\/_/  
+   \/_/\_\ Instruction Set <Computer> Personal Computer...  err,   
+      \/_/ something like that. 
+
+
+
+Newsgroups: comp.sys.mac.games
+From: ez023826@bullwinkle.ucdavis.edu (!!Norm!!)
+Subject: Re: GAMMA MARATHON
+Date: 12 Nov 1994 02:51:03 GMT
+
+Justin Johnson (johnson@macline.com) wrote:
+
+:Does anyone know where Marathon GAMMA is on the Internet?
+:
+:*********************************************************************
+:Mac Line BBS: (608) 233-9487 - A FirstClass System in Madison, WI USA
+:*********************************************************************
+
+127.0.0.1
+
+
+
+
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: meggs@virginia.edu (Andrew Meggs)
+Subject: Re: How to get MARATHON beta legally
+Date: Tue, 1 Nov 1994 18:23:47 GMT
+
+tuncer@mcs.com (Tuncer Deniz) wrote:
+> 
+> The Marathon demo will have network play.
+> 
+> Tuncer
+>
+
+You mean the demo that came out yesterday, right?
+
+-- 
+______________________________________________________________________
+andrew meggs                                    i got no problems, man
+meggs@virginia.edu                                   i live in TV land
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: tfinley@en.com (Tom Finley)
+Subject: Re: Marathon Crisis day number?
+Date: 21 Nov 1994 20:57:39 -0500
+
+Stevo (smazer@gpu.srv.ulberta.ca) wrote:
+:What day is it in the Marathon Crisis? When was the first date that
+:they said that it was "definately" going to be released? Wasn't it
+:two weeks after Macworld in August? So what does that make it? If we
+:count day 1 as being September 1, 1994, that would make this Day 82
+:in the Marathon Crisis. Does anybody have a closer guess?
+
+August 23 was when they said it would definatly be out.  So that's... 90 days since the Marathon crisis started.  On the end of the month we should pray, since it'll be 100 days since the crisis began.
+-- 
+                                        Tom Finley
+                                          tfinley@en.com
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: tuncer@mcs.com (Tuncer Deniz)
+Subject: Marathon Demo coming Wednesday!
+Date: Tue, 22 Nov 1994 21:59:07 -0600
+
+Just got off the phone with Jason, lead programmer at Bungie. Tomorrow
+night the demo will be posted on AOL, eWorld, CompuServe, and of course,
+the Internet.
+
+Please don't e-mail me, I don't have it.
+
+Tuncer
+
+
+
+
+
+
+
+
+
+Newsgroups: comp.sys.mac.games
+From: johnsonr@hoshi.Colorado.EDU (Richard Johnson)
+Subject: Re: Marathon Demo coming Wednesday!
+Date: 23 Nov 1994 08:00:08 GMT
+
+Tuncer Deniz (tuncer@mcs.com) wrote:
+>Just got off the phone with Jason, lead programmer at Bungie.
+>Tomorrow night the demo will be posted on AOL, eWorld, CompuServe,
+>and of course, the Internet.
+
+Hahahaha.  Fool me once, shame on you.  Fool me twice, shame on me.  Tell Jason and Doug that I don't believe them.  Too much 'wolf', not enough herding.  :)
+
+Rich
+
+--
+Loudyellnet: Richard Johnson | Sneakernet: ECNT1-6, CB 429, CU Boulder
+Phonenet:    +1.303.492.0590 | Internet:   Richard.Johnson@Colorado.EDU
+   RIPEM and PGP public keys available by server, finger or request
+   Speaker to avalanche dragons.   Do you really think they listen?
+Newsgroups: comp.sys.mac.games
+From: hyongel@merle.acns.nwu.edu (Hyong Lee)
+Subject: Re: Marathon Demo coming Wednesday!
+Date: 23 Nov 94 04:55:47 GMT
+
+tuncer@mcs.com (Tuncer Deniz) writes:
+
+>Just got off the phone with Jason, lead programmer at Bungie.
+>Tomorrow night the demo will be posted on AOL, eWorld, CompuServe,
+>and of course, the Internet.
+>
+>Please don't e-mail me, I don't have it.
+>
+>Tuncer
+
+ZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzz...................
+Huh? What's that? You've found Godot?
+
+
+-- 
+                                - hyong
+hyongel@merle.acns.nwu.edu
+Newsgroups: comp.sys.mac.games
+From: kc003d@uhura.cc.rochester.edu (Stupendous Man)
+Subject: Re: Marathon Demo coming Wednesday!
+Date: Wed, 23 Nov 94 16:23:51 GMT
+
+hyongel@merle.acns.nwu.edu (Hyong Lee) writes:
+>tuncer@mcs.com (Tuncer Deniz) writes:
+>
+>>Just got off the phone with Jason, lead programmer at Bungie.
+>>Tomorrow night the demo will be posted on AOL, eWorld, CompuServe,
+>>and of course, the Internet.
+>>
+>>Please don't e-mail me, I don't have it.
+>>
+>>Tuncer
+>
+>ZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzz...................
+>Huh? What's that? You've found Godot?
+
+Who are we waiting for again?
+
+--Stupendous Man
+#LOGOFF 1600
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+#PICT 1600
+
+
+
+
+
+
+
+The Pfhor have shut me out of their network and I cannot find the next switch.
+
+Thankfully, $Byou$b can.
+
+No, you don’t understand.  You $Bcan$b.
+
+Have fun.
+
+——Durandal
+#LOGOFF 1600
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1600
+#PICT 1604
+(rewrite later)
+#LOGOFF 1600
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1600
+#PICT 1602
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 8
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1688
+#INFORMATION
+$C3ydnar: hamish: can you identify the plant in infinity's final screen?
+Godot: plant?
+ydnar: yeah
+Godot: Randy: you mean the bamboo pen?
+ydnar: it's not bamboo. that's a cross section sketch of a stem
+Godot: looks like a bamboo no mistaking it
+ydnar: nope. want to know?
+Godot: the far right one is the tip of a Japanese writing brush/pen
+ydnar: <g> they're all sketches of one particular plant
+Godot: ok what's the planet? 
+ydnar: earth :-)
+Godot: err, plant
+ydnar: magnolia :)
+Godot: gimme a break
+ydnar: ::raising eyebrow::
+Godot: what's the third drawing? before the arm
+ydnar: hmm.. don't have the picture up what's it look like
+Godot: the tip of a Japanese writing brush/pen has a bamboo like notch
+Godot: the hairs are tied together in the form of a brush
+Godot: that's what it looks like to me
+ydnar: ah, the base of the magnolia bud
+Godot: the stem looks just like a bamboo stem IMHO
+ydnar: ::nod:: it's similar
+Godot: if you slice it, it would look exactly like that
+Godot: so what's the significance of the magnolia?
+ydnar: birth. what's the first picture?
+Godot: looked like creation to me. magnolia = birth?
+ydnar: the seed: it progresses from seed to stem to flower
+Godot: why does magnolia signify birth? (not into flowers much)
+ydnar: that's all i'm going to say... :)
+ydnar: hehe it's hardly a flower. that particular one was 30 feet high
+#LOGOFF 1688
+#ENDTERMINAL 6

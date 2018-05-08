@@ -1,0 +1,441 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1678
+#PICT 1678
+$IOld Henry went past the pet shop which was never open, into the park which was never closed, and the park was full of a very smooth, clean, green grass. So Henry took off all his clothes and began rubbing his flesh into the wet, clean, green grass. He accompanied himself with a little tune.
+
+Beneath the ground the dirty brown writhing things called worms interpreted the pitter patter from above as rainfall. Rainfall in worm world means two things, mating and bath time. Both of these experiences were thouroughly enjoyable to the worm colony. Within seconds the entire surface of the park was a mass of dirty, brown, soggy, writhing forms. He was still pleased, old Michael and he began whistling a tune this time to accompany himself.
+
+Jerusalem Boogie to us perhaps, but to the birds it meant that supper was ready.$i
+#LOGOFF 1678
+#TAG 8
+#END
+#FINISHED
+#LOGON 1678
+$C1As Sure As Eggs Is Eggs (Aching men’s feet)
+#PICT 1678
+$C1$I
+
+Above all else an egg is an egg.  ‘And did those feet ..............’ making ends meet.$i
+#PICT 1685
+
+$C1Can’t you feel our souls ignite,
+Shedding ever changing colours
+In the darkness of the fading night?
+Like the river
+Joins the ocean
+As the germ in a seed grows
+We have finally been freed to get back home
+
+There’s an angel standing in the sun
+And he’s crying with a loud voice,
+“This is the Supper of the Mighty One.
+ Lord of Lords,
+ King of Kings,
+ Has returned to lead his children home,
+ To take them to the new Jerusalem.”
+
+
+$I(Anthony Banks, Philip Collins, Peter Gabriel, Stephen Hackett, and Michael Rutherford, 1972)$i
+#LOGOFF 1678
+#TAG 7
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1678
+$C1Lover’s Leap
+#PICT 1678
+
+$C1$IIn which two lovers are lost in each other’s eyes, and found again transformed in the bodies of another male and female.$i
+#PICT 1679
+
+$C1walking across the sitting room,
+i turn the television off
+sitting beside you,
+i look into your eyes
+
+as the sound of motorcars
+fades in the nighttime,
+i swear i saw your face change.
+it didn’t seem quite right.
+
+$Iand it’s ––
+hello baby
+with your guardian eyes so blue
+hey my baby
+don’t you know our love is true?$i
+#PICT 1679
+
+$C1coming closer with our eyes
+a distance falls around our bodies
+out in the garden,
+the moon seems very bright
+
+six saintly shrouded men
+move across the lawn slowly
+the seventh walks in front
+with a cross held high in hand
+$I
+and it’s ––
+hey babe
+your supper’s waiting for you
+hey my baby
+don’t you know our love is true?
+
+i’ve been so far from here
+far from your warm arms
+it’s good to feel you again
+it’s been a long, long time...
+(hasn’t it?)$i
+#LOGOFF 1678
+#TAG 1
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1678
+$C1The Guaranteed Eternal Sanctuary Man
+#PICT 1678
+$C1$I
+
+
+
+
+
+The lovers come across a town dominated by two characters: one a benevolent farmer, and the other the head of a highly disciplined scientific religion. The latter likes to be known as “The Guaranteed Eternal Sanctuary Man” and claims to contain a secret new ingredient capable of fighting fire. This is a falsehood, an untruth, a whopper and a taradiddle, or to put it in clearer terms; a lie.$i
+#PICT 1680
+
+
+
+
+
+
+
+
+$C1I know a farmer who looks after the farm
+
+with water clear he cares for all his harvest
+
+I know a fireman who looks after the fire
+#PICT 1680
+
+$C1you,
+can’t you see he’s fooled you all?
+yes he’s here again
+can’t you see he’s fooled you all?
+share his peace
+sign the lease
+with a spoonful of miracle
+the Guaranteed Eternal Sanctuary Man
+
+look,
+look into my mouth he cried
+and all your children cross down many paths
+I bet my life he’ll walk inside
+hand in hand
+gland in gland
+with a spoonful of miracle
+the Guaranteed Eternal Sanctuary...
+
+$I“we will rock you, rock you, little snake
+ we will keep you snug and warm.”$i
+#LOGOFF 1678
+#TAG 2
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1678
+$C1Ikhnaton and Itsacon and their Band of Merry Men
+#PICT 1678
+$C1$I
+
+
+
+
+
+
+Who the lovers see clad in grays and purples, awaiting to be summoned out of the ground. At the G.E.S.M.’s command they pour forth, from the bowels of the earth, to at-tack all those without an up-to-date “Eternal Life Licence” which were obtainable at the head office of the G.E.S.M.’s religion.$i
+#PICT 1681
+
+
+
+
+
+
+$C1wearing feelings on our faces when our faces took a rest
+
+we walked across the fields to see the children of the West
+
+we saw a host of dark-skinned warriors standing still below the ground,
+
+
+
+waiting for battle.
+#PICT 1681
+
+
+
+
+
+$C1the fight’s begun, they’ve been released,
+killing foe for peace
+
+bang bang bang,
+bang bang bang
+
+and they’ve given me a wonderful potion
+’cos I cannot contain my emotion
+
+but even though I’m feeling good,
+something tells me I’d better
+activate my prayer capsule
+#PICT 1681
+
+
+
+
+
+
+
+
+$C1today’s a day to celebrate
+the foe have met their fate
+
+the order for rejoicing
+and dancing
+has come from our warlord
+#LOGOFF 1678
+#TAG 3
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1678
+$C1how dare I be so beautiful?
+#PICT 1678
+
+
+
+
+
+
+
+
+$C1$IIn which our intrepid heroes investigate the aftermath of the battle and discover a solitary figure, obsessed by his own image. They witness an unusual transmutation, and are pulled into their own reflections in the water.$i
+#PICT 1682
+
+
+$C1wand’ring in the chaos the battle has left
+we climb up the mountain
+of human flesh
+
+to a plateau of green grass
+and green trees full of life
+
+a young figure sits still by a pool
+he’s been stamped “Human Bacon”
+by some butchery tool
+
+(he is you).
+
+Social Security took care of this lad
+we watch in reverence
+as Narcissus is turned to a flower.
+
+$I“A flower?”$i
+#LOGOFF 1678
+#TAG 4
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1678
+$C1Willow Farm
+#PICT 1678
+
+
+
+
+
+
+
+$C1$IClimbing out of the pool, they are once again in a different existence. They’re right in the middle of a myriad of bright colours, filled with all manner of objects, plants, animals and humans. Life flows freely and everything is mindlessly busy. At random, a whistle blows and every single thing is instantly changed into another.$i
+#PICT 1683
+
+$C1If you go down to Willow Farm
+to look for butterflies,
+flutter-byes,
+gutterflies
+open your eyes
+It’s full of surprise,
+everyone lies
+like the fox on the rocks
+and the musical box.
+
+Oh, there’s Mum and Dad
+and good and bad
+and everyone’s happy to be here
+#PICT 1683
+
+$C1There’s Winston Churchhill dressed in drag
+He used to be a British flag,
+plastic bag,
+what a drag
+The frog was a prince,
+the prince was a brick,
+the brick was an egg,
+the egg was a bird $I(“Fly away, you sweet little thing, they are hot on your tail!”)$i
+Hadn’t you heard? $I(“They’re going to change you into a human being, heh”)$i
+
+Yes, we’re happy as fish
+and gorgeous as geese
+and wonderfuly clean in the morning.
+#PICT 1683
+$C1
+
+
+
+
+Everything
+We’re growing everything
+We’ve got some in
+We’ve got some out
+We’ve got some wild things floating about
+
+Everyone
+We’re changing everyone
+You name them all
+We’ve had them here
+And the real stars are still to appear
+#PICT 1683
+
+
+
+$C1$I“ALL CHANGE!”
+$i
+Feel your body melt ––
+
+Dad to dam to dum to mum
+Mum diddly washing, mum diddly washing
+You’re all full of ball
+
+Mum to dum to dam to dad
+Dad diddly office, dad diddly office
+Hoo, you’re all full of ball
+
+Let me hear your lies
+We’re living this up the eyes
+Ooee-ooee-ooee-aa
+Momma I want you now
+#PICT 1683
+$C1
+And as you listen to my voice
+to look for hidden doors
+tidy floors
+more applause
+You’ve been here all the time
+like it or not
+like what you’ve got
+you’re under the soil ($I“The soil!”$i)
+yes, deep in the soil ($I“The soil, the $Usoil$u, the $USOIL$u, the $B$USOIL!$u”$b$i)
+
+So, we’ll end with a whistle
+and end with a bang,
+and all of us fit in our places.
+#LOGOFF 1678
+#TAG 5
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1678
+$C1Apocalypse in 9/8 (co-starring$C0
+#LOGON 1678
+$C1the delicious talents of Gabble Ratchet)
+#PICT 1678
+
+
+
+
+
+$C1$IAt one whistle the lovers become seeds in the soil, where they recognize other seeds to be people from the world in which they had originated. While they wait for Spring, they are returned to their old world to see the Apocalypse of St. John in full progress. The seven trumpeters cause a sensation, the fox keeps throwing sixes, and Pythagoras (a Greek extra) is deliriously happy as he manages to put exactly the right amount of milk and honey on his corn flakes.$i
+#PICT 1684
+
+
+
+
+$C1With the guards of Magog
+swarming around
+the Pied Piper
+takes his children underground
+Dragon’s coming
+out of the sea
+shimmering silver head of wisdom
+looking at me
+He brings down the fire
+from the skies
+You can tell he’s doing well
+by the look in human eyes
+Better not compromise
+It won’t be easy.$C0
+#PICT 1684
+$C1Six Six Six
+is no longer alone
+He’s getting out
+the marrow in your backbone
+and the seven trumpets blowing
+sweet rock and roll
+gonna blow right down
+inside your soul
+Pythagoras with the looking glass
+reflect the full moon
+In blood
+He’s writing the lyrics of a brand new tune
+
+and it’s ––
+hey babe
+with your guardian eyes so blue
+hey my baby
+don’t you know our love is true?
+I’ve been so far from here
+far from your warm arms
+Now I’m back again
+and babe it’s gonna work out fine.
+#LOGOFF 1678
+#TAG 6
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1678
+$C1As Sure As Eggs Is Eggs (Aching men’s feet)
+#PICT 1678
+$C1$I
+
+Above all else an egg is an egg.  ‘And did those feet ..............’ making ends meet.$i
+#PICT 1685
+
+$C1Can’t you feel our souls ignite,
+Shedding ever changing colours
+In the darkness of the fading night?
+Like the river
+Joins the ocean
+As the germ in a seed grows
+We have finally been freed to get back home
+
+There’s an angel standing in the sun
+And he’s crying with a loud voice,
+“This is the Supper of the Mighty One.
+ Lord of Lords,
+ King of Kings,
+ Has returned to lead his children home,
+ To take them to the new Jerusalem.”
+
+
+$I(Anthony Banks, Philip Collins, Peter Gabriel, Stephen Hackett, and Michael Rutherford, 1972)$i
+#LOGOFF 1678
+#TAG 7
+#ENDTERMINAL 7

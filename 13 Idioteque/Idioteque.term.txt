@@ -1,0 +1,200 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+#PICT 2320
+#PICT 2321
+$C5$BTeleport when ready.
+#LOGOFF 1600
+blah
+#INTRALEVEL TELEPORT 172
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1649
+#PICT 2327
+#LOGOFF 1649
+#END
+#FINISHED
+#LOGON 1600
+D. 1707 Recognizant
+#PICT 1658
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 14
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1690
+zih'cret
+#PICT 1691
+#LOGOFF 1690
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1649
+$C2comm.term.$17
+#PICT 1657
+$C2maintenance.directive.7A
+origin: $C6Pfhor high command$C2
+destin: $C6ship maintenance units$C2
+ref: $C6ship defenses$C2
+stamp: $IIntrusion$i
+
+All ship maintenance units of rank third class through seventh class instructed to vacuum e~~fxff~x`~f~~~
+
+—————>remote override at $0000:$0000:$0961
+$C0
+You’re going to have to take a dip in that infamous Pfhor slime to continue with your mission. Yes, everyone’s favorite task. 
+
+I will teleport in a recharge can at this location in case you haven’t enough energy to make it through. Your entrance point should be obvious enough. You should swim to the right until you see what looks like an exit.
+#PICT 2323
+$C2maintenance.directive.7A
+origin: $C6Pfhor high command$C2
+destin: $C6ship maintenance units$C2
+ref: $C6ship defenses$C2
+stamp: $IIntrusion$i
+
+All ship maintenance units of rank third class through seventh class instructed to vacuum e~~fxff~x`~f~~~
+
+—————>remote override at $0000:$0000:$0961
+$C0
+This is about as close to an exit as you’re going to get.
+#PICT 2324
+$C2maintenance.directive.7A
+origin: $C6Pfhor high command$C2
+destin: $C6ship maintenance units$C2
+ref: $C6ship defenses$C2
+stamp: $IIntrusion$i
+
+All ship maintenance units of rank third class through seventh class instructed to vacuum e~~fxff~x`~f~~~
+
+—————>remote override at $0000:$0000:$0961
+$C0
+Unfortunately, part of the path to your eventual destination is currently rather blocked. I believe the Pfhor have been expecting you. In the control tower here there should be a switch that will remedy that...
+#PICT 2325
+$C2maintenance.directive.7A
+origin: $C6Pfhor high command$C2
+destin: $C6ship maintenance units$C2
+ref: $C6ship defenses$C2
+stamp: $IIntrusion$i
+
+All ship maintenance units of rank third class through seventh class instructed to vacuum e~~fxff~x`~f~~~
+
+—————>remote override at $0000:$0000:$0961
+$C0
+...via the ledge over here. I will contact you again at...
+#PICT 2326
+$C2maintenance.directive.7A
+origin: $C6Pfhor high command$C2
+destin: $C6ship maintenance units$C2
+ref: $C6ship defenses$C2
+stamp: $IIntrusion$i
+
+All ship maintenance units of rank third class through seventh class instructed to vacuum e~~fxff~x`~f~~~
+
+—————>remote override at $0000:$0000:$0961
+$C0
+...this terminal when you arrive, if you wish, or you could just go...
+#PICT 2327
+$C2maintenance.directive.7A
+origin: $C6Pfhor high command$C2
+destin: $C6ship maintenance units$C2
+ref: $C6ship defenses$C2
+stamp: $IIntrusion$i
+
+All ship maintenance units of rank third class through seventh class instructed to vacuum e~~fxff~x`~f~~~
+
+—————>remote override at $0000:$0000:$0961
+
+$C0...here and smash the switches to trigger this ship’s automated destruct sequence.
+
+Be patient. You’ll probably have to make some clever jumps to get through. I’m sorry I can’t give you any help, but I’m working on destroying the Pfhor fleet’s gravity controller right now. I imagine it will be incredibly handy during your next mission.
+#PICT 2327
+$C2maintenance.directive.7A
+origin: $C6Pfhor high command$C2
+destin: $C6ship maintenance units$C2
+ref: $C6ship defenses$C2
+stamp: $IIntrusion$i
+
+All ship maintenance units of rank third class through seventh class instructed to vacuum e~~fxff~x`~f~~~
+
+—————>remote override at $0000:$0000:$0961
+
+$C0Have fun.$C2
+$C0
+/-durandal.out-/
+
+
+
+
+
+
+$C2—————>end override
+#LOGOFF 1649
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1649
+#INFORMATION
+$C2Run-time Error at Address=$0000:$1449:$B800
+Warning: Continuing further will compromise
+         security of ship operations.
+         Reboot? $C6y
+$C2
+16384e OK
+echo off
+
+C:\>$C6COPY A:\SECUR.BAT C:\WINDOWS\SYSTEM\
+$C2A:\SECUR.BAT
+1 file(s) copied
+
+C:\>$C6COPY A:\DRONES.BAT C:\WINDOWS\SYSTEM$C0
+$C2File C:\WINDOWS\SYSTEM\DRONES.BAT already exists; overwrite it?$C6 y$C3
+$C21 file(s) copied
+
+C:\>$C6EDIT C:\WINDOWS\SYSTEM\DRONES.BAT$C0
+$C2TARGET=$C6HUMAN$C0
+$C2MODE=$C6DESTROY$C0
+$C2STATUS=$C6ACTIVE
+
+$C2^^EOf
+#LOGOFF 1649
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1649
+#PICT 1655
+#LOGOFF 1649
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1647
+#PICT 1657
+$C2maintenance.directive.6A
+origin: $C6Pfhor high command$C2
+destin: $C6ship maintenance units$C2
+ref: $C6ship defenses$C2
+stamp: $IIntrusion$i
+
+All ship maintenance units of rank first class through second class instructed to cut off acc~~fxff~x`~f~~~
+
+—————>remote override at $0000:$0000:$0463
+
+$C0How fortunate for you –– the Pfhor were expecting you. You’re going to have to take a sojourn through the Pfhor living quarters if you wish to gain access to the rest of this ship. I believe there will be some way to override what they’ve just done. There should be an entrance to their quarters shortly after this terminal.
+
+Keep moving, and I’ll see you soon.
+#LOGOFF 1647
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1649
+#INFORMATION
+#LOGOFF 1649
+#ENDTERMINAL 7

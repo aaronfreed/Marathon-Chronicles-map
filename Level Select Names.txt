@@ -1,0 +1,213 @@
+128 rocket!
+1600 durandal logo (4-bit)
+1601 durandal logo broken (4-bit)
+1602 durandal page old (7-bit)
+1603 durandal page old static (7-bit)
+1604 durandal page starfield (8-bit)
+1605 durandal page k’lia (8-bit)
+1606 durandal page earth (8-bit)
+1607 durandal page jjarro planet (8-bit)
+1608 durandal page static (8-bit)
+1609 marathon logo (4-bit)
+1610 marathon page old
+1611 marathon page (32-bit)
+1612 marathon page error (5-bit)
+1613 marathon page interference 1 (8-bit)
+1614 marathon page interference 2 (8-bit)
+1615 infinity AI logo (8-bit)
+1616 infinity AI logon broken (8-bit)
+1617 infinity AI logoff broken (8-bit)
+1618 infinity AI logon DEAD (8-bit)
+1619 infinity AI logoff DEAD (8-bit)
+1620 infinity AI page (8-bit)
+1621 infinity AI page broken 1 (8-bit)
+1622 infinity AI page broken 2 (8-bit)
+1623 infinity AI page static 1 (8-bit)
+1624 infinity AI page static 2 (8-bit)
+1625 infinity AI page static 3 (8-bit)
+1626 infinity AI page static 4 (8-bit)
+1627 infinity AI page DEAD (8-bit)
+1628 jjaro logo unbroken old (4-bit)
+1629 jjaro logo broken old (5-bit)
+1630 jjaro page old (6-bit)
+1631 jjaro logo new (8-bit)
+1632 jjaro page new (32-bit)
+1633 jjaro page static (8-bit)
+1634 jjaro page damaged (8-bit)
+1635 leela logo (8-bit)
+1636 leela page 1 (4-bit)
+1637 leela page 2 (4-bit)
+1638 leela page 3 (7-bit)
+1639 leela page 4 (2-bit)
+1640 s’pht logo (5-bit)
+1641 s’pht page 1 (5-bit)
+1642 s’pht page 2 (5-bit)
+1643 s’pht page 3 (6-bit)
+1644 thoth logon (bitmap)
+1645 thoth page (bitmap)
+1646 tycho logo, dark knight (4-bit)
+1647 pfhor logo 1 (4-bit)
+1648 pfhor logo 2 (4-bit)
+1649 pfhor logo 3 (4-bit)
+1650 tycho page old (5-bit)
+1651 pfhor page old 1 (5-bit)
+1652 pfhor page old 2 (5-bit)
+1653 pfhor page old 3 (5-bit)
+1654 pfhor page old 4 (5-bit)
+1655 pfhor page (32-bit)
+1656 tycho page, dark knight (32-bit)
+1657 pfhor lives underwater (8-bit)
+1658 pfhor page underwater 2 (8-bit)
+1659 pfhor page underwater 3 (8-bit)
+1660 pfhor page underwater 4 (8-bit)
+1661 pfhor page underwater 5 (8-bit)
+1662 pfhor page underwater 6 (8-bit)
+1663 pfhor page damaged 1 (8-bit)
+1664 pfhor page damaged 2 (8-bit)
+1665 pfhor page damaged 3 (8-bit)
+1666 blake1
+1667 blake2
+1668 blake3
+1669 blake4
+1670 blake5
+1671 blake6
+1672 blake...where’d he go?
+1673 earth book open (7-bit)
+1674 generic static (8-bit)
+1675 generic starfield (7-bit)
+1676 lh’owon nova (8-bit)
+1677 on the planet below (8-bit)
+1678 patchwork in dreams LOGO (8-bit)
+1679 patchwork in dreams 1 (8-bit)
+1680 patchwork in dreams 2 (8-bit)
+1681 patchwork in dreams 3 (8-bit)
+1682 patchwork in dreams 4 (8-bit)
+1683 patchwork in dreams 5 (8-bit)
+1684 patchwork in dreams 6 (8-bit)
+1685 patchwork in dreams 7 (8-bit)
+1686 gold logo
+1687 gold logo main screen
+1688 Catlan’s logo (7-bit)
+1689 Catlan’s main screen (8-bit)
+1690 Aaron’s logo (1-bit)
+1691 Aaron’s main screen (2-bit)
+1692 pfhor logo, marathon 2 (16-bit)
+1693 tycho logo, marathon 2 dark knight (7-bit)
+1694 pfhor logo, marathon 2 (5-bit)
+1695 tycho logo, paladin (8-bit)
+1696 tycho page oldstyle, paladin (5-bit)
+1697 tycho page, paladin (32-bit)
+1698 Commander Martin’s logo (4-bit)
+1699 Commander Martin’s page (4-bit)
+1700 tycho pretty planet view
+1701 boomer (8-bit)
+1703 dream 3 (7-bit)
+1704 hangar 97 (7-bit)
+1705 marine (8-bit)
+1707 dream 1 (5-bit)
+1708 dream 2 (5-bit)
+2060 waterloo.map (7-bit)
+2061 waterloo.arrival.durandal screen (8-bit)
+2062 waterloo.arrival.thoth screen (8-bit)
+2063 waterloo.planet (7-bit)
+2064 waterloo.drones (8-bit)
+2065 waterloo.star system (8-bit)
+2066 waterloo.arrival.map (3-bit)
+2070 slings.map (7-bit)
+2080 charon.pfhor (8-bit)
+2081 charon.map (7-bit)
+2082 charon.f’lickta (7-bit)
+2110 delusions of adequacy.map (3-bit)
+2120 disposable heroes.map (3-bit)
+2140 eat it.lava (8-bit)
+2141 eat it.citadel (7-bit)
+2142 eat it.juggernaut w/ tfear (8-bit)
+2150 citadel.battle group (7-bit)
+2151 citadel.surgery (8-bit)
+2152 citadel.below surface (7-bit)
+2160 6000 feet.lava tanks (6-bit)
+2161 6000 feet.blasts (8-bit)
+2190 dancing mad.map (8-bit)
+2210 rocket.bobs (8-bit)
+2211 rocket.troopers (8-bit)
+2230 sons.core logic centres
+2231 sons.core logic centres.noisy 1
+2232 sons.core logic centres.noisy 2
+2233 sons.core logic centres.noisy 3
+2260 hell.map (3-bit)
+2320 idioteque.port in (7-bit)
+2321 idioteque.dur’s second term (3-bit)
+2322 idioteque.sludge entrance (3-bit)
+2323 idioteque.sludge exit (3-bit)
+2324 idioteque.control tower (3-bit)
+2325 idioteque.ledge jumping (3-bit)
+2326 idioteque.dur’s last term (3-bit)
+2327 idioteque.smashable switches (3-bit)
+2400 slimy.teleport map 1 (6-bit)
+2401 slimy.teleport map 2 (6-bit)
+2430 naw man.vacuum chambers (5-bit)
+2470 grendel.map (7-bit)
+2471 grendel.map 2 (5-bit)
+2472 grendel.artifact, pfhor (6-bit)
+2473 grendel.artifact, thoth (5-bit)
+2490 puppets.first tycho term (8-bit)
+2491 puppets.energy recharge (8-bit)
+2492 puppets.insertion point (8-bit)
+2493 puppets.second tycho term (8-bit)
+2494 puppets.uplink chip 1 (8-bit)
+2495 puppets.uplink chip 2 (8-bit)
+2496 puppets.third tycho term (8-bit)
+2497 puppets.thoth image (5-bit)
+2498 puppets.durandal pict (7-bit)
+2499 puppets.map of source (4-bit)
+2520 aye mak sicur.uplink 1 (7-bit)
+2521 aye mak sicur.hangar (130 colours)
+2522 aye mak sicur.uplink 2 (129 colours)
+2523 aye mak sicur.containment field (7-bit)
+2524 aye mak sicur.jjarro space battle (7-bit)
+2525 aye mak sicur.nova (7-bit)
+2630 medicine.map (7-bit)
+2631 medicine.troopers on planet (8-bit)
+2632 medicine.f’tha term 1 (4-bit)
+2633 medicine.f’tha term 2 (4-bit)
+2634 medicine.f’tha term 3 (4-bit)
+2635 medicine.pfhor term 1 (4-bit)
+2636 medicine.pfhor term 2 (4-bit)
+2637 medicine.pfhor term 3 (8-bit)
+2638 medicine.pfhor term 4 (8-bit)
+2639 medicine.pfhor term 5 (4-bit)
+2640 planet core (8-bit)
+2650 acme.map
+2660 ne cede.switch 1
+2661 ne cede.switch 2
+2662 ne cede.door 1a
+2663 ne cede.door 2a
+2664 ne cede.paths map
+2665 ne cede.nova 1
+2666 ne cede.nova (español = it don’t go) 2
+2670 where some.map and compiler
+2671 where some rarely go/thing what kicks.map (7-bit)
+2672 where some.pfhor stuff
+2673 where some rarely go.s’pht and staffless fighter (8-bit)
+2674 where some rarely go.turbo s’pht!!!
+2680 big floaty thing what kicks our asses.map 2
+2681 big floaty thing what kicks our asses.map 1
+2682 thing what kicks.enforcers and nar
+2690 05DownwardSpiral01
+2691 05DownwardSpiral02
+2692 05DownwardSpiral03
+2700 alcatras.marine 1 (8-bit)
+2701 alcatras.captured (7-bit)
+2702 alcatras.a-bobs (8-bit)
+2703 alcatras.marine 2 (8-bit)
+2704 alcatras.oxygen (7-bit)
+2705 alcatras.PICT dur pfhor trooper/RUBICON
+2706 alcatras.you-are-here
+2707 alcatras.second term
+2708 alcatras.switch center
+2709 alcatras.last term
+2710 Last Living Man.uplink
+2711 Last Living Man.S’pht’Kr
+2720 take me home.shot1
+2721 take me home.shot2
+5002 The Marathon Clut?

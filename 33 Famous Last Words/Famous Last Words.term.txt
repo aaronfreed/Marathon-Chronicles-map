@@ -1,0 +1,57 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1601
+#INFORMATION
+$C3
+
+
+
+
+
+
+
+
+
+                      WARNING:  $C0Terminal damaged$C3
+                     *** PROCEED WITH CAUTION ***
+#INFORMATION
+$C2$BDOMAIN ERROR IN PROGRAM "trigiden.mat"$C0$b
+       ____
+$C1·$C0 $C4$Ii$C0$i = √(-1) is undefined in $IR$i
+$C1·$C0 $C4∞$C0 = 1/0 does not exist
+$C1·$C0 $C4π$C0 = 3.1415926535898... is a food
+$C1·$C0 $C4$Ie$C0$i = 2.7182818284590... is a letter
+
+$C2$BOFFENDING LINES:$C0$b
+
+$C3:$C0 sin $C4$B$Ii$C0$b$ix = ∑(((-1)^n)(($C4$Ii$C0$ix)^(2n+1))/((2n+1)!),n,0,$C4∞$C0) = $C4$Ii$C0$ix – (($C4$Ii$C0$ix)^3)/3! + (($C4$Ii$C0$ix)^5)/5! – (($C4$Ii$C0$ix)^7)/7! + ... = $C4$Ii$C0$i * (x + x^3/3! + x^5/5! + x^7/7! + ...) = $C4$Ii$C0$i * ∑((x^(2n+1))/((2n+1)!),n,0,$C4∞$C0) = $C4$Ii$C0$i * sinh x
+
+$C3:$C0 sinh $C4$B$Ii$C0$b$ix = ∑((($C4$Ii$C0$ix)^(2n+1))/((2n+1)!),n,0,$C4∞$C0) = $C4$Ii$C0$ix + (($C4$Ii$C0$ix)^3)/3! + (($C4$Ii$C0$ix)^5)/5! + (($C4$Ii$C0$ix)^7)/7! + ... = $C4$Ii$C0$i * (x - x^3/3! + x^5/5! - x^7/7! + ...) = $C4$Ii$C0$i * ∑((((-1)^n)(x^(2n+1)))/((2n+1)!),n,0,$C4∞$C0) = $C4$Ii$C0$i * sin x
+
+$C3:$C0 cos $C4$B$Ii$C0$b$ix = ∑(((-1)^n)(($C4$Ii$C0$ix)^(2n))/((2n)!),n,0,$C4∞$C0) = 1 – ($C4$Ii$C0$ix)^2)/2! + (($C4$Ii$C0$ix)^4)/4! – (($C4$Ii$C0$ix)^6)/6! + ... = 1 + x^2/2! + x^4/4! + x^6/6! + ... = ∑((x^(2n))/((2n)!),n,0,$C4∞$C0) = cosh x
+#INFORMATION
+$C3:$C0 cosh $C4$B$Ii$C0$b$ix = ∑((($C4$Ii$C0$ix)^(2n))/((2n)!),n,0,$C4∞$C0) = 1 + (($C4$Ii$C0$ix)^2)/2! +
+(($C4$Ii$C0$ix)^4)/4! + (($C4$Ii$C0$ix)^6)/6! + ... = 1 - x^2/2! + x^4/4! - x^6/6! + ... = ∑((((-1)^n)(x^(2n)))/((2n)!),n,0,$C4∞$C0) = cos x
+
+$C3:$C0 $C4$Ie$C0$i^($C4$Ii$C0$ix) = ∑(($C4$Ii$C0$ix)^n/n!,n,0,$C4∞$C0) ($C4$Ii$C0$ix)^0/0! + ($C4$Ii$C0$ix)^1/1! + ($C4$Ii$C0$ix)^2/2! + ($C4$Ii$C0$ix)^3/3! + ... = 1 + $C4$Ii$C0$ix - x^2/2! - $C4$Ii$C0$ix^3/3! + ... = cos x + $C4$Ii$C0$isin x
+
+$C3:$C0 $C4$Ie$C0$i^($C4$Ii$iπ$C0) = -1
+
+$C3:$C0 $C4$Ie$C0$i = ∑(1/n!,n,0,$C4∞$C0)
+
+$C3:$C0 $C4π$C0 = 16 * arctan 1/5 - 4 arctan 1/239
+
+$C2$BEND ERRORS$C0$b
+#LOGOFF 1601
+#INTRALEVEL TELEPORT 147
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1601
+#LOGOFF 1601
+#INTERLEVEL TELEPORT 34
+#END
+#ENDTERMINAL 1

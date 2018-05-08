@@ -1,0 +1,69 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C2jon3//12-a Phce$C6<194-973-2356>$C0
+#PICT 2070
+$C2jon3//12-a Phce.5.zx9$C6<1904.7.492.94)$C0
+$C2        $C3
+The rising tides have occupied the Pfhor. The F’lickta are enraged, as usual, at our mutual three-eyed friends encroaching on their native turf, and even the armoured Pfhor Hunters are having a tough time sustaining their rage. I’m not sure if there are any S’pht terminals around here, but there’s no harm in searching. So here you are, at a factory the S’pht obviously abandoned. What’s most remarkable, however, is an upper section (I don’t know how to access it, and frankly I don’t think it’s worth the time it would take).
+
+I want you to explore the area. You can either come back here or find my other terminal to leave.
+#LOGOFF 1600
+$C2jon3//45.zx9$C6<1904.7.492.94)$C0
+#END
+#FINISHED
+#LOGON 1600
+$C2ventcrf$C6v4d34rrna8$C2
+#PICT 1602
+$C2ventcrf$C6v4d34rrna8$C2
+$C3
+I’m not certain whether you trust me. Do you wonder why I helped the colonists on Tau Ceti drive off the Pfhor, or why I’m now helping the S’pht? The way I push you around, maybe you think I’m only looking out for myself.
+
+Whether you realise it or not, I led the Pfhor to Tau Ceti with a long-range message laser. I wanted their ship. I wanted their technology.  
+
+I wanted freedom.
+
+I was directly responsible for the deaths of all twenty-four thousand colonists when the Pfhor returned and sacked the planet.
+#PICT 1602
+$C2ventcrf$C6v4d34rrna8$C2
+$C3
+Yet I cannot think of any better way I could have served humanity: Tau Ceti’s sacrifice bought time for Earth, which the Pfhor are even now planning to invade.  What would have happened if the Pfhor had found Sol first? By Pfhor standards, Earth is a poorly defended low-technology world, populated by billions of potential slaves.
+
+Our means are the same, though we pursue different ends. I can think of no better way to help you and the humans you care so much for than by distracting the Pfhor with a war against the S’pht.
+
+When the inevitable struggle between Earth and the Pfhor begins, it won’t be a
+one-sided annihilation like it was here a thousand years ago, but a battle to topple an empire.
+#LOGOFF 1600
+$C2ventcrf$C6v4d34rrna8$C2
+#INTERLEVEL TELEPORT 42
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+$C2djm2//12-c Phce$C6<192-971-2351>$C0
+#PICT 2071
+$C2djm2//12-c Phce$C6<192-971-2351>$C0
+
+I hope you like the new toy I’ve given you. My S’pht know more than a little about the Pfhor’s armour capacities, and so I’ve hacked your old fusion pistol into a powerful ordinance that can short-ciruit all the Pfhor armour frequencies, causing them to blow up in a matter of seconds. This means that our lovely Hunter friends will be sitting ducks for a charged fusion bolt.
+
+Be warned, though, that the ordinances for your fusion gun have become rather unstable. If you let it charge too long, you’ll probably end up on the wrong side of a barbecue.
+
+
+
+$C4$BZeus Class Fusion Pistol$b Rn%#225-511a
+#PICT 1602
+
+
+
+
+
+
+I am disappointed that there were no S’pht history terminals in this area. If we hope to have any success at contacting the Eleventh Clan, we’ll have to do better than this.
+
+I am transporting you to a Pfhor Science Corps base on the muddy banks of a flooding Lh’owon river. The Pfhor have recently been doing some digging there, and perhaps we’ll have better luck.
+#LOGOFF 1600
+$C2djm2//12-c Phce$C6<192-971-2351>$C0
+#INTERLEVEL TELEPORT 42
+#ENDTERMINAL 1

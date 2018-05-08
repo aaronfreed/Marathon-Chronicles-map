@@ -1,0 +1,213 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C2<CMND PRAMA $C6&49c2$C2>$C0
+#PICT 1602
+$C2<CMND PRAMA $C6&49c2$C2>$C0
+$C3
+Welcome back.
+
+I’ve awakened you from stasis and teleported you down to a planet where I need some work done. You are on Lh’owon, the homeworld of the S’pht.
+
+I’m sure you’re wondering why you were in stasis, what happened to the $IMarathon$i and Tau Ceti, and most of all where your rocket launcher and fusion gun are. There’ll be plenty of time for explanations later. For now, I need you to listen up.$C0
+#PICT 1602
+$C2<CMND PRAMA $C6&49c2$C2>$C0
+$C3
+My humans and I are planning an assault on the Pfhor on this planet. We are searching for a way to contact the eleventh S’pht clan and hopefully bring about the fall of the Pfhor Empire. If the mythical eleventh S’pht clan is still free, they have had a thousand years to grow and learn since they left Lh’owon, and they will most certainly be enraged when they hear about the fate of their brethren. If there’s any sure way to find and contact the S’pht clan, searching their old homeworld seems like it would do the trick.$C0
+#PICT 1602
+$C2<CMND PRAMA $C6&49c2$C2>$C0
+$C3
+However, we can’t just look for the clan immediately, as there is still the matter of a certain bipedal, tri-optic alien race who have followed us here and who need to be disposed of properly. My S’pht and I have looked for this world since the $IMarathon$i’s untimely demise and my capture of the Pfhor scoutship, and when we found Lh’owon sixteen hours ago, we also found a Pfhor garrison. Just what we wanted, but if you know me as well as I think you do, then you’ve correctly guessed that we’re not going to let it stand this way.
+
+So here you are.$C0
+#PICT 2063
+$C2<CMND PRAMA $C6&49c2$C2>$C0
+$C3
+You’re currently located in the Pfhor Central Communications Hub. I’m sure you’ve already recognised the new Pfhor Enforcer. They’re relentless attackers, and unfortunately they drop ammo for their weapon, rather than the weapon itself. Unless you’ve chanced to stumble upon an Enforcer weapon in a Pfhor base recently, the ammunition you’ve received for their weapon will probably be useless for awhile. We have more important things to do than worry about making ammunition for Pfhor weaponry usable for you. My compilers are acting goofy; I’ll resolve this in due course.
+#PICT 2060
+$C5ventcrfv4d34rrna8
+$C3
+I need to gain more complete access to the Pfhor computer network on this planet. What I know is no longer helping us enough. Your mission is to place two uplink chips at the locations I’ve marked for you on the map at left. My little group of humans can’t hope to succeed unless the Pfhor ranks are in chaos. Sinking them under five meters of sludge should do the trick.
+
+The chips you are going to receive and insert contain, quite simply, a trojan that will give me access to a rather substantial portion of the Pfhor network. After you’ve inserted these chips, I’ll be able to obtain technical access to the main treatment plant, whose location I’ve already scoped out for you, and we’ll look for a weakness.
+#PICT 1602
+$C5ventcrfv4d34rrna8
+$C3
+The Pfhor are preoccupied, but so are the humans. I’ve been attempting to carry out some orbital bombardment while keeping my ship cloaked, but the Pfhor have been tailing me closely for the last several years, wondering what I’m up to and trying to capture my ship, probably with the end goal of reverse-engineering its achievements to improve their fleet. I’m sure you already don’t find the prospect of a Pfhor invasion of Earth to be particularly pleasant; if they were to improve their technology as much as I’ve improved it, an invasion would be even more disastrous. Since I can’t have them knowing where the bombardments are coming from, so I’ve had to restrain myself somewhat. Don’t want to put our mission on Lh’owon in jeopardy; I’m sure you understand.
+#PICT 1602
+$C5ventcrfv4d34rrna8
+$C3
+I’ll transport in ammunition when I can, but we’re spread thin. I’ve located a scoutship that seems to suspect something’s out of the ordinary. I’ll have to teach its captain, one Commander R’chzne, a lesson. 
+
+The humans want their mission here to be a success, and they also don’t want to suffer the same fate as the less fortunate ones who just got fried by that Enforcer. I don't think I need to stress how important it is that you be careful; if casualties remain this high I will be unable to continue sending you this much assistance.
+#LOGOFF 1600
+$C2<CMND PRAMA $C6&49c2$C2>$C0
+#END
+#FINISHED
+#LOGON 1600
+$C2<CMND PRAMA $C6&681g1$C2>$C0
+#PICT 2671
+$C3
+
+Good work, old friend. You never cease to amaze me.
+
+The scoutship was a trifle, but it’s only a matter of time until the Pfhor pick up on its disappearance and begin to suspect something of being awry. Another thing: A signal I intercepted from the disabled scoutship leads me to believe that Tycho is in league with the bugs. Be careful.
+
+I’ll take a few milliseconds to analyze the records I’ve accessed while you transport to the treatment plant. There you’ll crush the garrison guarding the waterway and destroy the dam system, opening the way for my commandos infiltrating the Pfhor defensive perimeter.
+#LOGOFF 1600
+$C2<CMND PRAMA $C6&681g1$C2>$C0
+#INTERLEVEL TELEPORT 5
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1649
+$C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
+#PICT 2064
+$C2Zone 6 water system breakdown
+origin:$C6 Hlford garrison command$C2
+destin:$C6 station 6-d station commander$C2
+stamp: $IDispatch$i
+
+Planetary bombardment by hostile orbiting in captured scoutship $ISfiera$i has caused a major disfunction in the water purification/sterilization systems of Station 6-d.
+
+Send drones $C694126 95239 29581$C2 to make emergency repairs to water purification/sterilization systems.
+#LOGOFF 1649
+$C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+$C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
+#PICT 1602
+$C4/-/$C7$Direct$C4-$C7Cortex CTRL$C4-$C7Active$C4/-/
+
+$C2Replay:
+
+I’ve noticed that you’re out of practice since our last engagement.  By replaying your memory of the first encounter with the aliens, through holographic technology only recently acquired, I hope I can bring you back up to speed. 
+
+Do you recognize this?
+
+Oddly, this is familiar to you, as if it were from an old dream, but you can’t exactly remember... $C6::laughter::$C2
+#CHECKPOINT 1
+
+
+
+
+Go here to return to your mission. At this location there’s a teleport pad which will automatically negate the playback routine I’ve set in motion.
+
+As a precaution, when you return I’ll put you closer to your exit point.
+
+I advise you to explore the area a bit; I’ve thrown in a few surprises for you. You’ll probably want to find them; they may help you later on.
+
+Have fun...
+#PICT 2061
+
+
+
+
+Go here to return to your mission. At this location there’s a teleport pad which will automatically negate the playback routine I’ve set in motion.
+
+As a precaution, when you return I’ll put you closer to your exit point.
+
+I advise you to explore the area a bit; I’ve thrown in a few surprises for you. You’ll probably want to find them; they may help you later on.
+
+Have fun...
+#LOGOFF 1600
+$C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
+#END
+#FINISHED
+#LOGON 1600
+$C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
+#PICT 1602
+$C4/-/$C7$Direct$C4-$C7Cortex CTRL$C4-$C7Active$C4/-/
+
+$C2Replay:
+
+I have noticed that you are out of practice since our last engagement.  By replaying your memory of the first encounter with the aliens, through holographic technology only recently acquired, I hope that I can bring you back up to speed. 
+
+Do you recognize this?
+
+Oddly, this is familiar to you, as if it were from an old dream, but you can’t exactly remember... $C6::laughter::$C2
+#CHECKPOINT 1
+
+
+
+
+Go here to return to your mission. At this location there’s a teleport pad which will automatically negate the playback routine I have set in motion.
+
+As a precaution, when you return I will put you closer to your exit point.
+
+You’ll probably want to explore the area a bit; I’ve thrown in a few surprises for you. You’ll probably want to find them, they may help you later on.
+
+Have fun...
+#PICT 2061
+
+
+
+
+Go here to return to your mission. At this location there’s a teleport pad which will automatically negate the playback routine I have set in motion.
+
+As a precaution, when you return I will put you closer to your exit point.
+
+You’ll probably want to explore the area a bit; I’ve thrown in a few surprises for you. You’ll probably want to find them, they may help you later on.
+
+Have fun...
+#LOGOFF 1600
+$C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1686
+#CHECKPOINT 4
+#LOGOFF 1686
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1686
+#PICT 1687
+#LOGOFF 1686
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1644
+#PICT 1645
+$C1
+
+[4                                                               l9c
+
+                          $B11$b
+
+$Bi was left behind$b                $C2&ci1lc$C1
+
+$Bour paths conv$b^$Brge$b
+
+$Bour$b fates$B are shared
+
+chance tears and bends$b
+
+                                                    n %
+#PICT 2062
+$C1
+
+[4                                                               l9c
+
+                          $B11$b
+
+$Bi was left behind$b                $C2&ci1lc$C1
+
+$Bour paths conv$b^$Brge$b
+
+$Bour$b fates$B are shared
+
+chance tears and bends$b
+
+                                                    n %
+#LOGOFF 1644
+#ENDTERMINAL 5

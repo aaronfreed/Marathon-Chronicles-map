@@ -1,0 +1,44 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1644
+#PICT 1645
+$C1
+
+
+
+
+
+
+The elevator called me up
+She said, “You’d better start making sense”
+The stone was bleeding
+Whirling in the waltz
+I went to see Her Majesty
+The court had no suspense
+She said, “Dream dreams the dreamer”
+I said, “It’s not my fault”
+#LOGOFF 1644
+#END
+#FINISHED
+#LOGON 1644
+#PICT 1645
+#LOGOFF 1644
+#INTERLEVEL TELEPORT 7
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1644
+#PICT 1645
+#LOGOFF 1644
+#TAG 1
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1644
+#PICT 1645
+#LOGOFF 1644
+#TAG 2
+#ENDTERMINAL 2

@@ -1,0 +1,254 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C2ssg//4647.2.52.414.14$C6<extrnt.4>$C0
+#PICT 2080
+$C3The S’pht have preserved a myth, throughout their long period of slavery, about a lost S’pht clan that abandoned Lh’owon before the Pfhor invaded. The ten clans that stayed were destroyed or disbanded after the invasion, the survivors scattered as slaves throughout the Pfhor empire.
+
+If this mythical eleventh clan survived, it has had a millennium to grow and learn since leaving Lh’owon. My S’pht believe there is a way to contact them somewhere on Lh’owon, and that is what we are searching for.
+
+The S’pht rebellion against Pfhor tyranny will surely fail unless we locate the lost clan.
+
+Explore the area and return here.$C0
+#LOGOFF 1600
+$C2ssg//4647.2.52.414.14$C6<extrnt.4>$C0
+#END
+#FINISHED
+#LOGON 1600
+$C2ssg//4647.2.52.414.14$C6<extrnt.4>$C0
+#PICT 2141
+
+$C3The Pfhor have been on Lh’owon for nearly fifteen years, awaiting our arrival. But amusingly enough, morale in their garrison here is terrible. The Pfhor have been sending their worst officers to Lh’owon as punishment for nearly nine years – they clearly have no idea of this world’s importance.
+
+I need you to explore the ancient S’pht Citadel of Antiquity. Perhaps we’ll learn something there. The Pfhor obviously know absolutely nothing of the Eleventh Clan, so you’ll have to dive into your archaeology headfirst. Unfortunately, I’m not sure how you’ll access it, since the S’pht barricaded it off in their eleventh hour before enslavement. But life was made for trying.$C0
+#LOGOFF 1600
+$C2ssg//4647.2.52.414.14$C6<extrnt.4>$C0
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1640
+$C5@93!094<39   2!23@194$C0
+#PICT 1641
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C0
+
+$C5I felt S’bhuth at burning dawn. 
+
+The endless war rages about us, and yet we, the S’pht’Kr, cannot fight. S’bhuth stops us. 
+
+He bled on me, straining. He says to not let more S’pht feel him.  
+
+He says more will destroy him, that he was meant not to be alone.$C0
+#LOGOFF 1640
+$C5@93!  094<392!23@194$C0
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1640
+$C53.@93/45!2949cxo$C0
+#PICT 1642
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C0
+
+$C5We leave this message for any who might find it, but we have barricaded off this area, to make it difficult.  
+
+S’bhuth has gone into a deep trance; we know we’ll soon be leaving Lh’owon, but we don’t know how. The border fighting has ceased; the other clans know something is going on, but can’t see the grass for the fires.
+
+We have sent emissaries to the other clans, but only S’bhuth knows what messages they carry.$C0
+#LOGOFF 1640
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1640
+$C5CI32LC0C.c$C0
+#PICT 1643
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C0
+
+$C5We are leaving behind many F’lickta to keep the ducts clean and working. They should be able to build one of their stable societies here — there is plenty of food.  
+
+We would ask that if another clan comes here, they would respect these creatures and leave them to continue their work and preserve our home on Lh’owon.$C0
+#LOGOFF 1640
+$C5CI32LC0C.A$C0
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1640
+$C5392.c93@!39&95@7$C0
+#PICT 1641
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C0
+$C5
+The S’pht’Mnr attacked us.  
+
+S’bhuth is entranced, and we are powerless to fight back.  
+
+The outer villages have been slaughtered without their defenders. The attackers have overrun and killed most of us who were in the compound.$C0
+#PICT 1642
+$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$C4$b/-/$C0
+$C5
+Only those of us in the central chamber have survived. 
+
+They won’t likely find these chambers, but we cannot survive here forever.$C0
+#LOGOFF 1640
+$C5392.c93@!39&95@7$C0
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1649
+$C2lhwefsson$C6.yeihtifna$C2.151$C0
+#PICT 2082
+$C4/-/$C7$BPfhor$C4-$C7Translator$C4-$C7Active$C4$b/-/$C0
+$C2
+$BReport from Science Manager 7$b
+$C6ZONE 29-s$C2 [Lh’owon Garrison]
+
+We’ve been studying these beasts for some time, but periodically we’ve been forced to kill our specimens and capture new ones because they become unpredictably upset at our presence. It has been difficult to study them for any length of time, but their numbers in the surrounding caves are impressive. The caves must go deeper than we have been able to ascertain.
+
+Our scientific studies have revealed that these creatures are genetic ancestors of the S’pht, although in morphological terms this is absurd.
+#PICT 2082
+$C4/-/$C7$BPfhor$C4-$C7Translator$C4-$C7Active$C4$b/-/$C0
+$C2
+$BReport from Science Manager 7$b
+$C6ZONE 29-s$C2 [Lh’owon Garrison]
+
+Also, they don’t eat. They take energy from the sludge that surrounds them, using a method of energy transfer that is unknown to us and beyond our depth of study.
+
+Variations of these creatures live in the active volcanic regions of Lh’owon and there have been two sightings deep in the Central Garrison’s geothermal station. In no cases were the creatures aggressive like they are here.$C0
+#LOGOFF 1649
+$C2lhwefsson$C6.yeihtifna$C2.151$C0
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1647
+$C2lhwefsson$C6.yeihtifna$C2.151$C0
+#PICT 1651
+$C4/-/$C7$BPfhor$C4-$C7Translator$C4-$C7Active$C4$b/-/$C0
+$C2
+$BDirective from Garrison Command$b//$C6Hlford$C2
+To: Leader, $C6Station 29-s$C2
+
+
+
+
+
+$BWarning:$b Damage to dam on the Minor River has caused severe damage to the water system in zone 6, and flooding of this same river could cause catastrophic damage $C7(?sarcasm)$C2 to station 29-s within two hours.
+
+
+Station 29-s has been ordered to evacuate to Garrison Command.
+#LOGOFF 1647
+$C2lhwefsson$C6.yeihtifna$C2.151$C0
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1648
+$C2Remote Tecibon $C605fc392d$C0
+#PICT 1652
+$C4/-/$C7$BPfhor$C4-$C7Translator$C4-$C7Active$C4$b/-/$C0
+$C2
+$BReport from Science Manager 7$b
+$C6ZONE 29-s$C2 [Lh’owon Garrison]
+
+We have explored many of the surrounding caves, but continually find the combative creatures the S’pht call F’lickta. Archaeological evidence suggests that this was once a center of S’pht life, though it appears to have been abandoned after an ancient battle. 
+
+The quality of the machinery is quite extraordinary, and most of the computer terminals remain functional even after two millennia.$C0
+#PICT 1652
+$C4/-/8$BPfhor-8Translator-8Active$b/-/$C2
+
+$BReport from Science Manager 7$b
+$C6ZONE 29-s$C2 [Lh’owon Garrison]
+
+This terminal is teleport—linked to others we installed in caves that are not easily accessible. We also found some additional tunnels by blasting away barricades that were apparently erected during the ancient battle.
+#PICT 2081
+
+$C6$"0000 0000 000F F800 001F FF00 0071 FF80"
+$"00C1 FFE0 0181 FDF0 0901 FCF8 $C21203$C6 FE78"
+$"3A01 FF7C 3C07 FF7C 7C0B FF3E 7CFF FF3E"
+$"FCFF FF7E FCFF FF7E FE7F FE7F FE7F FEFF"
+$"FF3F FCFF FF9F F9FE FFE7 C7FF 7FF8 1FFE"
+$"7FFE 7FFE 7FFE 7FFE 3FFE 7FFC 3FFE 7FFC"
+$"1FFE 7FF8 1FFE 7FF8 0FFE 7FF0 07FE 7FE0"
+$"01FE 7F80 $C200FE$C6 7F00 001E 7800 0000 0000"
+$"0007 F000 003F FE00 00FF FF80 03FF FFC0"
+$"07FF FFE0 0FFF FFF0 1FFF FFF8 3FFF FFFC"
+$"3FFF FFFC 7FFF FFFE 7FFF FFFE FFFF FFFF"
+$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"
+$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"
+$"FFFF FFFF 7FFF FFFE $C27FFF$C6 FFFE 3FFF FFFC"
+$"3FFF FFFC 1FFF FFF8 0FFF FFF8 07FF FFE0"
+$"03FF FFC0 01FF FF80 007F FE00 0000 0000"
+
+
+$C0$BTELEPORTATION ACTIVATED$b
+$C3[escape to abort]$C0
+#LOGOFF 1648
+$C2Remote Tecibon $C605fc392d$C0
+#INTRALEVEL TELEPORT 222
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 1648
+$C2Remote Tecibon $C60921fc3e$C0
+#PICT 2081
+
+$C6$"0000 0000 000F F800 001F FF00 0071 FF80"
+$"00C1 FFE0 0181 FDF0 0901 FCF8 $C21203$C6 FE78"
+$"3A01 FF7C 3C07 FF7C 7C0B FF3E 7CFF FF3E"
+$"FCFF FF7E FCFF FF7E FE7F FE7F FE7F FEFF"
+$"FF3F FCFF FF9F F9FE FFE7 C7FF 7FF8 1FFE"
+$"7FFE 7FFE 7FFE 7FFE 3FFE 7FFC 3FFE 7FFC"
+$"1FFE 7FF8 1FFE 7FF8 0FFE 7FF0 07FE 7FE0"
+$"01FE 7F80 $C200FE$C6 7F00 001E 7800 0000 0000"
+$"0007 F000 003F FE00 00FF FF80 03FF FFC0"
+$"07FF FFE0 0FFF FFF0 1FFF FFF8 3FFF FFFC"
+$"3FFF FFFC 7FFF FFFE 7FFF FFFE FFFF FFFF"
+$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"
+$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"
+$"FFFF FFFF 7FFF FFFE $C27FFF$C6 FFFE 3FFF FFFC"
+$"3FFF FFFC 1FFF FFF8 0FFF FFF8 07FF FFE0"
+$"03FF FFC0 01FF FF80 007F FE00 0000 0000"
+
+
+$C0$BTELEPORTATION ACTIVATED$b
+$C3[escape to abort]
+#LOGOFF 1648
+$C2Remote Tecibon $C60921fc3e$C0
+#INTRALEVEL TELEPORT 241
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 1648
+$C2Remote Tecibon $C640cf3194f$C0
+#PICT 2081
+
+$C6$"0000 0000 000F F800 001F FF00 0071 FF80"
+$"00C1 FFE0 0181 FDF0 0901 FCF8 $C21203$C6 FE78"
+$"3A01 FF7C 3C07 FF7C 7C0B FF3E 7CFF FF3E"
+$"FCFF FF7E FCFF FF7E FE7F FE7F FE7F FEFF"
+$"FF3F FCFF FF9F F9FE FFE7 C7FF 7FF8 1FFE"
+$"7FFE 7FFE 7FFE 7FFE 3FFE 7FFC 3FFE 7FFC"
+$"1FFE 7FF8 1FFE 7FF8 0FFE 7FF0 07FE 7FE0"
+$"01FE 7F80 $C200FE$C6 7F00 001E 7800 0000 0000"
+$"0007 F000 003F FE00 00FF FF80 03FF FFC0"
+$"07FF FFE0 0FFF FFF0 1FFF FFF8 3FFF FFFC"
+$"3FFF FFFC 7FFF FFFE 7FFF FFFE FFFF FFFF"
+$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"
+$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"
+$"FFFF FFFF 7FFF FFFE $C27FFF$C6 FFFE 3FFF FFFC"
+$"3FFF FFFC 1FFF FFF8 0FFF FFF8 07FF FFE0"
+$"03FF FFC0 01FF FF80 007F FE00 0000 0000"
+
+
+$C0$BTELEPORTATION ACTIVATED$b
+$C3[escape to abort]
+#LOGOFF 1648
+$C2Remote Tecibon $C640cf3194f$C0
+#INTRALEVEL TELEPORT 318
+#ENDTERMINAL 9
