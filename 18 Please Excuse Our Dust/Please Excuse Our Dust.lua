@@ -21,13 +21,18 @@ end
 function Triggers.idle()
 	suffocate()
 	darkness()
+	oxygen()
 end
 
 function suffocate()
-	for p in Players() do		if p.z < suff2 and not p.dead then
+	for p in Players() do
+		if p.z < suff2 and not p.dead then
 			p:damage(4,"suffocation")
-		elseif p.z < suff1 and not p.dead then			p:damage(1,"suffocation")		end
-	end	for m in Monsters() do
+		elseif p.z < suff1 and not p.dead then
+			p:damage(1,"suffocation")
+		end
+	end
+	for m in Monsters() do
 		if not m.player and not m.dead then
 			if m.z < suff2 then
 				m:damage(12,"suffocation")
@@ -82,5 +87,13 @@ function darkness()
 
 	if fogtimer == 0 then
 		fogtimer = 420 + Game.random(666)
+	end
+end
+
+function oxygen()
+	for p in Players() do
+		if p.polygon.media then
+			p:damage (1,"oxygen drain")
+		end
 	end
 end
