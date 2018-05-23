@@ -1,0 +1,23 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+#PICT 1602
+If you look just to your north you can see a small part of the ancient S’pht Citadel of Antiquity. I need you to find a way in. I don’t currently have all the details as to how you are to get there, but I know there is a teleporter directly below the surface of the Citadel that will take you directly into the structure. Unfortunately, it is currently sealed off, and I don’t believe you’ll be able to unseal it by mucking about in the water here. I suspect the controls to open it up are well above you.
+
+You will need to exercise caution in climbing to the surface, as the Pfhor are unlikely to take the intrusion kindly. You’ll probably be safe in this waterfall area, so you’ll want to use the pattern buffer as quickly as possible, but as soon as you get out, you’ll see a merciless onslaught, and I can’t spare too many of my humans or S’pht to assist you. The Pfhor don’t know what secrets the Citadel contains, but they suspect that whatever it houses won’t beneficial to their empire, and thus they have little desire to allow these secrets to seep out to humanity or their S’pht. They’d just as soon destroy the structure entirely, but it has stood roughly intact for some two thousand years and it seems unlikely that any item in the Pfhor arsenal short of the $Itrih xeem$i can destroy it.
+
+So start climbing; the sooner we expose its secrets, the better. I’ll keep you supplied with a steady stream of toys when possible; you’re going to meet a sizable welcoming party. Should you need a shield recharge, you are best advised to return to the lighted area directly below the here waterfall, or to a similar area in the north sector of this compound. I can’t provide them instantly, but I’ll try to keep you from needing to wait too long.
+
+Good luck.
+#LOGOFF 1600
+#ENDTERMINAL
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+#PICT 1602
+You’ve done well.
+#LOGOFF 1600
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL
