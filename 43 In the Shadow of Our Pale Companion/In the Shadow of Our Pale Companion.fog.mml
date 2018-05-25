@@ -3,7 +3,7 @@
 <fog on="true"/>
 <fog depth="42" landscapes="0"/>
 <fog>
-<color red=".4" green=".2" blue="0"/>
+<color red=".2" green=".15" blue="0"/>
 </fog>
 </opengl>
 </marathon>
