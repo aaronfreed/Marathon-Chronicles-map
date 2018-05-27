@@ -9,9 +9,9 @@ ndex, p$C0olyg’t believe everython$I_in$idex));nS_TRANSPARENT(line))
 {polygon= get_$C3polygon_data(*polyg$Bon_index);
 		case _clo$C0ckwise_bias
 
-$bIt’s useless.  The Pfhor reopened the ship to vacuum, or air that only they can breathe, and their troopers are closing in fast.  The humans are already planetside.  You know what to do.
+$bIt’s useless. The Pfhor troopers are closing in fast. The humans are already planetside. You know what to do.
 
-Finish me.  The Pfhor won’t learn anything from my ship or from me.
+Finish me. The Pfhor won’t learn anything from my ship or from me.
 
 $C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
 polygon_index,$C3 polygTycho is infiltrat3on_index));nS_TRANSPARENT(line))
@@ -30,9 +30,9 @@ ndex, p$C0olyg’t believe everython$I_in$idex));nS_TRANSPARENT(line))
 {polygon= get_$C3polygon_data(*polyg$Bon_index);
 		case _clo$C0ckwise_bias
 
-$bIt’s useless.  The Pfhor reopened the ship to vacuum, or air that only they can breathe, and their troopers are closing in fast.  The humans are already planetside.  You know what to do.
+$bIt’s useless. The Pfhor troopers are closing in fast. The humans are already planetside. You know what to do.
 
-Finish me.  The Pfhor won’t learn anything from my ship or from me.
+Finish me. The Pfhor won’t learn anything from my ship or from me.
 
 $C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
 polygon_index,$C3 polygTycho is infiltrat3on_index));nS_TRANSPARENT(line))
@@ -51,9 +51,9 @@ ndex, p$C0olyg’t believe everython$I_in$idex));nS_TRANSPARENT(line))
 {polygon= get_$C3polygon_data(*polyg$Bon_index);
 		case _clo$C0ckwise_bias
 
-$bIt’s useless.  The Pfhor reopened the ship to vacuum, or air that only they can breathe, and their troopers are closing in fast.  The humans are already planetside.  You know what to do.
+$bIt’s useless. The Pfhor troopers are closing in fast. The humans are already planetside. You know what to do.
 
-Finish me.  The Pfhor won’t learn anything from my ship or from me.
+Finish me. The Pfhor won’t learn anything from my ship or from me.
 
 $C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
 polygon_index,$C3 polygTycho is infiltrat3on_index));nS_TRANSPARENT(line))
@@ -72,9 +72,9 @@ ndex, p$C0olyg’t believe everython$I_in$idex));nS_TRANSPARENT(line))
 {polygon= get_$C3polygon_data(*polyg$Bon_index);
 		case _clo$C0ckwise_bias
 
-$bIt’s useless.  The Pfhor reopened the ship to vacuum, or air that only they can breathe, and their troopers are closing in fast.  The humans are already planetside.  You know what to do.
+$bIt’s useless. The Pfhor troopers are closing in fast. The humans are already planetside. You know what to do.
 
-Finish me.  The Pfhor won’t learn anything from my ship or from me.
+Finish me. The Pfhor won’t learn anything from my ship or from me.
 
 $C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
 polygon_index,$C3 polygTycho is infiltrat3on_index));nS_TRANSPARENT(line))

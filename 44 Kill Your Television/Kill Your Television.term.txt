@@ -1,0 +1,97 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1607
+teilhard$C3//004121.25.1$C0
+#PICT 11811
+$BMESSAGE RECORDED$b $C3<03.02.2250414>$C0
+
+The Pfhor have traced our communications and our base is under attack by their cyborg slaves who are immune to the ancient S’pht virus.  We’re retreating deeper underground now.
+
+Durandal suggested before his destruction that there were two more activation sites here.  No one knows for certain what will happen when Thoth is activated, but if he does not help us we are doomed and you will be stuck here.
+
+Once again, good luck.  You are our only hope.
+
+$BEND RECORDED MESSAGE$b
+#LOGOFF 1607
+teilhard$C3//004121.25.1$C0
+#END
+#FINISHED
+#LOGON 1607
+ugv0-i6tc$Ik[24 2h26u njk$i==$Btp12t1$b
+#PICT 12101
+ihavebee}ro$C3landbeowulfachil!esgilgames$C0hiha
+vebeencalleda[undrednamesandwillbecalledat
+housandmorebeforetheworldgoesdimandcoldiam
+%hero$C3shehasbeenn~melesssinceourbi=thaconst
+antadversarycaringfornothingbutmyruinaswor
+ddrenchedinmybloodfor%vermygreatestand+nly
+lovesheisthedarkoLetheenemya$C0ndloverwithout
+whoZmyveryexistencewouldbepatheticandvulga
+rourrelationshipiscom^lexandperhapseternal
+wemetonceinthegardenatthebeginningofthewor
+ldandunaw$C3areofourtwindestinieswematchedsta
+resacrossad;yf\untainandirecallhersmiling>
+tmebeforeshedevouredthelawnandtreeswithatr
+$C0anslucentblueflameandtoreflagstonesfromthe
+‘athandhurledthemintotheskyscreamingmysins
+ipowderagranitemonumentinasoundless$C3flashsh
+oweringthegrasswithmoltendropsofitsgoldinF
+aysendingsmoking$C0chipsofstoneskippingintoth
+efogshesplinte!sanancientoakwitha/orcethat
+takesmybreathandhurlsm$C3etothegroundshelea%!$C0
+
+$BCONNECTION TERMINATED$b $C3<ID#0401>$C0
+#LOGOFF 1607
+gv0-i6tc$Ik[24 2h26u njk$i==$Btp12t1$b
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+$C161ef$Ba 21Y$Ijm$iPM$bH& r f7(P$C0
+#PICT 1609
+$C1~
+                                   []
+
+^r                               /  !
+              x ~^
+                       j
+@W$Bnot ed$b%UJIr     R$Bslowly$b FYMHr &(P
+          $  !
+                                     /                       [0]
+        45 * !                               +_
+5                $Bovr erru$b   JSR$Bfinish$bYr RK
+        4 !        ;’,’41!!           $Bwaiting$b
+                 EY$Bthous$b
+3w4t                        g g WGJDN!!!K)(2             ~~fF~fx
+                4!@
+
+   ?!$                          .414.14       $Bpnz.$C0$b
+#LOGOFF 1608
+$C1CI$BLCI$b@1C    0f1returnrpvcs!S$C0
+#END
+#FINISHED
+;[1; exit; success; thoth]
+#LOGON 1608
+$C1NDfdiscared$B @%041/3$!1$b$C0
+#PICT 1609
+
+
+
+
+
+
+
+
+$C1$BHumans of yours are near $b[?death],$B
+but by your dead construct’s
+     transporters
+to $b[?save]$B them I will send you;
+
+while I seek $b[?perception]$B of this
+     new world.$C0$b
+#LOGOFF 1608
+$C1mi41$Bnor$b 7*(^tfg$C0
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 1
