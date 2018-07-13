@@ -2,22 +2,87 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
 #PICT 1602
-If you look just to your north you can see a small part of the ancient S’pht Citadel of Antiquity. I need you to find a way in. I don’t currently have all the details as to how you are to get there, but I know there is a teleporter directly below the surface of the Citadel that will take you directly into the structure. Unfortunately, it is currently sealed off, and I don’t believe you’ll be able to unseal it by mucking about in the water here. I suspect the controls to open it up are well above you.
+If you look just to your north, you’ll see a small part of the S’pht Citadel of Antiquity. This ancient Citadel was the site of the conclusive battle in the short war between the S’pht and the Pfhor. The primary tower is inaccessible by direct teleportation, evidently because some of the Citadel’s defenses are still functional. I need you to find a way in. I don’t have all the details as to how you can get in, but I know there is a teleporter directly below the surface of the Citadel that will take you directly into the structure. Unfortunately, it’s currently sealed off, and you won’t be able to unseal it by mucking about in the water here. I suspect the controls to open it up are well above you.
 
-You will need to exercise caution in climbing to the surface, as the Pfhor are unlikely to take the intrusion kindly. You’ll probably be safe in this waterfall area, so you’ll want to use the pattern buffer as quickly as possible, but as soon as you get out, you’ll see a merciless onslaught, and I can’t spare too many of my humans or S’pht to assist you. The Pfhor don’t know what secrets the Citadel contains, but they suspect that whatever it houses won’t beneficial to their empire, and thus they have little desire to allow these secrets to seep out to humanity or their S’pht. They’d just as soon destroy the structure entirely, but it has stood roughly intact for some two thousand years and it seems unlikely that any item in the Pfhor arsenal short of the $Itrih xeem$i can destroy it.
+You should exercise caution in climbing to the surface, as the Pfhor are unlikely to take the intrusion kindly. You probably won’t receive another attack here, so you’ll want to use the pattern buffer as soon as possible, but as you progress, you’ll receive a merciless onslaught, and I can’t spare too many of my humans or S’pht to assist you. The Pfhor don’t know what secrets the Citadel contains, but they suspect that whatever it houses won’t beneficial to their empire, and thus they have little desire to allow these secrets to seep out to humanity or their S’pht. They’d just as soon destroy the structure entirely, but it has stood roughly intact for some two thousand years, and I doubt any item in the Pfhor arsenal short of the $Itrih xeem$i can destroy it.
 
-So start climbing; the sooner we expose its secrets, the better. I’ll keep you supplied with a steady stream of toys when possible; you’re going to meet a sizable welcoming party. Should you need a shield recharge, you are best advised to return to the lighted area directly below the here waterfall, or to a similar area in the north sector of this compound. I can’t provide them instantly, but I’ll try to keep you from needing to wait too long.
+So get climbing; the sooner we expose its secrets, the better. I’ll keep you supplied with a steady stream of toys when possible; you’re going to meet a sizable welcoming party. Should you need a shield recharge, you are best advised to return to the lighted area directly below the here waterfall, or to a similar area in the north sector of this compound. I can’t provide them instantly, but I’ll try to keep you from needing to wait too long.
 
 Good luck.
 #LOGOFF 1600
-#ENDTERMINAL
+$C5<Pragma Junction ^7921 Engaged>$C0
+#END
+;
+#FINISHED
+#LOGON 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#PICT 1604
+
+
+
+
+
+$C5<Pragma Junction ^7921 Engaged>$C0
+
+If you insist on stumbling around when our time here is limited, I may just decide that you’re not all that special after all and teleport you out into space. 
+
+$BGET INTO THE TOWER!$b
+
+Still Rampant,
+Durandal
+#LOGOFF 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 1600
+$C5<Trn 36 ap&1cz:: 9cm2>$C0
 #PICT 1602
-You’ve done well.
+With the imminent arrival of the Pfhor fleet, the humans and my S’pht have begun enhancing the defenses of their headquarters.  Even if I have to abandon them, they will be able to hold out for a long time.
+
+I am going to teleport you to the higher levels of the Citadel.  Hopefully, we can find some useful information at the top.  We must determine what happened to the eleventh S’pht clan.
 #LOGOFF 1600
+$C5<Trn 36 ap&1cz:: 9cm2>$C0
 #INTERLEVEL TELEPORT 44
-#ENDTERMINAL
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#PICT 1602
+
+
+
+
+
+$C5<Pragma Junction ^7921 Engaged>$C0
+
+We’re going to have visitors soon.  The Western Arm of Pfhor Battle Group Seven is en-route and should be here in about twenty hours.  
+
+Battle Group Seven represents over ten percent of active Pfhor naval strength.  I doubt whether even I can hold them back with a single ship, but I will try.
+#LOGOFF 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#END
+;
+#FINISHED
+#LOGON 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#PICT 1602
+
+
+
+
+
+
+$C5<Pragma Junction ^7921 Engaged>$C0
+
+Stop messing around.  Didn’t I tell you that a significant portion of the strongest nearby galactic navy is headed in this direction?
+
+$BGET BACK TO THE TOWER!$b
+#LOGOFF 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#ENDTERMINAL 2

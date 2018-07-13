@@ -93,5 +93,5 @@ while I seek $b[?perception]$B of this
      new world.$C0$b
 #LOGOFF 1608
 $C1mi41$Bnor$b 7*(^tfg$C0
-#INTERLEVEL TELEPORT 256
+#INTERLEVEL TELEPORT 25
 #ENDTERMINAL 1
