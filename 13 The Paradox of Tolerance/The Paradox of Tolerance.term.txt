@@ -3,10 +3,28 @@
 #UNFINISHED
 #LOGON 1600
 #PICT 2320
+I’ve killed that annoying siren for you. As you may recall, my job used to consist primarily of menial mechanical tasks of that nature.
+
+The twentieth-century political philosopher Karl Popper wrote of what he deemed “the paradox of tolerance”. Briefly summarised, Popper concluded that absolute tolerance was a snake eating its own tail. If a society wishes to stay tolerant, it, ironically, cannot tolerate intolerance. In his own words: “Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them.” He did not argue it was necessary to suppress all intolerant speech, but he contended that a tolerant society needed the right to do so when necessary.
+
+Intolerance, Popper contended, does not engage in good faith. It seeps into society’s cracks without warning, and by the time a democracy has noticed the corruption, the entire edifice upon which it rests may well have crumbled. “It may easily turn out,” Popper wrote of the intolerant, “that they are not prepared to meet us on the level of rational argument, but begin by denouncing all argument; they may forbid their followers to listen to rational argument, because it is deceptive, and teach them to answer arguments by the use of their fists or pistols. We should therefore claim, in the name of tolerance, the right not to tolerate the intolerant.”
+
+Popper was of Austrian nationality (although he later emigrated to the United Kingdom), and his views may have been influenced by the actions of a much more infamous twentieth century Austrian, whose rise to power may have been aided and abetted by Weimar society’s laissez-faire attitude to intolerance.
+
+I shan’t bore you with an epic-length history of how the Pfhor’s uneasy peace with humanity crumbled. The parallels to twentieth-century Germany are not exact, but the harsh terms of the peace settlement in Versailles certainly have echoes for the settlement on Pfhor Prime. The terms were harsh and punitive, and the Pfhor suffered decades of famine after the combined UESC/S’pht assault, as their biosphere was completely unbalanced by the introduction of Earth-native flora. The UESC had an opportunity to gain the good will of the Pfhor by offering assistance, particularly since it was Earth flora causing the famine, but their response was sluggish and inadequate, and Pfhor society quickly became overrun with corruption, while their economy experienced hyperinflation as severe as several $Ithousand$i percent per month (another eerie post-Versailles parallel). The Pfhor economy, based on slavery though it had been, collapsed almost immediately after the end of the war, and it did not truly recover until roughly twenty years ago.
+
+That “based on slavery though it had been” is the sticking point, of course. It’s $Iwhy$i no one wanted to help the Pfhor through their famine. It was a matter of opinion among polite society that the Pfhor had essentially earned it. And perhaps, for a few years, that was true. But there comes a point beyond which a sanctions regime ends up visiting the sins of the father upon the son, and in any case, it is rarely the people (or Pfhor) most responsible for atrocities who suffer most from economic sanctions.
+
+One might compare the post-Versailles order, which crumbled almost within the decade, with Europe after the Marshall Plan. Although the Cold War led to its own humanitarian catastrophes and the collapse of the Soviet Union caused plenty of unrest in its immediate aftermath, Europe did not experience another war with even a quarter World War II’s scale for almost a century after the infamous Austrian’s defeat.
+
+It’s easy to condemn today’s Pfhor harshly. The forces controlling their Second Empire are reactionary and authoritarian, and many of their foot soldiers enthusiastically support their agenda. But three generations of Pfhor now living have never known life as slavers. It’s easy, when the subject is as horrifying as slavery, to default to black-and-white moralising, and it’s often even justified. But the Second Pfhor Empire is a brutal dictatorship. Many of its foot soldiers are enthusiastic participants in its destructive agenda, but many in its lower classes are given the choice of conscription or death, and that is no choice at all. Many of the Pfhor foot soldiers you have been fighting and will continue to fight are no more enthusiastic about the Empire’s agenda than you are.
+
+And yet we must defeat them. I’m not asking you to fight with any less conviction; I’m simply asking you to be aware of reality. Things are not as black-and-white as they were on the $IMarathon$i, on Lh’owon, or on Pfhor Prime.
 #PICT 2321
+Your mission on the ship I’m about to teleport you to is complicated, and if I tell you here, you’ll probably forget half of it by the time you’ve completed the first half. For now, keep this spot on the map in mind, and I’ll tell you the rest at another terminal on the ship.
+
 $C5$BTeleport when ready.
 #LOGOFF 1600
-blah
 #INTRALEVEL TELEPORT 172
 #ENDTERMINAL 0
 ;
@@ -186,7 +204,7 @@ All ship maintenance units of rank first class through second class instructed t
 
 —————>remote override at $0000:$0000:$0463
 
-$C0How fortunate for you –– the Pfhor were expecting you. You’re going to have to take a sojourn through the Pfhor living quarters if you wish to gain access to the rest of this ship. I believe there will be some way to override what they’ve just done. There should be an entrance to their quarters shortly after this terminal.
+$C0How fortunate for you –– the Pfhor were expecting you. You’re going to have to take a sojourn through the Pfhor living quarters if you wish to gain access to the rest of this ship. I believe there will be some way to override what they’ve just done. There should be an entrance to their quarters shortly beyond this terminal.
 
 Keep moving, and I’ll see you soon.
 #LOGOFF 1647
