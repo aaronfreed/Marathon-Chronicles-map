@@ -31,7 +31,7 @@ I’ve also used sounds from other scenarios, again mostly *Evil*, *Tempus Irae*
 
 Most level titles are taken from songs or albums, with a few others from books or television. Only a handful don’t come from musical or literary sources. For inspiration, credit to (*deep breath*) **Tears for Fears** (“Sketches of Pain”, “Famous Last Words”; note that the former of these is inspired by Miles Davis and Gil Evans’ album *Sketches of Spain*, and I intend my level title as a reference to both), **Emperor** (“Anthems to the Welkin at Dusk”, “With Strength I Burn”), **Weakling** (“Cut Their Grain and Place Fire Therein”), **Panopticon** (“Revisions of the Past”, “To Make an Idol of Our Fear and Call It God”), **William S. Burroughs** (every “Naked Lunch” level), **Television** (”The Dream’s Dream”), **Mr. Bungle** (“Everyone I Went to High School With Is Dead”), **Peter Gabriel** (“Here Comes the Flood”), **the Velvet Underground** (“The Black Angel’s Death Song”), **the Mars Volta** (“Miranda, That Ghost Just Isn’t Holy Anymore”), **Genesis** (“Entangled”, “Supper’s Ready”), **Elton John** (“Burn Down the Mission”), **Porcupine Tree** (“Deadwing”), **Soundgarden** (“Room a Thousand Years Wide”), **Radiohead** (“2+2=5 (The Lukewarm)”, “How to Disappear Completely”), **Metallica** (“Master of Puppets”), **the Wallflowers** (“Another One in the Dark”), **Arcturus** (“Nightmare Heaven”), **Lou Reed** (“Kill Your Sons”, though this title is also partially inspired by Bungie’s terminal at the end of the level, which was probably written by Greg Kirkpatrick), **Godspeed You! Black Emperor** (“Motherfucker=Redeemer”), **Isaac Asimov** (“Star’s End”), **Tears for Fears** (“Famous Last Words”), **Tool** (“Eon Blue Apocalypse”), **Gorguts** (“Sweet Silence”, though this level title is also partially inspired by Metallica’s studio in Copenhagen), **Bob Dylan** (“It’s Alright, Ma (I’m Only Bleeding)”), **Nobuo Uematsu** (the absolutely execrable pun “Dancing MADD”, for which I apologise in advance; it’s got to be worse than Pfhor puns), ***Star Trek*** (“Errand of Mercy”, which was written by Gene L. Coon), **Jeff Buckley** (“Dream Brother”), **Pavement** (“Transport Is Arranged”), ***Secret of Mana*** (“Thanatos, Beneath the Dust” was partially named in honour of its villain) **Agalloch** (“In the Shadow of Our Pale Companion”), **Il Balletto di Bronzo** (“Ys”), **Joanna Newsom** (also “Ys”; the title is in honour of both albums as well as the mythical underwater city after which both are named)… oh, and also the net maps. These don’t as consistently follow this rule, but **Douglas Adams** (“Cathedral of Hate”, “Life Is Wasted on the Living”), **Thomas Mann** (“Death in Venice”, though I must admit I still haven’t read it; I just felt the title was apropos for a netmap based on “A Converted Church in Venice, Italy”), **Rush** (“Cygnus X-1”), **Blut aus Nord** (“Dialogue with the Stars”), **Spiritualized** (“Ladies and Gentlemen We Are Floating in Space”), **King Crimson** (“Starless and Bible Black”, “Fracture”), and **Sigh** (“Slaughtergarden Suite”) inspired a few. I may rename a few others at some point, but I haven’t done nearly as much work on the net maps because I don’t currently have people to test them out with.
 
-The appearance of others’ artwork and map designs should not be interpreted as their endorsement of this project; in many cases, I have not specifically contacted them in decades, and in a few cases, I have not yet contacted them at all, though I plan to do so if possible before releasing a more complete version of this scenario. (In particular, I have been unable to locate contact information for either **Chris Lund** or **D. Scott Brown**; if anyone can get me in touch with them, I would be immensely appreciative.)
+The appearance of others’ artwork and map designs should not be interpreted as their endorsement of this project; in many cases, I have not specifically contacted them in decades, and in a few cases, I have not yet contacted them at all, though I plan to do so if possible before releasing a more complete version of this scenario. I would like to thank **James Hastings-Trew**, **D. Scott Brown**, and **RyokoTK** specifically for their permission to use various assets they’ve created.
 
 I also wish to thank several others for assistance at various stages. **Hamish Sinclair** sent me some of **Doug Zartman**’s previously unreleased Bob sounds; you can hear them in this project. It’s also quite unlikely this scenario would exist at all without his Story page, and the Vidmaster page he co-maintains with **Jim Mitchell** is a major reason I don’t completely suck at this game anymore (additional thanks to anyone whose films appear on the page).
 
@@ -47,9 +47,22 @@ Most of my planned story isn’t yet incorporated in these levels, though I woul
 
 Apologies if I misspelled anyone’s name. I double-checked all the spellings, but I can’t promise that I didn’t misread them.
 
-Finally, of course I would like to thank **Bungie** for open-sourcing everything *Marathon*, and for that matter for creating it in the first place, and everyone who’s ever worked on **Aleph One**.
+The final thanks I wish to give, of course, are to **Bungie** for open-sourcing everything *Marathon*, and for that matter for creating it in the first place, and to everyone who’s ever worked on **Aleph One**.
 
-You can contact me at:
+Lastly, as an aid to people going over the Pfhorums thread/YouTube channel, since several levels have changed names at least once over the course of development, here’s a log of their old names:
+
+**Take the Veil Cerpin Taxt**: formerly “The Inner Light” and “Anthems to the Welkin at Dusk”;
+**Pleiades’ Dust**: formerly “Noli pati a scelestis opprimi” and “Illegitimi non carborundum”;
+**Revisions of the Past**: formerly “Life Seeker”;
+**Everyone I Went to High School With Is Dead**: formerly “Welcome Home (Sanitarium)” and “Pine View (Hell)”;
+**Miranda, That Ghost Just Isn’t Holy Anymore**: formerly “Houses of the Holy”;
+**The Paradox of Tolerance**: formerly “Burn Down the Mission” and “Idioteque”;
+**Men Like Ravenous Fishes**: formerly “Deadwing” and “Inside Information”;
+**Room a Thousand Years Wide**: formerly “Tighter & Tighter”;
+**To Make an Idol of Our Fear and Call It God**: formerly “Please Excuse Our Dust”;
+**Neon Valley Street** formerly “2+2=5 (The Lukewarm)”
+
+I hope you enjoy this scenario. Comments, suggestions, constructive criticism, praise, offers of employment, submissions of content, pull requests, Vid films, etc., are all highly welcome. You can contact me at:
 
 · **the Pfhorums**, where my username is currently The Man: http://pfhorums.com
 
