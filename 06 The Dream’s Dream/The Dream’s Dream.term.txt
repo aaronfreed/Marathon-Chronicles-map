@@ -3,22 +3,13 @@
 #UNFINISHED
 #LOGON 1644
 #PICT 1645
-$C1
+$C1I couldn’t tell you, any longer, when I first became unstuck in time, and so I can’t tell you, any longer, the proper sequence of events as they occurred to me.  So none of this will be in order.  It can’t be – I don’t know the order.  I couldn’t tell you when I began running, when I began fighting.  Was I incarcerated in a previous life?  Did I enlist out of desperation?  To see the world?  Did I agree to become a lab rat out of love for science?  Was I just in need of cash?  Are my memories of twentieth-century Earth even real?
 
+In the end, so long has passed that it might not even really matter.  I’m sure there isn’t another soul alive any longer who remembers any of these events.  I don’t even know whether I experienced them myself, or whether they’re implanted memories.
 
-
-
-
-
-The elevator called me up
-She said, “You’d better start making sense”
-The stone was bleeding
-Whirling in the waltz
-I went to see Her Majesty
-The court had no suspense
-She said, “Dream dreams the dreamer”
-I said, “It’s not my fault”
+I don’t, in truth, know whether any of my memories are real.  I think that’s why I’ve taken to writing them down.  I may be as much machine as human these days, but the human memory is random-access memory.  Every time you access it, you overwrite your old memory with what you’re able to recall.  So memories are susceptible to tampering – they change every time you think about them.  I trust what I’ve written down, somewhat.  I trust, at least, that I believed it was the truth when I wrote it, or that I wanted to believe it was the truth enough to type it onto a computer screen.
 #LOGOFF 1644
+#TAG 5
 #END
 #FINISHED
 #LOGON 1644
@@ -31,6 +22,11 @@ I said, “It’s not my fault”
 #UNFINISHED
 #LOGON 1644
 #PICT 1645
+$C1But I’ve gotten sidetracked, haven’t I?  Where was I?  Something about a girl, three men, four guns, and a formula, right?  And running?  I decided I wouldn’t be a party to the treason they were plotting, and I knew I was too outnumbered to defeat them in a fair fight, so I coated the lab in C-4, I destroyed my life’s work, and I ran.
+
+I think I must’ve disappeared.  I must’ve started a new life, a new identity.  There must’ve been nothing left for me under my old one, and I knew they’d be looking for me.  Did I get a new name?  I must’ve done; they’d have found me if I’d shown up in a search of my identity.  Did I give myself a new face?  New fingerprints?  A new skin tone?  By that point, I’m sure I must’ve possessed the scientific knowledge to accomplish most or all of that.  Perhaps I didn’t even keep the same gender.  I think of my memories from the Wheeling Hubcap Factory as though I’d been male.  I have other memories that I’m almost certain are a woman’s memories, and I think they’re mine.  I have many memories that I’m almost certain match neither of those genders, and others still that I’m almost certain match both of them, and I’m certain they’re all my memories.  There are aspects of my identity that I’m certain have not remained constant.
+
+Was Kate the girl from the lab?  I wrote that she was Kate.  Was that her name, or did I invent it?  Was she the same person as Hathor?  I think we all got new identities as Mjolnir Mk. IV cyborgs, but I no longer know that for certain.  When I think of Kate’s face and I think of Hathor’s face, I think of the same face, but I might be imagining that, too.  It might be what I need to believe.  The brain has been known to invent what it needs to imagine in order to prevent a complete psychic breakdown.
 #LOGOFF 1644
 #TAG 1
 #ENDTERMINAL 1
@@ -39,6 +35,11 @@ I said, “It’s not my fault”
 #UNFINISHED
 #LOGON 1644
 #PICT 1645
+$C1I’m so tired of running, and I’m so tired of fighting.  Many humans are wired to be able to respond to conflict in a calm, rational manner, but my brain habitually responds to threats with fight-or-flight responses.  I think that’s why I’ve survived so many years, decades, centuries of combat, but it’s given me a solitary existence.  And I’m good at it, so I keep getting called to do it.  It’s become a self-perpetuating cycle.
+
+We perceive what our brains and our existence have trained us to perceive.  We think of ourselves as perceiving accurately, but in truth, our brains filter out information they determine to be irrelevant.  But those filters are based on our preconceived notions stemming from our past perceptions – and from the memories we’ve warped by thinking about them.  We’re prisoners of our preconceived biases, and we no more notice them than a fish notices the water it swims in and breathes.  And we’re trained, almost subconsciously, from a very young age to assume, almost subconsciously, that they’re universal.  “Do unto others as you would have them do unto you” – as though everyone has the same preferences and needs.  But surely the spotlight-loving movie star and the shy librarian don’t have the same preferences.  This seems so obvious that no one ever thinks about its implications: it shouldn’t be “treat others how $Iyou$i would like to be treated”; it should be “treat others how $Ithey$i would like to be treated”.
+
+In any case, you can change your name, you can change your face, you can change your fingerprints, you can leave your entire old life behind, but you can’t leave your traumas behind.  I don’t recall the name of the town where I wound up after Wheeling, but the scars I bore, both physical and psychological, followed me.
 #LOGOFF 1644
 #TAG 2
 #ENDTERMINAL 2
