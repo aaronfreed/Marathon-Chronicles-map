@@ -29,7 +29,7 @@ $C0end.burst/override
 ----------endexternal feed
 #LOGOFF 1698
 cmdr martin.secur.out
-#INTERLEVEL TELEPORT 61
+#INTERLEVEL TELEPORT 40
 #ENDTERMINAL 0
 ;
 #TERMINAL 1

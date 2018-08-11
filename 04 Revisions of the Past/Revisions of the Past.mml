@@ -1,0 +1,14 @@
+<marathon>
+
+	<!-- Fog -->
+	<opengl>
+		<fog on="true"/>
+		<fog depth="42" landscapes="0"/>
+		<fog>
+			<color red="0" green="0" blue=".3"/>
+		</fog>
+	</opengl>
+
+	<!-- Miner's light -->	<player light="0.21">		</player>
+
+</marathon>
