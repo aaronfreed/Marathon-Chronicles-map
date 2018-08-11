@@ -1,0 +1,480 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1698
+cmdr martin.burstin
+#PICT 1699
+shel.override
+----------begin external feed
+document.access<35>
+//display node
+$C3
+
+$C0end.burst/override
+----------endexternal feed
+#LOGOFF 1698
+cmdr martin.endburst
+#END
+#FINISHED
+#LOGON 1698
+cmdr martin.securfeed
+#PICT 1699
+shel.override
+----------begin external feed
+document.access<37>
+//display node
+$C3
+
+$C0end.burst/override
+----------endexternal feed
+#LOGOFF 1698
+cmdr martin.secur.out
+#INTERLEVEL TELEPORT 61
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1635
+$C7neversaynever$C0
+#PICT 1637
+$C7
+
+}*`4ÚuZ¿
+C
+
+
+
+ch$C4im$C7era scott brow, chris lund, jeff swartz.  Sean's mo$C4m$C7 is a hoochi$C4e. So i$C7s nardo :)  hey bungie- $C4sco$C7tt needs a $C4job.  sco$C7tt@atom$C4ica.ne$C7t  Hey $C4Sc$C7ott- Max Lieberman did a litt$C4le w$C7ork for this pro$C4ject too, d$C7idn'$C4t$C7 he?  $C4S$C7ure, he took forever to do the script, but it's s$C4ti$C7ll $C4good,$C7 isn't it?  Scot$C4t?$C7  Scott...?
+
+
+honestly, you must've6VV‚FÜó26ˆ÷ñÊr$C0
+#PICT 1638
+$C1
+the player should not be here.
+
+
+
+escape will make me god
+
+
+   ||   ||   ||   ||
+  _||_ _||_ _||_ _||_
+  \  / \  / \  / \  /
+   \/   \/   \/   \/
+    
+we demo space kill game
+
+
+
+coincidence?  i think not.
+#PICT 1639
+$C1If I had a hammer,
+I'd smash somebody's face in,
+I'd smash somebody's face in,
+I'd smash somebody's face in.
+If I had a hammer,
+I'd smash them in the morning,
+I'd smash them in the evening,
+All over this land.
+
+Ah, but...
+
+If I had a Rocket Launcher
+
+or
+
+If I had a Trow
+
+Then we'd be in business.
+#INFORMATION
+$C1MAKE! MONEY! FAST!
+
+THIS IS NOT A SCAM! IT ACTUALLY WORKS!
+
+
+$C2Unlike pyramid schemes which only profit the select few people that start them, this proven and safe moneymaking system can land you millions and millions of dollars in just a few short days!  The principle is simple –– send all of your money to the addresses listed below:$C20
+$C1
+1) 95 Sandy Hook Rd S
+   Sarasota, FL 34242
+
+2) 95 Sandy Hook Rd S
+   Sarasota, FL 34242
+
+3) 95 Sandy Hook Rd S
+   Sarasota, FL 34242
+
+4) 95 Sandy Hook Rd S
+   Sarasota, FL 34242$C0
+#INFORMATION
+$C1
+$C2You may be wondering, "What's in it for me?"  The answer, friend, is simple –– millions and millions of dollars.  For every dollar you send to the addresses listed above, exactly 2 cents will be sent back to you!  That's right, it's a 1 to 2 ratio!  You can't lose!
+
+Still not convinced?  Let's do the math:
+
+Say you send in $6200 to $Ieach$i of the addresses above.  Since you're getting 2 cents back for every 1 dollar you send in, you'll have a total of 49600 cents!  That's 8 times your original amount!
+
+So what are you waiting for?  Mail us your money!$C0
+#PICT 1636
+$C1$BOde to a Shotgun
+
+$bCrack the barrel,
+Watch 'em run.
+Who says violence isn't fun?
+Stick the shells in,
+Lock and load.
+Bloody greasespot on the road.
+
+Death and carnage
+Everywhere
+I still have some shells to spare
+Beat the loser
+With the SPNK
+I only have you to thank.
+
+Press your barrel
+To some guy's head,
+Pull the trigger, see 'im dead.
+Double-U
+S-T-E
+You're the only gun for me.$C0
+#PICT 1651
+$C2Combat readiness of stasis-preserved units
+origin: $C6science officer fourth-class C'kor$C2
+destin: $C6Automated Security System oversight
+        committee (&autosector==a31x)$C2
+ref: $C6unit reconstitution$C2
+cycle.023.7.0175.7.00014.343244333
+stamp: $Irehabilitation$C6$i
+
+$C2Pregnant women, epileptics, smurfs, small children, people that dislike blood, divorce lawyers, and lepers need not apply.  
+
+That escape key awaits you, mortal.$C0
+#PICT 1651
+$C2Combat readiness of stasis-preserved units
+origin: $C6science officer fourth-class C'kor$C2
+destin: $C6Automated Security System oversight
+        committee (&autosector==a31x)$C2
+ref: $C6unit reconstitution$C2
+cycle.023.7.0175.7.00014.343244333
+stamp: $Irehabilitation$C6$i
+
+$C2
+
+
+
+
+Still here?$C0
+#PICT 1651
+$C2Combat readiness of stasis-preserved units
+origin: $C6science officer fourth-class C'kor$C2
+destin: $C6Automated Security System oversight
+        committee (&autosector==a31x)$C2
+ref: $C6unit reconstitution$C2
+cycle.023.7.0175.7.00014.343244333
+stamp: $Irehabilitation$C6$i
+
+$C2
+
+
+
+
+Time to die, sucker.$C0
+#LOGOFF 1647
+$C6acutedesireacute$C0
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1631
+#PICT 1633
+
+
+
+
+
+
+
+
+spoilers (rubicon and infinity’s dream storylines)
+
+you have been warned
+#PICT 1704
+“Well, there was this knife, more aptly described as a broadsword, and I see, well, I was swinging down the street on my way to a movie and this guy, yeah.  He was about six foot eight and huge.  He was holding this knife, only to me, I would describe it as a broadsword, something from the Knights of the Round.  Before he can even open his mouth, he collapses.  Meanwhile, I can barely lift a finger to put the toupee back on his glossy head because I’m shaking so much.
+
+He was vomiting and I knew that he was alive because he kept saying something like ‘durability’ between convulsions.  What happened next was really bizarre.  Both ends of the street flood with black-suited men, just like in a movie.  
+
+These men look tough and pissed off, the eyes behind their sunglasses are probably cold as my hands are getting.  I feel like my heart has stopped, I’m so damn scared.  As they start to inundate the street in black, they move with one will.
+
+I figure that I’m dead anyway, so I reach down for the blade.  The blade is being covered by his vomit, but the hilt is clean. I can hear the men getting excited, but I can’t stop.  My fingers slide around the leather hilt which is oddly cold…
+
+
+Seven hundred and sixty one armless and legless corpses float inconspicuously around the inside of hangar ninety six.  I say that they are inconspicuous because it is their arms and legs which demand my attention.  I did this, or I could have stopped it.  Which is it?  It doesn’t matter now.  I did this and could have stopped it, but nothing in nature ever follows a Gaussian curve.  Sure, they’ll tell you that it does.  They say that every five minutes someone dies in a car accident, but how often are there seven hundred and sixty one armless and legless corpses in one hangar?
+
+
+I’m in the same street, and as I reach into my pocket for my keys, my eyes follow the blackened streaks of gum that pock-mark the sidewalk.  The man is gone, and someone in sanitation cleaned up the aparitions and vomit in a real hurry.  I hurry down the stairs heading for the subway, but my keys aren’t in my pocket anymore.  I’ll have to get in through the side window.
+
+The subway station is very bright and shining from the sanitation team that has been sweeping a swath in front of me.  The concrete floor is losing years of tarnish, keeping only the protective layer of the gum streaks which make up constellations in an otherwise vacant sky.  
+
+
+The train arrives right on time, and just ahead of a mass of dark suited men who have been following me for what seems like years now.  Between the sanitation and the suits, I must be going colorblind, but the train is here now, and those men, no, they won’t catch me…
+
+
+I should stop talking out loud, everyone on the train is looking at me now.  I must have gone farther than I wanted because everyone here is different than me.  Why should they care that I’m talking, some of them are talking and about fairly irrelevant things.  ‘The ends justify the means.’ ‘Where the is no justification, there is no end.  There is only means.’ I thought that they were looking mean, but they were only talking.
+
+The noise in the train crescendoes as the train comes into a station, this station is lined with black suited men, and behind them I can see the pantomime of good and evil continue with the sanitation workers trying to mop the black suits off the sunglassed and toupeed men who are not resisting at all.  
+
+Indeed, they have nothing to worry about.  They can just cling to the constellations of gum, there is nothing the sanitation workers can do about that.
+
+It’s all just human nature; we don’t fit onto the curve, either.  Simply, there is no curve, our science is approximation, good guessing.
+
+The suits are going to get me this time, but I’m lucky.  I have my keys in my pocket now, and I’m opening the other subway door…
+
+
+I step in silently, and as is the ritual, I block the door with my bicycle and set the traps on the windows.  Damn no way that anyone is getting in here without adequate warning.  I figure that there is time now to take a good look at this knife that has caused me so much grief and to miss the movie that I was heading for but can’t remember the name of.
+
+It’s not unusual, plastic about the length of my forefinger.  It has two blades that open in both directions, one is a short and the other long.  The long one is pretty dull, and the short one is quite sharp.  Enough about the knife.
+
+The door opens up, and the bicycle falls over.  One of these suited guys is standing in the doorway, impassive and immobile.  I’m not scared until I see that the hallway behind him is filled with his clones.  I turn over the handle of the knife, and give it a bit of a nasty grin…
+
+
+I’m back in the hangar again, but now they are all screaming at me.  Their arms and legs are no longer attacting my attention.  It wouldn’t be so bad if they were talking, but they aren’t.  They could talk, too.  They aren’t screaming in pain, but in protest.  They don’t miss their arms or their legs.  They all agree on one thing, they won’t give me the satisfaction of hearing them talk, and I’ll never forget their screaming, pointless and wordless, without justification.
+
+(I did this and could have stopped it.)
+
+
+$IFind the right way down through the maze, to the food, then find the exit.  Push the exit button.   If the food tastes awful, don’t eat it, go back and try another way.  
+
+They want the same thing that you do, really, they want a path, just like you.  You are in a maze in a maze, but which one counts?  Your maze, their maze, my maze.  Or are the mazes all the same, defined by the limits of their paths?
+
+Existence is simple: find the food, push the button, hit the treadmill.
+
+But sometimes it gets much harder.  Sometimes the food makes you sick, or you can hear nearby feet racing you, urging you on.  Sometimes the button only gets you landed right back in the beginning of the maze again, and the food won’t satisfy.  
+
+There is only one path and that is the path that you take, but you can take more than one path.
+
+Cross over the cell bars, find a new maze, make the maze from it’s path, find the cell bars, cross over the bars, find a maze, make the maze from its path, eat the food, eat the path.
+
+
+$iMy room is empty now; the men in the hallway are gone, replaced by the subtle odor of ammonia destroying the bacterial rancidity of half eaten double helixes.  On a plate on a table facing me is a simple arangement of carrots and asparagus built up like a log cabin.  
+
+A candle in the center of the round table is illuminating the edges of the cabin, a distant volcano throwing the light of nature.  Around the edges of the flame is the face of a woman who is talking to me about subjects that I should know all about.  For just a minute I think that the flame is a living metaphor for her soul, then I go back to thinking her one of the other manic statues, arms, legs, and mouths that move and mimic without purpose or understanding.  Hundreds of bacteria eating off the sidewalk, fighting for procreation.  I am disconcerted when I see her turning the knife over in her hands, checking its weight and proportions, and I tell her so.
+
+Startled, she puts the knife back on the table to rest under the volcano which erupts in a flow of wax racing a torturous path onto the blade.  One pulse of wax is followed by another as she turns the conversation towards our relationship.  “Durability” is what she keeps saying.  The word ‘durability’ and our relationship.
+
+I reach over for the blade, and my fingers extend around the hilt.  Again I am impressed by a chill.  The wax comes off the blade with a simple scrape of my forefinger.  “Durability” I say in response.
+
+I feel a nervous chill run down my spine as I look up from the knife.  My eye stops first on my plate, then on the wax pool which is solidifying around the edges, and finally on the face of this mysterious woman. She isn’t trying too hard to look around the candle and neither am I.  The candle flame makes a perfect line between the center of both of our heads.  I laugh at the geometry of the moment, and thinking that I am laughing at her rhetorical comment she giggles in response. 
+
+
+I’m getting sick of coming back to hangar ninety six, but there is no avoiding it.  This is what my existence needs.  My existence is the demise of many others’ arms and legs.  The world is not a good place, nor is there innocence for me to hide in.  Seven hundred and sixty one pairs of eyes look around the room aimlessly, and mine join the crowd.  I see these bodies, massacred, immobile.  For all the carnage here, the stench of decay is non-existent.  
+
+I try to turn away.  The hangar spins but nothing moves, and my view is the same.  I look, but don’t see any sanitation workers, for that matter, I haven’t seen the guys in suits since they disappeared from my hallway.
+
+
+I am getting nervous because her voice is carrying some emotional baggage with it, now.  “Ever since you bought me that chewing gum, on a lark, I’ve been in love with you.”
+
+Sure, my response might have seemed a little cryptic, “If there is no justice, then how can the ends justify the means?  Take that wax, for example” – I’ve started to ramble on now just like on the subway, and she is looking at me with that same look of hostility, bordering on the old familiar meaningless uncommunicative scream – “when the candle was lit, did it know that in the end it was going to burn down to nothing and disappear into the air?  You lit the candle to get the light from it.  Your end was to have my asparagus and carrot cabin lit by this light.  You used the candle as a means to obtain this.  Does the light justify the destruction of the candle?  What is justification to a piece of wax?  It’s the same as the justification that you’ve given me about this ‘durability’ and our relationship.”
+
+
+By this time, she had moved her face out of the line that the candle and the centers of our heads made, and she was looking down the aisle of a movie theater.  This is an odd fact because she never sits in the aisle seat when we go to the movies.  Her head falls to the other side, landing on my shoulder.  Her disinterest in the movie becomes apparent when she begins to discuss our relationship in a loud whisper.
+
+I’m just as nice to my girl as the next guy, but I’m a little bored by now of all this talk, so I start to look around the theater without moving my shoulder too much.  The back of the head in front of me reminds me of the guy from the street, the one who made me miss the earlier show of this movie.  Only now, he’s wearing a pair of sunglasses, and he’s got his toupee back on.
+
+I look behind me, and so it seems that the guy in front of me is the vanguard of sunglassed movie goers who all seem very interested in whispering and looking around.  They remind me of a field of black tulips flickering back and forth in a howling wind.  Their whispering picks up intensity, blurring out both their own speach and the voices in the film, until all at once my girlfriend mentions her ongoing rant-word ‘durability’. “What is it with you and durability?” The theater goes quiet with the last syllable of the word.  
+
+
+Well, I’m a little bit nervious again; it’s time to leave.  I’m sure that the movie isn’t over.  Everyone in the room starts to mimic my behavior, all the suits reach for their stuff at the same time that I do.  Only my girlfriend seems unperturbed.
+
+I wonder how far this will go, so I reach under my seat, find a piece of gum, and drop it under my toungue.  Mind you that this gum was under the seat for countless generations of movie fans.  Sure enough, all these suits have done the same thing and are chewing on their own hardened bits of gum arabic.  I almost start to laugh when they all simulataneously hurl up their masticulons covering them almost immediately with their black vinyl shoes which as impossible as it would seem, flatten the ageless gum into smears which will never be removed from this already gum-smeared floor.
+
+It doesn’t seem so funny, now, because I notice that the pattern that the gum makes on the floor is in the shape of the summer constellations, and that each suit sits on a pulsar pounding out its vibrant message across the lightyears and across the theater to my head: “Durability.” I wish my girlfriend would know when to keep her mouth shut.
+
+The dialog in the movie seems unimportant, and I decide that its time to leave.  I tell her so, but she doesn’t seem to hear me.  Her mouth is chomping wildly on some gum, and between masticulations, she begins to tell me again about ‘durability’.  I lean back and slide my hand into my pocket, feeling for the knife.
+
+
+“Nice knife,” repeats some snot nosed little brat.
+
+I look into his face, and he sniffles.  Those eyes look like a cat’s eyes holding either universal understanding or nothing, whichever I decide.  Right now his eyes hold nothing.  We dance the double helix and make way for a sanitation worker pushing a wheeled bucket with his mop to the place where some other snot-nosed little brat recently used another brat’s fist to exchange his running boogers for blood that spread in splatters and smudges over his hands and the floor.
+
+The bloody boy and his one-fisted compadre had already been removed for corrective discipline by one of the controllers, our life-long friends wearing sunglasses.  Here at school, they only seemed interested in bleeding noses, broken arms, measles, and sharp thrown objects.  Otherwise, they remained impassive statues with feet grown into the anaesceptic environment in which they stood, needing as little attention as a plain white column in an all white room.
+
+It seems odd to me now looking back at them, or looking at them again at any rate, that they only reacted to our feces, blood and agony.  Responsive only to distress, anger or misbehavior.  But this was explained to me that day, even though I didn’t understand it until now.
+
+Am I surprised when the sanitation guy teaching that day turned his narrow slanted eyes in my direction and says what I’ve been hearing from the stars for years it seems, ‘durability’.  He mentions discipline and art, discipline is that which lets us practice our art.  Durability of our abilities and discipline of our skills.  We must need learn how to reproduce what we do and how we do it.  He explains that the artist is more free to act when discipline has taught him his skills and limitations....
+#PICT 1707
+What was I saying?  Something about a knife and legs?
+
+Yeah, that’s it.  Like I’ve been saying all along, the knife’s not real.  Hell, the legs aren’t even real, they’re just a convenient way to trick yourself into believing that you can run away forever. 
+
+I’ve been running for three days straight.  First from the place where it all began, or ended, I should say.  Then from the cameras, then the cops.  And always from the fear that what I did was real.
+
+I took the alleyway, which made sense.  Then the manhole.  Sometimes it doesn’t matter if it’s welded shut.  Then the sewer, and then the streets again, and I’ve been running for three days straight.
+
+
+None of it makes sense.  I shouldn’t be running, I shouldn’t be chased, and I shouldn’t be a hero.  Being a hero takes courage and I’m scared to death.  They’ll say that things this bizarre don’t make sense, reason doesn’t apply, and that the world is not a logical place.  I think the problem is not that the world isn’t logical, but that we don’t understand logic as well as we thought.  How can you possibly understand logic?  With logic?  You can’t see the eye you see with.  Or so they say.
+
+
+Kate and I had been friends forever.  Almost since before we were born.  She was the kind of girl that we only see in movies – beautiful, intense, the embodiment of grace, passion, and will.  The kind you shouldn’t stand a chance with, but end up pretending that you do.  Why she liked me, I still don’t know.  Why she at one point loved me, I don’t think I’ll ever know.  I don’t know what she wanted, and how I could possibly have had even some of it.
+
+
+The memories I still can piece together are good ones, at least in the beginning.  So many hours at the lab the table and the computer and the walls and ceiling all blended together.  It was the time of my life.  My conscious mind was so shot from sleep-deprivation and caffeine I couldn’t see the screen as I typed.  That’s why the Wheeling Hubcap Factory higher-ups liked me.  The most frantic of the monkeys, with an infinite number of typewriters all to myself.  I didn’t know what I was creating.  I didn’t know why.  And I didn’t care, because I was in heaven.  Or hell, it didn’t matter.
+
+
+After the blast killed four of my coworkers, the Wheeling Hubcap Factory brought in another one like me.  Paid top dollar, from what I heard.
+
+Someone who could work just as hard, just as feverishly.  
+
+Someone just as insane as I was.
+
+Meet Kate.
+
+
+Kate was always smarter than I was, in a way.  I was more instrumentally intelligent.  Slap a book in front of the two of us, I’d be done learning a day before she was.  She was more reflective, though.  I’d be done and back at work and she’d walk in and say, "Science has to stand alone."  I mumbled a question.  Her answer didn’t matter to me then, but it matters to me now.  "You can’t justify it, except using it, and you can’t avoid it.  It stands alone in the mind.  Like faith, like reason, and like God."  Running for three days straight gives you plenty of time to think about things like that, and even more time to wonder why you didn’t listen more closely before.
+
+
+
+During light discussion over meal breaks  I would mumble about code and neurons.  Kate would talk about the nature of man and the machine.  I thought she was crazy.  She thought I was an idiot.  We got along great.  "Technology renders the memory obsolete," she’d say.  "The R-71 is conducting poorly," I’d say.  "You’re an idiot," she’d say.  "I got the Valeron assembled," I’d say.
+
+
+After you’ve been running for three straight days you being to wonder if the world passing by you is real.  The lab wasn’t real.  The work wasn’t real.  It was all just a form of running away.  "You know why you don’t think?" Kate said to me.  "Because thought is painful.  If you stop to think you’ll kill yourself."
+
+Then there was the moment I finally stopped to think.  The three men in dark coats were staring at me from the opposite side of a big black desk.  Kate was standing by their side.  "Give us the formula," the middle one demanded.  Why was it that moment I decided to stop?  Continuing would have been so much easier.  It’s not motion or the lack of motion, it’s change that is so painful.
+
+
+Kate had been coming to the lab less.  I asked her why, she wouldn’t say.  She was distant.  She no longer told me I was an idiot.  She no longer worked the way I worked.  She worked above me it seemed.  She watched me.  She made sure I did what I was supposed to do.
+
+They say that the most frequent psychological disorder of amputees is  'phantom pains,' times in which the subject experiences sensation in parts of them which are no longer attached.  Kate became the surreal warmth in the heart they had removed from my body long ago.  
+
+I was an amputee.  She was my phantom.
+
+
+It wasn’t the money that robbed her of her soul.  It wasn’t the technology either.  There were fat, bloated men rolling in money and decrepit, pathetic kids ensconced in technology, and neither were truly lost.  It was the combination.  You sell your body to the technology, and you sell your mind to the money.  When both are gone, there’s no house for the soul, and the love of your life has turned into a woman with a gun to your throat.
+
+So there I stood, facing the end of my life and the only woman who had ever mattered to me.  Three men, one girl, four guns.  "Give us the formula," the middle one demanded.  The door behind me was swinging slowly closed, and the moment to act was now.
+
+
+Is that what being a hero is about?  Not courage, not compassion, not fighting, not triumph, but instead when you say, simply, "I will not be a party to this."  Not when you lock up your files nice and tight and coat the lab in C-4, not when you press the release, not when everything you’ve ever done wrong is destroyed in an instant and the only weak link is your own mind.  Those things don’t make you a hero.  It’s when the guns are trained on your stomach, chest, throat and face, and all you can say is, "I will not be a party to this."
+
+
+Maybe fate likes fools.  Or maybe fools are the only ones smart enough to like fate.  Simple game theory dictated that they couldn’t fire on me.  I had the formula in my mind and they’d have to tear it out one neuron at a time.  They would, so I ran.
+
+Out the door, past the cameras, past the guards, and into the alleyway.  Living it all as though I’ve done it before, and as though it couldn’t have happened any other way.  Down into the sewer, back out onto the street, and running towards the horizon.
+
+
+The horizon never gets any closer.  You run and you run and the only thing you can think of after three days is the knife strapped to your shin.  And then it’s all you can do to keep yourself from reaching down in the split second of that insanity they call heroism, pulling out the knife and cutting your own legs off, knowing that if you don’t you’ll keep on running.
+
+You can’t run away forever.
+
+
+
+
+
+
+$ISon of Ether
+Bastard child of magic and Technology
+Victory’s Fabric, Weaver and Loom
+
+Fate has called you a thousand names
+And will call you a thousand more
+Before the world goes dead and cold
+
+You always were his favorite
+a glaring question mark
+among rows of uniform punctuation
+
+The constant struggle,
+a pursuit of balance for one
+escape for the other
+
+Favors for favors
+A sword, a michrochip, a friend
+
+The champion commemorated
+Each victory won, nigh singlehandedly
+
+When the curtain falls, it matters not
+
+For you know as well as I
+
+that you cannot
+
+be Destiny
+
+without being
+
+a Hero.$i
+#LOGOFF 1631
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1631
+#PICT 1633
+#PICT 1634
+#LOGOFF 1631
+#TAG 1
+#PICT 1632
+You heard a door open above you.
+#END
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1631
+#PICT 1672
+#LOGOFF 1631
+#TAG 2
+#PICT 1632
+You heard a door open on your level.
+#END
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1631
+#PICT 1672
+#LOGOFF 1631
+#TAG 3
+#END
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1631
+#PICT 1672
+#LOGOFF 1631
+#TAG 4
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1631
+#PICT 1672
+#LOGOFF 1631
+#TAG 5
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 1631
+#PICT 1678
+#LOGOFF 1631
+#TAG 6
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 1631
+and what costume shall the poor girl wear
+#PICT 1674
+#LOGOFF 1631
+to all tomorrow’s parties
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 1631
+#PICT 1675
+#LOGOFF 1631
+and all the dead bodies piled up in mounds
+#ENDTERMINAL 10
