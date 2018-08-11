@@ -3,7 +3,7 @@ Split map files for an in-development Marathon Aleph One scenario
 
 This is where I’m keeping the latest version of the unmerged map for *Marathon Chronicles*, a scenario I’m building for Marathon Aleph One. It is a sequel to Bungie’s original *Marathon* trilogy, and it is also additionally intended to flow in the same continuity as several other fan sequels to the original game, most directly *Tempus Irae* and *Rubicon*, but also *Phoenix* and *Eternal*. It incorporates artwork and, in some cases, architecture from *Tempus Irae*, *Evil*, and *Rubicon*, as well as the original trilogy, though most maps are largely original.
 
-While I hoarded all this content to myself for, in some cases, some twenty-one years, I now intend for the development process of this scenario, like Aleph One itself, to be largely open-source. As a result, anyone who is interested in contributing to or improving the project is welcome to make their own pull requests; if I like them, they will be incorporated into the completed game and you will receive credit.
+While I hoarded all this content to myself for, in some cases, some twenty-one years, I now intend for the development process of this scenario, like Aleph One itself, to be largely open-source. As a result, anyone who is interested in contributing to or improving the project is welcome to make their own pull requests or simply send their creations to me directly; if I like them, they will be incorporated into the completed game and you will receive credit.
 
 Some links:
 
@@ -15,11 +15,13 @@ Some links:
 
 · Latest published versions of all game files apart from the map: https://www108.zippyshare.com/v/Z2qj9oBL/file.html
 
-(The map included in the final link is out of date; you can make your own build of the latest version of the map by merging this folder in Atque. I intend to create a more permanent repository for the game files somewhere else at some point, but I have not done so yet. It will not be practical for me to keep uploading the latest merged map file every time I make a small change, so you will need to merge it yourself if you want the most recent version.)
+The map included in the final link is out of date; you can make your own build of the latest version of the map by merging this folder in Atque. I intend to create a more permanent repository for the game files somewhere else at some point, but I have not done so yet. It will not be practical for me to keep uploading the latest merged map file every time I make a small change, so you will need to merge it yourself if you want the most recent version.
 
-This project is in a very unfinished state; most game terminals are blank, and there are plenty of glitches, inconsistencies, untextured or misaligned walls, and various other issues to be expected in an in-development game. It should at least be possible to play through and win the entire scenario, however, and hopefully the bonus levels as well (though I haven’t tested those since I added them).
+This project is in a very unfinished state; most game terminals are blank, and there are plenty of glitches, inconsistencies, untextured or misaligned walls, and various other issues to be expected in an in-development game. It should at least be possible to play through and win the entire scenario, however, including the bonus levels, unless I’ve introduced some catastrophic, game-breaking bug since the last time I played through the whole thing from start to end.
 
-I haven’t yet compiled a complete list of credits for this scenario. I’m responsible for the bulk of level design; a few other high school friends, who are credited in the scenario images file (click on the Marathon logo when you open the scenario), co-designed a few levels (specifically “Take the Veil Cerpin Taxt”, “Everyone I Went to High School With Is Dead”, “Delusions of Adequacy…”, and the hidden level “Sweet Silence”, plus “Witty Title Not Included” from the net map). I haven’t mentioned them by name because I don’t know if they want their names showing up in search engine results in association with this scenario. If you’re really curious who designed what level, almost all levels have credits in the map writing, hopefully including every level co-designed by others, at least in the solo scenario. I will, however, specifically name **Scott Lee** (R.I.P., 1983-2018), to whom I wish to dedicate this scenario; he named it and is responsible for the bulk of the central segment of “Take the Veil”. Additional artwork and story ideas have been contributed by Pfhorums member **General-RADIX**, and she and **Dr John Sumner** have play-tested; other play-testers, many, many years ago, included Fool’s Gold forum members **Roger Mexico**, **Dan Electro**, **DaigotheKing**, and probably others I’ve forgotten.
+I haven’t yet compiled a complete list of credits for this scenario. I’m responsible for the bulk of level design; a few other high school friends, who are credited in the scenario images file (click on the Marathon logo when you open the scenario), co-designed a few levels (specifically “Take the Veil Cerpin Taxt”, “Everyone I Went to High School With Is Dead”, “Delusions of Adequacy…”, and the hidden level “Sweet Silence”, plus “Witty Title Not Included” from the net map). I haven’t mentioned them by name because I don’t know if they want their names showing up in search engine results in association with this scenario. If you’re really curious who designed what level, almost all levels have credits in the map writing, hopefully including every level co-designed by others, at least in the solo scenario.
+
+That caveat aside, I will specifically name **Scott Lee** (R.I.P., 1983-2018), to whom I wish to dedicate this scenario; he named it and is responsible for the bulk of the central segment of “Take the Veil”. Additional artwork and story ideas have been contributed by Pfhorums member **General-RADIX**, and she and **Dr John Sumner** have play-tested; other play-testers, many, many years ago, included Fool’s Gold forum members **Roger Mexico**, **Dan Electro**, **DaigotheKing**, and probably others I’ve forgotten.
 
 Other levels are partially adapted from Bungie or Doubleaught levels. I’m not sure this is a complete list of credits, but between these and my net maps, I’ve incorporated levels designed by **Randy Reddig** (“Ne cede malis” for “Biblical Candy Machines”, “Aye Mak Sicur” for “Eon Blue Apocalypse” and “Pfhactory N’Utopia”, co-design of “Poor Yorick” for part of “Master of Puppets”, “A Converted Church in Venice, Italy” for both “Death in Venice” and “A Converted Net Map in Venice, Italy”, “You Think You’re Big Time? You’re Gonna Die Big Time!” for “Life Is Wasted on the Living”), **Greg Kirkpatrick** (co-design of “Poor Yorick” for part of “Master of Puppets”, co-design of “Son of Grendel” for “How to Disappear Completely”, “Hang Brain” for part of “Kill Your Sons”, “Acme Station (Michael Bay Remix)”, “Charon Doesn’t Make Change” for “Transport Is Arranged”), **Chris Geisel** (co-design of “Poor Yorick” for part of “Master of Puppets”, co-design of “Son of Grendel” for “How to Disappear Completely”), **Jason Jones** (“Begging for Mercy Makes Me Angry!” for part of “Kill Your Sons”, “The Slings & Arrows of Outrageous Fortune” for “Thanatos, Beneath the Dust”, “Kill Your Television” for “Ys”), as well as a few other recurring elements from multiple levels designed by multiple creators (most notably, Thoth’s computer banks make an appearance in “Take the Veil Cerpin Taxt”).
 
@@ -33,7 +35,52 @@ Artwork is trickier. Obviously most of the original assets were Bungie’s; cred
 
 I’ve also used sounds from other scenarios, again mostly *Evil*, *Tempus Irae*, and *Rubicon*. *Rubicon* credits **Chris Lund** for the bulk of the sound (**Elohymn Vilaven** is credited for the title music and *Ascension* theme, which, to my knowledge, I didn’t use, but I wish to make these credits as complete as possible). *Tempus Irae* credits **James Hastings-Trew**, **Chris Boroweic**, **Beth Boroweic**, and **Kain Osterholt** for sounds (plus **Shawn Magee** and **Rich Wilcox** for music, which, again, I doubt I used). *Evil* credits **Johnny Biebesheiemer** and **Randall Shaw** for sounds (plus **Mark McWilliams** for music; yet again, I probably didn’t use this).
 
-Most level titles are taken from songs or albums, with a few others from books or television. Only a handful don’t come from musical or literary sources. For inspiration, credit to (*deep breath*) **Tears for Fears** (“Sketches of Pain”, “Famous Last Words”; note that the former of these is a pun on the title of **Miles Davis and Gil Evans**’ album *Sketches of Spain*, and I intend my level title as a reference to both), **the Mars Volta** (“Take the Veil Cerpin Taxt”, “Miranda, That Ghost Just Isn’t Holy Anymore”), **Gorguts** (“Pleiades’ Dust” and “Sweet Silence”, though the latter doubles as a reference to **Metallica**’s studio in Copenhagen, which for that matter may have been the inspiration for Gorguts’ song title), **Weakling** (“Cut Their Grain and Place Fire Therein”), **Panopticon** (“Revisions of the Past”, “To Make an Idol of Our Fear and Call It God”), **Kurt Vonnegut** (“Slaughterhouse-Five” and its lesser-numbered siblings), **Television** (“The Dream’s Dream”), **Mr. Bungle** (“Everyone I Went to High School With Is Dead”), **Peter Gabriel** (“Here Comes the Flood”), **the Velvet Underground** (“The Black Angel’s Death Song”), **Genesis** (“Entangled”, “Supper’s Ready”), **Karl Popper** (“The Paradox of Tolerance”, first described in ***The Open Society and Its Enemies***), **William Shakespeare** (“Men Like Ravenous Fishes”, from the eponymous character’s monologue in ***Sir Thomas More***), **Soundgarden** (“Room a Thousand Years Wide”), **Janelle Monáe** (“Neon Valley Street”), **Emperor** (“With Strength I Burn”), **Metallica** (“Master of Puppets”), **Agalloch** (“In the Shadow of Our Pale Companion”), **Il Balletto di Bronzo** (“Ys”), **Joanna Newsom** (also “Ys”; the title honours both albums, plus the mythical underwater city after which they’re both named), **Radiohead** (“How to Disappear Completely”), **the Wallflowers** (“Another One in the Dark”), **Arcturus** (“Nightmare Heaven”), **Lou Reed** (“Kill Your Sons”, though this doubles as a reference to **Doubleaught**’s terminal at the end of “Hang Brain”, which was probably written by **Greg Kirkpatrick**), **Godspeed You! Black Emperor** (“Motherfucker=Redeemer”), **Isaac Asimov** (“Star’s End”, a reference to his *Foundation* trilogy), **Tool** (“Eon Blue Apocalypse”), **Bob Dylan** (“It’s Alright, Ma (I’m Only Bleeding)”), **Nobuo Uematsu** (the absolutely execrable pun “Dancing MADD”, for which I apologise in advance; it’s got to be worse than Pfhor puns), ***Star Trek*** (“Errand of Mercy”, which was written by **Gene L. Coon**), **Jeff Buckley** (“Dream Brother”), **Pavement** (“Transport Is Arranged”), ***Secret of Mana*** (“Thanatos, Beneath the Dust” was partially named in honour of its villain). And I haven’t even touched the net maps. These don’t as consistently follow this rule, but **Douglas Adams** (“Cathedral of Hate”, “Life Is Wasted on the Living”), **Thomas Mann** (“Death in Venice”, which I must admit I still haven’t read; I just felt the title was apropos for a net map based on “A Converted Church in Venice, Italy”), **Rush** (“Cygnus X-1”), **Blut aus Nord** (“Dialogue with the Stars”), **Spiritualized** (“Ladies and Gentlemen We Are Floating in Space”), **King Crimson** (“Starless and Bible Black”, “Fracture”), and **Sigh** (“Slaughtergarden Suite”) inspired a few. I may rename a few others at some point, but I haven’t done nearly as much work on the net maps because I don’t currently have people to test them out with. The level name “Wheeling Hubcap Factory”, meanwhile, originally comes from the Gheritt White terminal in *Marathon* (“Never Burn Money”) and later reappeared throughout *Rubicon*’s dream story, and “Biblical Candy Machines” comes from the *Marathon Infinity* demo (specifically, the “Ne cede malis” terminals).
+Most level titles are taken from songs or albums, with a few others from books or television. Only a handful don’t come from musical or literary sources. For inspiration, credit to (*deep breath*):
+
+  · **Tears for Fears** (“Sketches of Pain”, “Famous Last Words”; note that the former of these is a pun on the title of **Miles Davis and Gil Evans**’ album *Sketches of Spain*, and I intend my level title as a reference to both);  
+  · **the Mars Volta** (“Take the Veil Cerpin Taxt”, “Miranda, That Ghost Just Isn’t Holy Anymore”);  
+  · **Gorguts** (“Pleiades’ Dust” and “Sweet Silence”, though the latter doubles as a reference to **Metallica**’s studio in Copenhagen, which for that matter may have been the inspiration for Gorguts’ song title);  
+  · **Weakling** (“Cut Their Grain and Place Fire Therein”);  
+  · **Panopticon** (“Revisions of the Past”, “To Make an Idol of Our Fear and Call It God”);  
+  · **Kurt Vonnegut** (“Slaughterhouse-Five” and its lesser-numbered siblings);  
+  · **Television** (“The Dream’s Dream”);  
+  · **Mr. Bungle** (“Everyone I Went to High School With Is Dead”);  
+  · **Peter Gabriel** (“Here Comes the Flood”);  
+  · **the Velvet Underground** (“The Black Angel’s Death Song”);  
+  · **Genesis** (“Entangled”, “Supper’s Ready”);  
+  · **Karl Popper** (“The Paradox of Tolerance”, first described in ***The Open Society and Its Enemies***);  
+  · **William Shakespeare** (“Men Like Ravenous Fishes”, from the eponymous character’s monologue in ***Sir Thomas More***);  
+  · **Soundgarden** (“Room a Thousand Years Wide”);  
+   · **Janelle Monáe** (“Neon Valley Street”);  
+  · **Emperor** (“With Strength I Burn”);  
+  · **Metallica** (“Master of Puppets”);  
+  · **Agalloch** (“In the Shadow of Our Pale Companion”);  
+  · **Il Balletto di Bronzo** and **Joanna Newsom** (“Ys”; the title honours both artists’ albums, plus the mythical underwater city after which they’re both named);  
+  · **Radiohead** (“How to Disappear Completely”);  
+  · **the Wallflowers** (“Another One in the Dark”);  
+  · **Arcturus** (“Nightmare Heaven”);  
+  · **Lou Reed** (“Kill Your Sons”, though this doubles as a reference to **Doubleaught**’s terminal at the end of “Hang Brain”, which was probably written by **Greg Kirkpatrick**);  
+  · **Godspeed You! Black Emperor** (“Motherfucker=Redeemer”);  
+  · **Isaac Asimov** (“Star’s End”, a reference to his *Foundation* trilogy; this exact phrase, which I won’t repeat here on account of its being a massive spoiler, is very likely also the inspiration for Bungie’s level “All Roads Lead to Sol…”);  
+  · **Tool** (“Eon Blue Apocalypse”);  
+  · **Bob Dylan** (“It’s Alright, Ma (I’m Only Bleeding)”);  
+  · **Nobuo Uematsu** (the absolutely execrable pun “Dancing MADD”, for which I apologise in advance; it’s got to be worse than Pfhor puns);  
+  · ***Star Trek*** (“Errand of Mercy”, which was written by **Gene L. Coon**);  
+  · **Jeff Buckley** (“Dream Brother”);  
+  · ***Secret of Mana*** (“Thanatos, Beneath the Dust” was partially named in honour of its villain); and  
+   **Pavement** (“Transport Is Arranged”).
+
+ And I haven’t even touched the net maps. These don’t as consistently follow this rule, but some titles take inspiration from:
+
+  · **Douglas Adams** (“Cathedral of Hate”, “Life Is Wasted on the Living”);  
+  · **Thomas Mann** (“Death in Venice”, which I must admit I still haven’t read; I just felt the title was apropos for a net map based on “A Converted Church in Venice, Italy”);  
+  · **Rush** (“Cygnus X-1”);  
+  · **Blut aus Nord** (“Dialogue with the Stars”);  
+  · **Spiritualized** (“Ladies and Gentlemen We Are Floating in Space”);  
+  · **King Crimson** (“Starless and Bible Black”, “Fracture”); and  
+  · **Sigh** (“Slaughtergarden Suite”).
+
+inspired a few. I may rename a few others at some point, but I haven’t done nearly as much work on the net maps because I don’t currently have people to test them out with. The level name “Wheeling Hubcap Factory”, meanwhile, originally comes from the Gheritt White terminal in *Marathon* (“Never Burn Money”) and later reappeared throughout *Rubicon*’s dream story, and “Biblical Candy Machines” comes from the *Marathon Infinity* demo (specifically, the “Ne cede malis” terminals).
 
 The appearance of others’ artwork and map designs should not be interpreted as their endorsement of this project; in many cases, I have not specifically contacted them in decades, and in a few cases, I have not yet contacted them at all, though I intend to do so before this scenario gets out of alpha if it is at all possible. (For that matter, references to others’ works should also not be interpreted as their creators’ endorsement of this project, though in many cases they *should* be taken as my endorsements of those creators’ works, if not necessarily of the creators themselves.)
 
@@ -57,34 +104,22 @@ The final thanks I wish to give, of course, are to **Bungie** for open-sourcing 
 
 Lastly, as an aid to people going over the Pfhorums thread/YouTube channel, since several levels have changed names at least once over the course of development, here’s a log of their old names:
 
-· **Take the Veil Cerpin Taxt**: formerly “The Inner Light” and “Anthems to the Welkin at Dusk”;
-
-· **Pleiades’ Dust**: formerly “Noli pati a scelestis opprimi” and “Illegitimi non carborundum”;
-
-· **Revisions of the Past**: formerly “Life Seeker”;
-
-· **Everyone I Went to High School With Is Dead**: formerly “Welcome Home (Sanitarium)” and “Pine View (Hell)”;
-
-· **Miranda, That Ghost Just Isn’t Holy Anymore**: formerly “Houses of the Holy”;
-
-· **The Paradox of Tolerance**: formerly “Burn Down the Mission” and “Idioteque”;
-
-· **Men Like Ravenous Fishes**: formerly “Deadwing” and “Inside Information”;
-
-· **Room a Thousand Years Wide**: formerly “Tighter & Tighter”;
-
-· **To Make an Idol of Our Fear and Call It God**: formerly “Please Excuse Our Dust”;
-
-· **Neon Valley Street**: formerly “2+2=5 (The Lukewarm)”;
-
+· **Take the Veil Cerpin Taxt**: formerly “The Inner Light” and “Anthems to the Welkin at Dusk”;  
+· **Pleiades’ Dust**: formerly “Noli pati a scelestis opprimi” and “Illegitimi non carborundum”;  
+· **Revisions of the Past**: formerly “Life Seeker”;  
+· **Everyone I Went to High School With Is Dead**: formerly “Welcome Home (Sanitarium)” and “Pine View (Hell)”;  
+· **Miranda, That Ghost Just Isn’t Holy Anymore**: formerly “Houses of the Holy”;  
+· **The Paradox of Tolerance**: formerly “Burn Down the Mission” and “Idioteque”;  
+· **Men Like Ravenous Fishes**: formerly “Deadwing” and “Inside Information”;  
+· **Room a Thousand Years Wide**: formerly “Tighter & Tighter”;  
+· **To Make an Idol of Our Fear and Call It God**: formerly “Please Excuse Our Dust”;  
+· **Neon Valley Street**: formerly “2+2=5 (The Lukewarm)”;  
 · **Slaughterhouse-One** through **Slaughterhouse-Five**: formerly “naked lunch one” through “naked lunch five”.
 
 I hope you enjoy this scenario. Comments, suggestions, constructive criticism, praise, offers of employment, submissions of content, pull requests, bug reports, bug fixes, Vid films, etc., are all highly welcome. You can contact me at:
 
-· **the Pfhorums**, where my username is currently The Man: http://pfhorums.com
-
-· **Fool’s Gold**, where my username is currently Howth Castle and Environs, though it changes at my whim: http://fools-gold.org
-
+· **the Pfhorums**, where my username is currently The Man: http://pfhorums.com  
+· **Fool’s Gold**, where my username is currently Howth Castle and Environs, though it changes at my whim: http://fools-gold.org  
 · or, presumably, here.
 
 Aaron
