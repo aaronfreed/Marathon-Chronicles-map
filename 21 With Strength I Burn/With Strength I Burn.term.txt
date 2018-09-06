@@ -9,7 +9,7 @@
 #FINISHED
 #LOGON 1600
 #LOGOFF 1600
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -21,7 +21,7 @@
 #FINISHED
 #LOGON 1600
 #LOGOFF 1600
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -33,7 +33,7 @@
 #FINISHED
 #LOGON 1600
 #LOGOFF 1600
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -44,7 +44,7 @@
 #END
 #FINISHED
 #LOGON 1600
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 3
 ;
 #TERMINAL 4
@@ -58,7 +58,7 @@
 #FINISHED
 #LOGON 1600
 #LOGOFF 1600
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 4
 ;
 #TERMINAL 5
@@ -71,7 +71,7 @@ Go find this chip quickly and return here quickly when you’ve done so. Picking
 #FINISHED
 #LOGON 1600
 #LOGOFF 1600
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 5
 ;
 #TERMINAL 6
@@ -170,7 +170,7 @@ A: Two. One to create the technology, the other to wait 9 million years for a se
 
 
                            $C0                  $b $B $C5Teleport when ready.
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 6
 ;
 #TERMINAL 7
@@ -267,7 +267,7 @@ A: Two. One to create the technology, the other to wait 9 million years for a se
 
 
                            $C0                  $b $B $C5Teleport when ready.
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 7
 ;
 #TERMINAL 8
@@ -362,7 +362,7 @@ A: Two. One to create the technology, the other to wait 9 million years for a se
 
 
                            $C0                  $b $B $C5Teleport when ready.
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 8
 ;
 #TERMINAL 9
@@ -390,5 +390,5 @@ DTB WELCOMES YUO!!!11
 #FINISHED
 #LOGON 1600
 #LOGOFF 1600
-#INTERLEVEL TELEPORT 22
+#INTERLEVEL TELEPORT 33
 #ENDTERMINAL 9
