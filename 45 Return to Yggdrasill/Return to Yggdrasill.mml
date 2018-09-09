@@ -2,4 +2,9 @@
 
 	<!-- Miner's light -->	<player light="0">		</player>
 
+	<!-- Random sounds -->
+	<sounds>
+		<random index="4" sound="69"/>
+	</sounds>
+
 </marathon>
