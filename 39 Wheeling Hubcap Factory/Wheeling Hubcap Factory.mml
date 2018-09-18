@@ -1,14 +1,81 @@
 <marathon>
 
-	<!-- Fog -->
 	<opengl>
-	<fog on="true"/>
-	<fog depth="42" landscapes="0"/>
-	<fog>
-		<color red=".16" green=".16" blue=".09"/>
-	</fog>
+		<!-- Fog -->
+		<fog on="true"/>
+		<fog depth="42" landscapes="0"/>
+		<fog>
+			<color red=".16" green=".16" blue=".09"/>
+		</fog>
+
+		<!-- Jjaro textures for switches -->
+		<texture coll="20" bitmap="0" 
+			normal_image="Data/20 Sewage/000j.dds" 
+			glow_image="Data/20 Sewage/000jgm.dds" 
+			glow_bloom_scale="0.2" 
+			minimum_glow_intensity="0"
+			type="0"
+		/>
+
+		<texture coll="20" bitmap="1" 
+			normal_image="Data/20 Sewage/001j.dds" 
+			type="0"
+		/>
+
+		<texture coll="20" bitmap="2" 
+			normal_image="Data/20 Sewage/002j.dds" 
+			glow_image="Data/20 Sewage/002jgm.dds" 
+			glow_bloom_scale="0.2" 
+			minimum_glow_intensity="0"
+			type="0"
+		/>
+
+		<texture coll="20" bitmap="3" 
+			normal_image="Data/20 Sewage/003j.dds" 
+			type="0"
+		/>
+
 	</opengl>
 
 	<!-- Miner's light -->	<player light="0">		</player>
+
+	<!-- Load Jjaro scenery objects -->
+	<scenery>
+		<object index="50" flags="5" destruction="28">
+			<normal><shape coll="25" seq="28"/></normal>
+			<destroyed><shape coll="25" seq="29"/></destroyed>
+		</object>
+		<object index="51" flags="5" destruction="28">
+			<normal><shape coll="25" seq="30"/></normal>
+			<destroyed><shape coll="25" seq="31"/></destroyed>
+		</object>
+		<object index="52">
+			<normal><shape coll="25" seq="27"/></normal>
+		</object>
+		<object index="53">
+			<normal><shape coll="25" seq="32"/></normal>
+		</object>
+		<object index="54">
+			<normal><shape coll="25" seq="33"/></normal>
+		</object>
+		<object index="55">
+			<normal><shape coll="25" seq="34"/></normal>
+		</object>
+		<object index="56">
+			<normal><shape coll="25" seq="36"/></normal>
+		</object>
+		<object index="57">
+			<normal><shape coll="25" seq="39"/></normal>
+		</object>
+		<object index="58">
+			<normal><shape coll="25" seq="35"/></normal>
+		</object>
+		<object index="59">
+			<normal><shape coll="25" seq="37"/></normal>
+		</object>
+		<object index="60">
+			<normal><shape coll="25" seq="38"/></normal>
+		</object>
+	</scenery>
 
 </marathon>

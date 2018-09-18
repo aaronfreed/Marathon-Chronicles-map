@@ -1,11 +1,11 @@
 <marathon>
 	<!-- Load Jjaro scenery objects -->
 	<scenery>
-		<object index="50" flags="5" destruction="22">
+		<object index="50" flags="5" destruction="28">
 			<normal><shape coll="25" seq="28"/></normal>
 			<destroyed><shape coll="25" seq="29"/></destroyed>
 		</object>
-		<object index="51" flags="5" destruction="22">
+		<object index="51" flags="5" destruction="28">
 			<normal><shape coll="25" seq="30"/></normal>
 			<destroyed><shape coll="25" seq="31"/></destroyed>
 		</object>

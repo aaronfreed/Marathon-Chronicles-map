@@ -1,11 +1,11 @@
 <marathon>
 	<!-- Load Jjaro scenery objects -->
 	<scenery>
-		<object index="50" flags="5" destruction="22">
+		<object index="50" flags="5" destruction="28">
 			<normal><shape coll="25" seq="28"/></normal>
 			<destroyed><shape coll="25" seq="29"/></destroyed>
 		</object>
-		<object index="51" flags="5" destruction="22">
+		<object index="51" flags="5" destruction="28">
 			<normal><shape coll="25" seq="30"/></normal>
 			<destroyed><shape coll="25" seq="31"/></destroyed>
 		</object>
@@ -37,5 +37,11 @@
 			<normal><shape coll="25" seq="38"/></normal>
 		</object>
 	</scenery>
+
+	<!-- 360° landscapes -->
+	<landscapes>
+		<landscape coll="30" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
+	</landscapes>
+
 </marathon>
-	
+
