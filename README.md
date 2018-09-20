@@ -7,17 +7,15 @@ While I hoarded all this content to myself for, in some cases, some twenty-one y
 
 Some links:
 
-· You will need Marathon Aleph One to play this: https://alephone.lhowon.org/
+· You will need Marathon Aleph One to play this: https://alephone.lhowon.org/  
+· Project thread at the Pfhorums: http://pfhorums.com/viewtopic.php?f=13&t=53553  
+· YouTube playlist with gameplay videos: https://youtube.com/playlist?list=PLoysJW6pXQ6nZP5tQN3ExHCnQhF6F5_Yk&disable_polymer=true  
+· Latest published versions of all game files apart from the map: https://www11.zippyshare.com/v/izUVlXjH/file.html  
+· You will need Atque to merge this map: https://sourceforge.net/projects/igniferroque/
 
-· Project thread at the Pfhorums: http://pfhorums.com/viewtopic.php?f=13&t=53553
+The map included in the penultimate link is out of date; you can make your own build of the map files here by merging this folder in Atque. I intend to create a more permanent repository for the game files somewhere else at some point, but I have not done so yet. It will not be practical for me to keep uploading the latest merged map file every time I make a small change, so you will need to merge it yourself if you want the most recent version.
 
-· YouTube playlist with gameplay videos: https://youtube.com/playlist?list=PLoysJW6pXQ6nZP5tQN3ExHCnQhF6F5_Yk&disable_polymer=true
-
-· Latest published versions of all game files apart from the map: https://www108.zippyshare.com/v/Z2qj9oBL/file.html
-
-The map included in the final link is out of date; you can make your own build of the latest version of the map by merging this folder in Atque. I intend to create a more permanent repository for the game files somewhere else at some point, but I have not done so yet. It will not be practical for me to keep uploading the latest merged map file every time I make a small change, so you will need to merge it yourself if you want the most recent version.
-
-This project is in a very unfinished state; most game terminals are blank, and there are plenty of glitches, inconsistencies, untextured or misaligned walls, and various other issues to be expected in an in-development game. It should at least be possible to play through and win the entire scenario, however, including the bonus levels, unless I’ve introduced some catastrophic, game-breaking bug since the last time I played through the whole thing from start to end.
+This project is in a very unfinished state; most game terminals are blank, and there are plenty of glitches, inconsistencies, untextured or misaligned walls, and various other issues to be expected in an in-development game. The story is nowhere near complete, and I expect the final version of the game will contain at least ten additional levels that have not yet been constructed. It should at least be possible to play through and win the entire scenario, however, including the bonus levels, unless I’ve introduced some catastrophic, game-breaking bug since the last time I played through the whole thing from start to end.
 
 I haven’t yet compiled a complete list of credits for this scenario. I’m responsible for the bulk of level design; a few other high school friends, who are credited in the scenario images file (click on the Marathon logo when you open the scenario), co-designed a few levels (specifically “Take the Veil Cerpin Taxt”, “Everyone I Went to High School With Is Dead”, “Delusions of Adequacy…”, and the hidden level “Sweet Silence”, plus “Witty Title Not Included” from the net map). I haven’t mentioned them by name because I don’t know if they want their names showing up in search engine results in association with this scenario. If you’re really curious who designed what level, almost all levels have credits in the map writing, hopefully including every level co-designed by others, at least in the solo scenario.
 
