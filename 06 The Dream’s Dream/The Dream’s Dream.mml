@@ -1,0 +1,4 @@
+<marathon>	<!-- Random sounds -->
+	<sounds>
+		<random index="3" sound="66"/>
+	</sounds>	<!-- Miner's light -->	<player light="0">	</player></marathon>

@@ -1,9 +1,0 @@
-<marathon>
-<opengl>
-<fog on="true"/>
-<fog depth="42" landscapes="0"/>
-<fog>
-<color red=".4" green="0" blue="0"/>
-</fog>
-</opengl>
-</marathon>

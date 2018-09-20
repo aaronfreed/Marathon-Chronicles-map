@@ -2,10 +2,7 @@
 
 	<!-- Fog -->
 	<opengl>
-		<fog on="true"/>
-		<fog depth="42" landscapes="0"/>
-		<fog>
-			<color red=".2" green=".2" blue=".2"/>
+		<fog on="true" type="0" depth="42" landscapes="false">			<color red=".2" green=".2" blue=".2"/>
 		</fog>
 	</opengl>
 
