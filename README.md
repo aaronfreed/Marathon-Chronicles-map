@@ -62,7 +62,7 @@ Most level titles are taken from songs or albums, with a few others from books o
    · **Janelle Monáe** (“Neon Valley Street”);  
   · **Emperor** (“With Strength I Burn”);  
   · **Enslaved** (“Return to Yggdrasill”);  
-  · **Metallica** (“Master of Puppets”);  
+  · ***The Wire*** (“Notes on a Criminal Conspiracy”);  
   · **Agalloch** (“In the Shadow of Our Pale Companion”);  
   · **Il Balletto di Bronzo** and **Joanna Newsom** (“Ys”; the title honours both artists’ albums, plus the mythical underwater city after which they’re both named);  
   · **Radiohead** (“How to Disappear Completely”);  
@@ -123,6 +123,7 @@ Lastly, as an aid to people going over the Pfhorums thread/YouTube channel, sinc
 · **Room a Thousand Years Wide**: formerly “Tighter & Tighter”;  
 · **To Make an Idol of Our Fear and Call It God**: formerly “Please Excuse Our Dust”;  
 · **Neon Valley Street**: formerly “2+2=5 (The Lukewarm)”;  
+· **Notes on a Criminal Conspiracy**: formerly “Master of Puppets”;  
 · **Slaughterhouse-One** through **Slaughterhouse-Five**: formerly “naked lunch one” through “naked lunch five”.
 
 I hope you enjoy this scenario. Comments, suggestions, constructive criticism, praise, offers of employment, submissions of content, pull requests, bug reports, bug fixes, Vid films, etc., are all highly welcome. You can contact me at:
