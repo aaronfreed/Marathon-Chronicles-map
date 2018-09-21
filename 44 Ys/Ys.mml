@@ -29,5 +29,15 @@
 			normal_image="Data/17 Water/004m2.dds" 
 			type="0"
 		/>
+
+		<texture coll="18" bitmap="0" 
+			normal_image="Data/17 Water/000m2.dds" 
+			type="0"
+		/>
+
+		<texture coll="18" bitmap="1" 
+			normal_image="Data/17 Water/001m2.dds" 
+			type="0"
+		/>
 	</opengl>
 </marathon>
