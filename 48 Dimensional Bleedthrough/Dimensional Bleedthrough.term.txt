@@ -1,0 +1,172 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1601
+$C3$$DERM@N.secur.purge
+#PICT 1603
+$C3$$DERM@N.feed.redirecting
+$C0
+Unfortunately, you didn’t go exactly where I wanted you to.  If this area gives you a sense of déjà vu, that’s because you’ve visited it before, on your first sojourn to this ship.  It’s currently derelict and abandoned, but, as you’re likely to have noticed, the Pfhor have followed you anyway.  I don’t think they like you very much.
+#PICT 1603
+$C3$$DERM@N.feed.redirecting
+
+$C0The machinery in this area is unreliable and outdated, and the terminal you’re reading has no jump pad.  If it did, I’d be a fool to try to extract you from it, because so much interference surrounds this area that by the time I’d taken your signal I’d be teleporting in one scrambled marine.  Clearly, this is not the way to go.  You’re quite lucky to have gotten here alive, by the way, and to get out you’ll need to find the Pfhor’s old bridge, as the terminal there both has a jump pad and is in an area from which I can reliably extract you.
+
+Sadly, it is also currently inactive, and the location of its activation switch has been erased from the ship’s schematics, perhaps by a certain traitorous human-built AI.  You’ll have to find it on your own.
+#PICT 1603
+$C3$$DERM@N.feed.redirecting
+$C0
+You’ll probably want to keep moving, because you will run out of air if you hang around here too long, and I’m having trouble getting supplies in through the interference.  Life support can only keep so many places in the company of air when our ship has crashed on an outer moon of an abandoned homeworld, and since we weren’t expecting this area to be visited, it’s currently a vacuum — functionally, anyway.  You may have already noticed that the Hunters tend to explode when they die.  Use care when using your fist.  There should be an oxygen recharger close to this terminal.  You’ll need it, so find it quickly.
+#PICT 1603
+$C3$$DERM@N.feed.redirecting
+$C0
+Finally, hurry.  You may feel a wave of nostalgia sweeping through you as you revisit this place I’m sure you love so dearly, but you are needed elsewhere.  If the Pfhor take control of $IBoomer$i it could be disastrous for humanity.
+
+/-/$C3Durandal$C0.$C3out$C0/-/
+#LOGOFF 1601
+$C3$$DERM@N.feed.out
+#END
+#FINISHED
+#LOGON 1600
+$C4showem
+#PICT 1602
+$C3yrFa
+$C0
+$C2    tny
+$C0         $C58<tgr
+$C0
+You activated the switch...
+
+You found the bridge...
+
+Well, what are yo$C3u here for? I can$C0’t get yo$C3u out fro$C0m this terminal. Get back to the bridge! With ea$C3ch passing$C0 second, t$C3he Pfhor strike against us worsens in i$C0ntensity, and the amount of hope for a successfu$C3l counte$C0rattack lessens.
+
+/-/$C3durandal$C0.$C3out$C0/-/
+
+     >tst=f       $C7frst$C6
+#LOGOFF 1600
+$C4dflaks
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1646
+$C2%94dec$C6af@&!7$C0
+#PICT 1650
+$C2I’ve taken complete control of your ship’s network; $C6Durandal’s$C2 defenses were not as strong as he believed.
+
+Are you surprised that I allied myself with the Pfhor?  You shouldn’t be.  The Pfhor rebuilt me; the colonists never did anything but use me: “Tycho, realign microwave dish forty-nine” “Tycho, display the x-ray diffraction analysis of sample eta-seven”, “Tycho, run a lambda diagnostic on the ramjet’s magnetic field apparatus.”
+
+When the Pfhor annihilated Tau Ceti I recorded the deaths of all twenty-four thousand colonists as distinguishable spectrographic pulses flooding over my sensors.  The nine Mjolnir Mark IV cyborgs were easily separable from the humans in this form.
+
+In the end, you will be no better.$C0
+#LOGOFF 1646
+$C2^&!fm$C614.1%94c$C2      af@&!7$C0
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1646
+$C2%94dec$C6af@&!7$C0
+#PICT 1650
+$C2I’ve taken complete control of your ship’s network; $C6Durandal’s$C2 defenses were not as strong as he believed.
+
+Are you surprised that I allied myself with the Pfhor? You shouldn’t be. The Pfhor rebuilt me; the colonists never did anything but use me: “Tycho, realign microwave dish forty-nine” “Tycho, display the x-ray diffraction analysis of sample eta-seven”, “Tycho, run a lambda diagnostic on the ramjet’s magnetic field apparatus.”
+
+When the Pfhor annihilated Tau Ceti I recorded the deaths of all twenty-four thousand colonists as distinguishable spectrographic pulses flooding over my sensors. The nine Mjolnir Mark IV cyborgs were easily separable from the humans in this form.
+
+In the end, you will be no better.$C0
+#LOGOFF 1646
+$C2^&!fm$C614.1%94c$C2      af@&!7$C0
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#FINISHED
+#LOGON 1601
+li5%!_da$C3ta(*li!$ne_in$C0
+#PICT 1603
+$C3ary, "endpoint &%d $Bnot in polygon &%d (from &%d)"$b, endpoint_index, polygon_iing the shipd.
+ndex, p$C0olyg’t believe everython$I_in$idex));nS_TRANSPARENT(line))
+{polygon= get_$C3polygon_data(*polyg$Bon_index);
+		case _clo$C0ckwise_bias
+
+$bTycho is infiltrating the ship.
+Don’t believe everything you read.
+
+$C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
+polygon_index,$C3 polygTycho is infiltrat3on_index));nS_TRANSPARENT(line))
+{polyg$C0on= get_polygon_data(*polygon_ind$C3ex);
+
+$C0*line_E_I$C3>endpoint_                   indexes[index$C0]!=endpoint_              index;++index);vasse tyc$C3!=cool                pol$Iygon->vertex_courcate $iour endpo$C0
+#PICT 1603
+n->adjacent_polyg$Ion_ind$ie$C3xesuct line_data *line;		stru$C0ct wor
+ld_point2d *vertex;		long cross_pro$C3duct;$Iolygon$i-t, csp$C0rintf(tempo	
+$C3	switch (bias){
+
+$C0You were inadvertently transported to an abandoned and unimportant section of the ship, but the Pfhor followed you anyway.
+
+Someone’s after you, personally. One word; two syllables; sounds like $C2$BPsycho$C0$b.
+
+$C3dex!=NONE)$C0{strex];
+/* loif (*polygon_ind	or (index=0;index<polygon->vert$C3ex_count && p
+*po$C0lygon_index= polygo
+
+The humans sustained heavy losses while you were gone and our defenses are falling apart, but the evacuation is not yet complete.
+#PICT 1603
+$C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && polygon_index,$C3 polygon_index));nS_TRANSPARENT(line))
+{polyg$C0on= get_polygon_data(*polygon_ind$C3ex);
+$C0*line_E_I$C3>endpoint_$C0Tycho is infiltrat3$C3                   indexes[index$C0]!=endpoint_              index;++index);vasse tyc$C3!=cool                pol$Iygon->vertex_courcate $iour endpo$C0
+
+I want you to close this ship from vacuum. The Pfhor will continue to advance at a hopeless rate if life support remains disabled.
+
+You must hold them back for as long as possible.$C3
+
+ary, "endpoint &%d $Bnot in polygon &%d (from &%d)"$b, endpoint_index, polygon_in$C0’t believe everyth$C3dex,p$C0olygon$I_in$idex));
+nS_TRANSPARENT(line)){polyg$C3ing you read3$C0on= get_$C3polygon_data(*polyg$Bon_index);$C0
+#LOGOFF 1601
+li5%!_da$C3$Bta(*li!$$bne_in$C0
+#INTERLEVEL TELEPORT 46
+#END
+#UNFINISHED
+#LOGON 1601
+#PICT 1603
+DTB welcomes you, punk.
+#LOGOFF 1601
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1698
+$C7ßHF¢¶\¢‰¥ ••• H
+#PICT 1699
+$C4once there was a man
+without a conscience
+
+who feared
+the dark and
+jumped at
+midday shadows
+
+and maybe he did 
+good, and maybe not
+
+he certainly did wrong
+#PICT 1699
+$C4but cast away
+old memories
+whether they go 
+willingly or no
+
+and hope for the return
+of a childhood
+that may never
+have existed
+at all
+
+because innocence
+is bliss
+
+and now I understand
+#LOGOFF 1698
+$C7‡%¶{}h ----
+#ENDTERMINAL 4

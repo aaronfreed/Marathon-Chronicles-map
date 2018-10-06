@@ -6,7 +6,7 @@
 			<color red=".6" green=".3" blue="0"/>
 		</fog>
 
-		<fog on="true" type="1" depth="21" landscapes="false">			<color red="0.067" green="0.133" blue="0"/>		</fog>
+		<fog on="true" type="1" depth="21" landscapes="false">			<color red="0.25" green="0.5" blue="0"/>		</fog>
 
 		<!-- M2 switches, rechargers, terminals -->
 		<texture coll="20" bitmap="0" 

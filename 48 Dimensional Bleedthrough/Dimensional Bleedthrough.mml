@@ -1,0 +1,22 @@
+<marathon>
+
+	<!-- Fog -->
+	<opengl>
+		<fog on="true" type="0" depth="42" landscapes="false">
+			<color red=".2" green="0" blue="0"/>
+		</fog>
+		<fog on="true" type="1" depth="21" landscapes="false">			<color red=".7" green="0" blue="0"/>
+		</fog>
+	</opengl>
+
+	<!-- Rubicon ship ambient sounds
+	<sounds>
+		<sound index="201" slot="1" file="Data/Sounds/Rubicon Pfhor Ship 1.wav"/>
+		<sound index="202" slot="1" file="Data/Sounds/Rubicon Pfhor Ship 2.wav"/>
+		<sound index="101" slot="1" file="Data/Sounds/Rubicon Alien Harmonics 1.wav"/>
+		<sound index="101" slot="2" file="Data/Sounds/Rubicon Alien Harmonics 2.wav"/>
+		<sound index="101" slot="3" file="Data/Sounds/Rubicon Alien Harmonics 1.wav"/>
+		<sound index="101" slot="4" file="Data/Sounds/Rubicon Alien Harmonics 1.wav"/>
+	</sounds>-->
+
+</marathon>

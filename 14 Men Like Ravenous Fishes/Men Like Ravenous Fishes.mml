@@ -9,10 +9,4 @@
 		</fog>
 	</opengl>
 
-	<!-- 360° landscapes -->
-	<landscapes>
-		<landscape coll="28" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
-		<landscape coll="30" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
-	</landscapes>
-
 </marathon>

@@ -3,5 +3,5 @@
 		<fog on="true" type="0" depth="42" landscapes="false">
 			<color red=".2" green=".15" blue="0"/>
 		</fog>
-		<fog on="true" type="1" depth="21" landscapes="false"> 			<color red="0" green="0.69" blue=".788"/> 		</fog>	</opengl>
+		<fog on="true" type="1" depth="21" landscapes="false"> 			<color red="0" green="0.175" blue=".2"/> 		</fog>	</opengl>
 </marathon>
