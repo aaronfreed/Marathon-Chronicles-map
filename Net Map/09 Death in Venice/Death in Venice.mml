@@ -1,0 +1,14 @@
+<marathon>
+
+	<!-- Fog -->
+	<opengl>
+		<fog on="true" type="0" depth="42" landscapes="false">			<color red=".078" green=".247" blue=".639"/>
+		</fog>
+	</opengl>
+
+	<!-- Random sounds -->
+	<sounds>
+		<random index="1" sound="14"/>
+	</sounds>
+
+</marathon>

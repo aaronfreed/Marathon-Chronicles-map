@@ -1,0 +1,15 @@
+<marathon>
+
+	<!-- Fog -->
+	<opengl>
+		<fog on="true" type="0" depth="42" landscapes="false">
+			<color red=".59" green=".42" blue=".34"/>
+		</fog>
+		<fog on="true" type="1" depth="21" landscapes="false"> 			<color red="0" green="0.525" blue=".6"/> 		</fog>	</opengl>
+
+	<!-- 360° landscapes -->
+	<landscapes>
+		<landscape coll="29" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
+	</landscapes>
+
+</marathon>
