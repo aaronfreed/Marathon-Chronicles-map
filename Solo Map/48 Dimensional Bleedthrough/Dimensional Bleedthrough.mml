@@ -9,6 +9,23 @@
 		</fog>
 	</opengl>
 
+	<!-- Scenery -->
+	<scenery>
+		<object index="44">
+			<normal><shape coll="26" seq="51"/></normal>
+		</object>
+	</scenery>
+
+	<!-- redefine lava to green goo -->
+	<liquids>		<liquid index="1" coll="18" frame="43">			<sound type="5" which="93"/>		</liquid>
+	</liquids>	<!-- Lava Fader -->	<faders>		<fader index="30" flags="2">			<color red="0" green="1" blue="0"/>		</fader>		<fader index="17">
+			<color red="0" green="1" blue="0"/>
+		</fader>
+	</faders>
+	<overhead_map>
+		<color index="3" red="0" green="0.7" blue="0.0"/>
+	</overhead_map>
+
 	<!-- Rubicon ship ambient sounds
 	<sounds>
 		<sound index="201" slot="1" file="Data/Sounds/Rubicon Pfhor Ship 1.wav"/>

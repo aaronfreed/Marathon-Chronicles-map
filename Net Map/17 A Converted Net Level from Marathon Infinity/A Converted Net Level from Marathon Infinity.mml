@@ -12,4 +12,7 @@
 		<random index="1" sound="14"/>
 	</sounds>
 
+	<!-- Oxygen replenishment -->
+	<player oxygen_replenish="1"></player>
+
 </marathon>

@@ -8,4 +8,7 @@
 		</fog>
 	</opengl>
 
+	<!-- Oxygen replenishment -->
+	<player oxygen_replenish="1"></player>
+
 </marathon>
