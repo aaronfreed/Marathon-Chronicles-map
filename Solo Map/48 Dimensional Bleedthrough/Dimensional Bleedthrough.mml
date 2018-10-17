@@ -17,7 +17,7 @@
 	</scenery>
 
 	<!-- redefine lava to green goo -->
-	<liquids>		<liquid index="1" coll="18" frame="43" damage_freq="7">			<damage type="17" base="8" random="0"/>			<sound type="5" which="93"/>		</liquid>
+	<liquids>		<liquid index="1" coll="18" frame="43" damage_freq="7">			<damage type="17" base="8" random="0"/>			<sound type="5" which="3"/>		</liquid>
 	</liquids>	<!-- Lava Fader -->	<faders>		<fader index="30" flags="2">			<color red="0" green="1" blue="0"/>		</fader>		<fader index="17">
 			<color red="0" green="1" blue="0"/>
 		</fader>
