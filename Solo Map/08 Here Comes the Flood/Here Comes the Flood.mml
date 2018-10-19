@@ -11,6 +11,7 @@
 	<sounds>
 		<random index="1" sound="66"/>
 		<random index="3" sound="175"/>
+		<random index="4" sound="69"/>
 	</sounds>
 
 </marathon>
