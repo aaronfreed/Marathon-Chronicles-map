@@ -1,17 +1,23 @@
+function Triggers.init()
+	finished = 0
+	for p in Players() do
+		p.items["alien weapon"] = 1
+	end
+end
+
 function Triggers.idle()
-	platforms()
+	if finished == 0 then
+		platforms()
+	end
 end
 
 function platforms()
-	total = 0
-	for m in Monsters() do
-		if m.active = 0 or m.life = 1 then
-			total = total + 1
-		end
-	end
-	if total = 0 then
+	if Level.calculate_completion_state() == "finished" then
+		finished = 1
 		for p in Platforms() do
-			p.active = 1
+			if p.ceiling_height == 5 then
+				p.active = 1
+			end
 		end
 	end
 end
