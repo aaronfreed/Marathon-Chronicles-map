@@ -14,11 +14,7 @@ end
 function platforms()
 	if Level.calculate_completion_state() == "finished" then
 		finished = 1
-		for p in Platforms() do
-			if p.ceiling_height == 5 then
-				p.active = 1
-			end
-		end
+        Tags[1].active = true
 	end
 end
 
