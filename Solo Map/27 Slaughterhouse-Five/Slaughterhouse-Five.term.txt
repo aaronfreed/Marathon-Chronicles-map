@@ -3,13 +3,9 @@
 #UNFINISHED
 #LOGON 1631
 #PICT 1636
-$C4This terminal sucked
 #PICT 1637
-$C4Now
 #PICT 1638
-$C4This terminal sucks
 #PICT 1639
-$C4It will be completely rewritten
 #LOGOFF 1631
 #TAG 1
 #ENDTERMINAL 0
@@ -44,5 +40,5 @@ $C1$BAnd in the end, everything was a blur.
 #LOGON 1609
 #PICT 1612
 #LOGOFF 1609
-#INTERLEVEL TELEPORT 28
+#INTERLEVEL TELEPORT 46
 #ENDTERMINAL 3
