@@ -114,7 +114,7 @@ $C3dex!=NONE)$C0{strex];
 The humans sustained heavy losses while you were gone and our defenses are falling apart, but the evacuation is not yet complete.
 #LOGOFF 1601
 li5%!_da$C3$Bta(*li!$$bne_in$C0
-#INTERLEVEL TELEPORT 27
+#INTERLEVEL TELEPORT 29
 #END
 #UNFINISHED
 #LOGON 1601
