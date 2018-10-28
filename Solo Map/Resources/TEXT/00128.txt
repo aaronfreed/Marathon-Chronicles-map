@@ -167,6 +167,7 @@
 	<level index="25">
 		<mml resource="1021"/>
 		<mml resource="1060"/>
+		<mml resource="2021"/>
 		<mml resource="11014"/>
 	</level>
 
@@ -192,6 +193,7 @@
 
 	<!-- Kill Your Sons -->
 	<level index="29">
+		<music file="Data/Music/30TheMarsVoltaCassandraGemini.wav"/>
 		<mml resource="1023"/>
 		<mml resource="1043"/>
 		<mml resource="2011"/>
@@ -283,6 +285,7 @@
 
 	<!-- In the Shadow of Our Pale Companion -->
 	<level index="43">
+		<music file="Data/Music/44AgallochInTheShadowOfOurPaleCompanion.wav"/>
 		<mml resource="1010"/>
 		<mml resource="1060"/>
 		<mml resource="2021"/>
@@ -298,6 +301,7 @@
 
 	<!-- Return to Yggdrasill -->
 	<level index="45">
+		<music file="Data/Music/46AlcestSurLOceanCouleurDeFer.wav"/>
 		<mml resource="2020"/>
 		<mml resource="2040"/>
 		<mml resource="14069"/>
@@ -305,6 +309,7 @@
 
 	<!-- Cel din urmă vis -->
 	<level index="46">
+		<music file="Data/Music/47PanopticonCoweringAtTheFootOfTheMountain.wav"/>
 		<mml resource="2020"/>
 		<mml resource="2040"/>
 	</level>
