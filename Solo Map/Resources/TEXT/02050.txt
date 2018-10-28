@@ -1,0 +1,8 @@
+<marathon>
+	<!-- Pfhor skeleton scenery object to blue Pfhor foetus -->
+	<scenery>
+		<object index="44">
+			<normal><shape coll="26" seq="51"/></normal>
+		</object>
+	</scenery>
+</marathon>

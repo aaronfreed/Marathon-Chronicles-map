@@ -1,0 +1,6 @@
+<marathon>
+	<!-- Turn Earth bird random sound into thunder -->
+	<sounds>
+		<random index="1" sound="14"/>
+	</sounds>
+</marathon>

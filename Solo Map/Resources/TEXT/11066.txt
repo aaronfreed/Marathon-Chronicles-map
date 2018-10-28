@@ -1,0 +1,4 @@
+<marathon>	<!-- Turn Earth bird random sound into chanting monks -->
+	<sounds>
+		<random index="1" sound="66"/>
+	</sounds></marathon>

@@ -1,0 +1,4 @@
+<marathon>	<!-- Turn Lh’owon loon random sound into Earth birds -->
+	<sounds>
+		<random index="3" sound="175"/>
+	</sounds></marathon>

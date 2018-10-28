@@ -1,0 +1,8 @@
+<marathon>
+	<!-- Fog for Jjaro mist/Pfhor Prime city -->
+	<opengl>
+		<fog on="true" type="0" depth="42" landscapes="false">
+			<color red=".59" green=".42" blue=".34"/>
+		</fog>
+	</opengl>
+</marathon>

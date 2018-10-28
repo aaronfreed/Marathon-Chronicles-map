@@ -1,0 +1,15 @@
+<marathon>
+	<!-- Force extermination of Pfhor -->
+	<monsters>
+		<monster index="8" must_be_exterminated="1"/>
+		<monster index="9" must_be_exterminated="1"/>
+		<monster index="10" must_be_exterminated="1"/>
+		<monster index="11" must_be_exterminated="1"/>
+		<monster index="25" must_be_exterminated="1"/>
+		<monster index="26" must_be_exterminated="1"/>
+		<monster index="27" must_be_exterminated="1"/>
+		<monster index="28" must_be_exterminated="1"/>
+		<monster index="29" must_be_exterminated="1"/>
+		<monster index="30" must_be_exterminated="1"/>
+	</monsters>
+</marathon>

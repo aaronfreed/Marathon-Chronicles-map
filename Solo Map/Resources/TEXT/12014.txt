@@ -1,0 +1,6 @@
+<marathon>
+	<!-- Turn underground explosion random sound into thunder -->
+	<sounds>
+		<random index="2" sound="14"/>
+	</sounds>
+</marathon>

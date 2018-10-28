@@ -1,0 +1,6 @@
+<marathon>
+	<!-- Fog for standard red goo -->
+	<opengl>
+		<fog on="true" type="1" depth="21" landscapes="false">			<color red=".7" green="0" blue="0"/>
+		</fog>
+	</opengl></marathon>

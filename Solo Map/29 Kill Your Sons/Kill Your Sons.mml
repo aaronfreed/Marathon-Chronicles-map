@@ -1,23 +1,0 @@
-<marathon>
-
-	<!-- Fog -->
-	<opengl>
-		<fog on="true" type="0" depth="42" landscapes="false">
-			<color red=".2" green="0" blue="0"/>
-		</fog>
-		<fog on="true" type="1" depth="21" landscapes="false">			<color red=".7" green="0" blue="0"/>
-		</fog>
-	</opengl>
-
-	<!-- lava to green goo -->
-	<liquids>		<liquid index="1" coll="18" frame="43" damage_freq="7">			<damage type="17" base="8" random="0"/>			<sound type="5" which="3"/>		</liquid>
-	</liquids>	<!-- green goo fader -->	<faders>		<fader index="30" flags="2">			<color red="0" green="1" blue="0"/>		</fader>		<fader index="17">
-			<color red="0" green="1" blue="0"/>
-		</fader>
-	</faders>
-
-	<!-- green goo map colour -->	<overhead_map>
-		<color index="3" red="0" green="0.7" blue="0.0"/>
-	</overhead_map>
-
-</marathon>

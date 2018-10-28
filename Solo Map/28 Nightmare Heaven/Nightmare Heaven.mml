@@ -1,41 +1,0 @@
-<marathon>
-
-	<opengl>
-		<!-- Fog -->
-		<fog on="true" type="0" depth="42" landscapes="false">
-			<color red=".47" green=".2" blue=".16"/>
-		</fog>
-		<fog on="true" type="1" depth="21" landscapes="false">			<color red="0.067" green="0.133" blue="0"/>		</fog>
-
-		<!-- Jjaro textures for switches -->
-		<texture coll="20" bitmap="0" 
-			normal_image="Data/20 Sewage/000j.dds" 
-			glow_image="Data/20 Sewage/000jgm.dds" 
-			glow_bloom_scale="0.2" 
-			minimum_glow_intensity="0"
-			type="0"
-		/>
-
-		<texture coll="20" bitmap="1" 
-			normal_image="Data/20 Sewage/001j.dds" 
-			type="0"
-		/>
-
-		<texture coll="20" bitmap="2" 
-			normal_image="Data/20 Sewage/002j.dds" 
-			glow_image="Data/20 Sewage/002jgm.dds" 
-			glow_bloom_scale="0.2" 
-			minimum_glow_intensity="0"
-			type="0"
-		/>
-
-		<texture coll="20" bitmap="3" 
-			normal_image="Data/20 Sewage/003j.dds" 
-			type="0"
-		/>
-
-	</opengl>
-
-	<!-- Miner's light -->	<player light="0">	</player>
-
-</marathon>

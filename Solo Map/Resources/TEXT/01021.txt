@@ -1,0 +1,6 @@
+<marathon>
+	<!-- Fog for M∞ Lh’owon & Earth at night -->
+	<opengl>
+		<fog on="true" type="0" depth="42" landscapes="false">			<color red="0" green="0" blue=".3"/>
+		</fog>
+	</opengl></marathon>

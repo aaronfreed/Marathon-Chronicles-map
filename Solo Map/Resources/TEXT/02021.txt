@@ -1,0 +1,4 @@
+<marathon>
+	<!-- Miner's light -->	<player light="0.21">		</player>
+</marathon>
+	

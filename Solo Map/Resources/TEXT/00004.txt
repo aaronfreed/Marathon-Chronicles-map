@@ -1,1 +1,0 @@
-<marathon><opengl><fog depth="16" on="true" landscapes="false"><color red="0.26953125" green="0.2578125" blue="0.23828125"></fog></opengl></marathon>

@@ -1,1 +1,0 @@
-<marathon><opengl><fog on="false" /></opengl></marathon>

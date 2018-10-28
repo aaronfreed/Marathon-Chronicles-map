@@ -1,0 +1,6 @@
+<marathon>
+	<!-- 360° dusk landscapes -->
+	<landscapes>
+		<landscape coll="29" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
+	</landscapes>
+</marathon>

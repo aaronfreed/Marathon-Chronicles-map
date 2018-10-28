@@ -1,0 +1,38 @@
+<marathon>
+	<!-- Jjaro switch panels -->
+	<opengl>
+		<texture coll="20" bitmap="0" 
+			normal_image="Data/20 Sewage/000j.dds" 
+			glow_image="Data/20 Sewage/000jgm.dds" 
+			glow_bloom_scale="0.2" 
+			minimum_glow_intensity="0"
+			type="0"
+		/>
+
+		<texture coll="20" bitmap="1" 
+			normal_image="Data/20 Sewage/001j.dds" 
+			type="0"
+		/>
+
+		<texture coll="20" bitmap="2" 
+			normal_image="Data/20 Sewage/002j.dds" 
+			glow_image="Data/20 Sewage/002jgm.dds" 
+			glow_bloom_scale="0.2" 
+			minimum_glow_intensity="0"
+			type="0"
+		/>
+
+		<texture coll="20" bitmap="3" 
+			normal_image="Data/20 Sewage/003j.dds" 
+			type="0"
+		/>
+
+		<texture coll="20" bitmap="4" 
+			normal_image="Data/20 Sewage/039.dds" 
+			glow_image="Data/20 Sewage/039gm.dds" 
+			glow_bloom_scale="0.2" 
+			minimum_glow_intensity="0"
+			type="0"
+		/>
+	</opengl>
+</marathon>

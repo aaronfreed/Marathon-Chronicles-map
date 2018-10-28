@@ -1,0 +1,4 @@
+<marathon>	<!-- Turn loon random sound into chanting monks -->
+	<sounds>
+		<random index="3" sound="66"/>
+	</sounds></marathon>

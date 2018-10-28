@@ -1,0 +1,8 @@
+<marathon>
+	<!-- Fog for Lh’owon tower at dusk -->
+	<opengl>
+		<fog on="true" type="0" depth="42" landscapes="false">
+			<color red=".47" green=".2" blue=".16"/>
+		</fog>
+	</opengl>
+</marathon>

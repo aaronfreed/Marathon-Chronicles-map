@@ -1,1 +1,102 @@
-<marathon><opengl><fog on="false" /></opengl></marathon>
+<!--
+
+Above-media fog resources:
+
+01000 – daytime yellow lh’owon
+01001 – daytime blue lh’owon
+01002 – daytime earth
+01003 – daytime pfhor prime
+
+01010 – dusk m2 lh’owon
+01011 – dusk m∞ lh’owon
+01012 – stormy earth
+01013 – dusk lh’owon tower
+01014 – jjaro mist/pfhor prime city
+
+01020 – nighttime m2 lh’owon
+01021 – nighttime blue
+01022 – nighttime pfhor prime
+01023 – red space
+
+01030 – pfhor ship red
+01031 – pfhor ship yellow
+01032 – pfhor ship green
+01033 – pfhor ship blue
+01034 – black
+
+Media fog resources:
+
+01040 – daytime water/blue goo
+01041 – daytime lava
+01042 – daytime sewage
+01043 – standard red goo
+01044 – standard yellow goo
+01045 – standard green goo
+
+01050 – dusk water/blue goo
+01051 – dusk lava
+01052 – dusk sewage
+01053 – dusk red goo
+01054 – dusk yellow goo
+01055 – dusk green goo
+
+01060 – nighttime water/blue goo
+01061 – nighttime lava
+01062 – nighttime sewage
+01063 – nighttime red goo
+01064 – nighttime yellow goo
+01065 – nighttime green goo
+01066 – black
+
+Commonly called game functions:
+
+02000 – jjaro scenery
+02001 – jjaro panels
+02002 – m2 sewage panels
+02003 – m2 water panels
+02004 – m2 lava panels
+
+02010 – water to blue goo
+02011 – lava to green goo
+02012 – sewage to yellow goo
+
+02020 – miner’s light off
+02021 – miner’s light 21%
+
+02030 – 360° night landscapes
+02031 – 360° dusk landscapes
+02032 – 360° space landscapes
+
+02040 – Pfhor must be exterminated
+
+02050 – Pfhor skeleton to blue Pfhor foetus
+02051 – Pfhor blood scenery to green Pfhor goo
+
+Random sound scripts:
+
+1 + position of random sound in second digit:
+
+0 = dripping water
+1 = Earth birds (thunder in Weland; surface explosion in ShapeFusion)
+2 = underground explosions
+3 = Lh’owon loon
+4 = ship creak
+
++ position in sound file in last three digits:
+
+014 = thunder
+066 = chanting monks
+069 = house settling
+070 = tolling bell
+175 = Earth birds
+
+resources in existence:
+
+11014
+11066
+12066
+13066
+13070
+13175
+14069
+-->

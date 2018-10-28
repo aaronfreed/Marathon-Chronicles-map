@@ -1,0 +1,8 @@
+<marathon>
+	<!-- Pfhor blood scenery object to green Pfhor goo -->
+	<scenery>
+		<object index="46">
+			<normal><shape coll="26" seq="45"/></normal>
+		</object>
+	</scenery>
+</marathon>

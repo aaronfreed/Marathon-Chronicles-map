@@ -1,43 +1,0 @@
-<marathon>
-	<opengl>
-		<!-- Fog -->
-		<fog on="true" type="0" depth="42" landscapes="false">
-			<color red=".15" green="0" blue=".2"/>
-		</fog>
-		<fog on="true" type="1" depth="21" landscapes="false"> 			<color red="0" green="0.175" blue=".2"/> 		</fog>		<!-- M2 switches, rechargers, terminals -->
-		<texture coll="17" bitmap="0" 
-			normal_image="Data/17 Water/000m2.dds" 
-			type="0"
-		/>
-
-		<texture coll="17" bitmap="1" 
-			normal_image="Data/17 Water/001m2.dds" 
-			type="0"
-		/>
-
-		<texture coll="17" bitmap="2" 
-			normal_image="Data/17 Water/002m2.dds" 
-			type="0"
-		/>
-
-		<texture coll="17" bitmap="3" 
-			normal_image="Data/17 Water/003m2.dds" 
-			type="0"
-		/>
-
-		<texture coll="17" bitmap="4" 
-			normal_image="Data/17 Water/004m2.dds" 
-			type="0"
-		/>
-
-		<texture coll="18" bitmap="2" 
-			normal_image="Data/17 Water/002m2.dds" 
-			type="0"
-		/>
-
-		<texture coll="18" bitmap="3" 
-			normal_image="Data/17 Water/003m2.dds" 
-			type="0"
-		/>
-	</opengl>
-</marathon>

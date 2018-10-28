@@ -1,5 +1,5 @@
-suff1 = 1
-suff2 = 0
+suff1 = -6
+suff2 = -7
 
 function Triggers.idle()
 	suffocate()

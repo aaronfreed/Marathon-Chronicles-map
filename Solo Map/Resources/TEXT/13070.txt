@@ -1,0 +1,4 @@
+<marathon>	<!-- Turn Lh’owon loon random sound into tolling bell -->
+	<sounds>
+		<random index="3" sound="70"/>
+	</sounds></marathon>
