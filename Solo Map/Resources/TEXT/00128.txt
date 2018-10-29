@@ -2,18 +2,21 @@
 
 	<!-- Sketches of Pain -->
 	<level index="0">
+		<music file="Data/Music/00"/>
 		<mml resource="2000"/>
+		<mml resource="2001"/>
 	</level>
 
 	<!-- Take the Veil Cerpin Taxt -->
 	<level index="1">
-		<music file="Data/Music/02TheMarsVoltaTakeTheVeilCerpinTaxt.wav"/>
+		<music file="Data/Music/01"/>
 		<mml resource="1011"/>
 		<mml resource="1050"/>
 	</level>
 
 	<!-- Pleiades’ Dust -->
 	<level index="2">
+		<music file="Data/Music/02"/>
 		<mml resource="1023"/>
 		<mml resource="1050"/>
 		<mml resource="2030"/>
@@ -21,6 +24,7 @@
 
 	<!-- Cut Their Grain and Place Fire Therein -->
 	<level index="3">
+		<music file="Data/Music/03"/>
 		<mml resource="1021"/>
 		<mml resource="1062"/>
 		<mml resource="2021"/>
@@ -28,30 +32,35 @@
 
 	<!-- Revisions of the Past -->
 	<level index="4">
-		<mml resource="2021"/>
+		<music file="Data/Music/04"/>
+		<mml resource="1021"/>
 		<mml resource="1060"/>
 		<mml resource="2021"/>
 	</level>
 
 	<!-- Slaughterhouse-One -->
 	<level index="5">
+		<music file="Data/Music/05"/>
 		<mml resource="2020"/>
 	</level>
 
 	<!-- The Dream’s Dream -->
 	<level index="6">
+		<music file="Data/Music/06"/>
 		<mml resource="2020"/>
 		<mml resource="13066"/>
 	</level>
 
 	<!-- Everyone I Went to High School With Is Dead -->
 	<level index="7">
+		<music file="Data/Music/07"/>
 		<mml resource="1012"/>
 		<mml resource="11014"/>
 	</level>
 
 	<!-- Here Comes the Flood -->
 	<level index="8">
+		<music file="Data/Music/08"/>
 		<mml resource="1021"/>
 		<mml resource="1062"/>
 		<mml resource="11066"/>
@@ -61,12 +70,14 @@
 
 	<!-- The Black Angel’s Death Song -->
 	<level index="9">
+		<music file="Data/Music/09"/>
 		<mml resource="1012"/>
 		<mml resource="1062"/>
 	</level>
 
 	<!-- Miranda, That Ghost Just Isn’t Holy Anymore -->
 	<level index="10">
+		<music file="Data/Music/10"/>
 		<mml resource="1021"/>
 		<mml resource="1060"/>
 		<mml resource="12066"/>
@@ -76,6 +87,7 @@
 
 	<!-- Slaughterhouse-Two -->
 	<level index="11">
+		<music file="Data/Music/11"/>
 		<mml resource="1000"/>
 		<mml resource="1040"/>
 		<mml resource="2020"/>
@@ -83,25 +95,29 @@
 
 	<!-- Entangled -->
 	<level index="12">
+		<music file="Data/Music/12"/>
 		<mml resource="1031"/>
 		<mml resource="2000"/>
 	</level>
 
 	<!-- The Paradox of Tolerance -->
 	<level index="13">
-		<mml resource="1030"/>
+		<music file="Data/Music/13"/>
+		<mml resource="1023"/>
 		<mml resource="1043"/>
 		<mml resource="2030"/>
 	</level>
 
 	<!-- Men Like Ravenous Fishes -->
 	<level index="14">
+		<music file="Data/Music/14"/>
 		<mml resource="1030"/>
 		<mml resource="1043"/>
 	</level>
 
 	<!-- Room a Thousand Years Wide -->
 	<level index="15">
+		<music file="Data/Music/15"/>
 		<mml resource="1030"/>
 		<mml resource="1043"/>
 		<mml resource="2011"/>
@@ -111,12 +127,14 @@
 
 	<!-- Slaughterhouse-Three -->
 	<level index="16">
+		<music file="Data/Music/16"/>
 		<mml resource="1050"/>
 		<mml resource="2020"/>
 	</level>
 
 	<!-- Biblical Candy Machines -->
 	<level index="17">
+		<music file="Data/Music/17"/>
 		<mml resource="1062"/>
 		<mml resource="2000"/>
 		<mml resource="2032"/>
@@ -124,27 +142,32 @@
 
 	<!-- To Make an Idol of Our Fear and Call It God -->
 	<level index="18">
+		<music file="Data/Music/18"/>
 	</level>
 
 	<!-- Neon Valley Street -->
 	<level index="19">
+		<music file="Data/Music/19"/>
 		<mml resource="1041"/>
 	</level>
 
 	<!-- Delusions of Adequacy… -->
 	<level index="20">
+		<music file="Data/Music/20"/>
 		<mml resource="1011"/>
 		<mml resource="1051"/>
 	</level>
 
 	<!-- With Strength I Burn -->
 	<level index="21">
+		<music file="Data/Music/21"/>
 		<mml resource="1021"/>
 		<mml resource="1061"/>
 	</level>
 
 	<!-- Slaughterhouse-Four -->
 	<level index="22">
+		<music file="Data/Music/22"/>
 		<mml resource="1010"/>
 		<mml resource="1060"/>
 		<mml resource="2020"/>
@@ -152,12 +175,14 @@
 
 	<!-- Supper’s Ready -->
 	<level index="23">
+		<music file="Data/Music/23"/>
 		<mml resource="1022"/>
 		<mml resource="1051"/>
 	</level>
 
 	<!-- Notes on a Criminal Conspiracy -->
 	<level index="24">
+		<music file="Data/Music/24"/>
 		<mml resource="1014"/>
 		<mml resource="1040"/>
 		<mml resource="2031"/>
@@ -165,6 +190,7 @@
 
 	<!-- How to Disappear Completely -->
 	<level index="25">
+		<music file="Data/Music/25"/>
 		<mml resource="1021"/>
 		<mml resource="1060"/>
 		<mml resource="2021"/>
@@ -173,11 +199,13 @@
 
 	<!-- Another One in the Dark -->
 	<level index="26">
+		<music file="Data/Music/26"/>
 		<mml resource="1062"/>
 	</level>
 
 	<!-- Slaughterhouse-Five -->
 	<level index="27">
+		<music file="Data/Music/27"/>
 		<mml resource="1014"/>
 		<mml resource="1040"/>
 		<mml resource="2020"/>
@@ -185,15 +213,17 @@
 
 	<!-- Nightmare Heaven -->
 	<level index="28">
+		<music file="Data/Music/28"/>
 		<mml resource="1013"/>
 		<mml resource="1062"/>
 		<mml resource="2000"/>
 		<mml resource="2001"/>
+		<mml resource="2020"/>
 	</level>
 
 	<!-- Kill Your Sons -->
 	<level index="29">
-		<music file="Data/Music/30TheMarsVoltaCassandraGemini.wav"/>
+		<music file="Data/Music/29"/>
 		<mml resource="1023"/>
 		<mml resource="1043"/>
 		<mml resource="2011"/>
@@ -202,59 +232,69 @@
 
 	<!-- Motherfucker=Redeemer -->
 	<level index="30">
+		<music file="Data/Music/30"/>
 		<mml resource="1014"/>
 		<mml resource="1042"/>
 	</level>
 
 	<!-- Star’s End -->
 	<level index="31">
+		<music file="Data/Music/31"/>
 		<mml resource="1061"/>
 	</level>
 
 	<!-- Acme Station (Michael Bay remix) -->
 	<level index="32">
+		<music file="Data/Music/32"/>
 		<mml resource="2000"/>
 		<mml resource="2001"/>
 	</level>
 
 	<!-- Famous Last Words -->
 	<level index="33">
+		<music file="Data/Music/33"/>
 		<mml resource="1023"/>
 		<mml resource="1043"/>
 	</level>
 
 	<!-- Eon Blue Apocalypse -->
 	<level index="34">
+		<music file="Data/Music/34"/>
 		<mml resource="1062"/>
 		<mml resource="2000"/>
 	</level>
 
 	<!-- Sweet Silence -->
 	<level index="35">
+		<music file="Data/Music/35"/>
 		<mml resource="1062"/>
 		<mml resource="2000"/>
 	</level>
 
 	<!-- It’s Alright, Ma (I’m Only Bleeding) -->
 	<level index="36">
+		<music file="Data/Music/36"/>
 		<mml resource="1062"/>
 		<mml resource="2000"/>
 	</level>
 
 	<!-- Dancing MADD -->
 	<level index="37">
+		<music file="Data/Music/37"/>
 		<mml resource="1062"/>
 		<mml resource="2000"/>
 	</level>
 
 	<!-- Errand of Mercy -->
 	<level index="38">
+		<music file="Data/Music/38"/>
 		<mml resource="1062"/>
 		<mml resource="2000"/>
 	</level>
 
 	<!-- Wheeling Hubcap Factory -->
 	<level index="39">
+		<music file="Data/Music/39"/>
 		<mml resource="1022"/>
 		<mml resource="2000"/>
 		<mml resource="2001"/>
@@ -263,12 +303,14 @@
 
 	<!-- Dream Brother -->
 	<level index="40">
+		<music file="Data/Music/40"/>
 		<mml resource="1066"/>
 		<mml resource="2011"/>
 	</level>
 
 	<!-- Thanatos, Beneath the Dust -->
 	<level index="41">
+		<music file="Data/Music/41"/>
 		<mml resource="1021"/>
 		<mml resource="1062"/>
 		<mml resource="2021"/>
@@ -276,6 +318,7 @@
 
 	<!-- Transport Is Arranged -->
 	<level index="42">
+		<music file="Data/Music/42"/>
 		<mml resource="1000"/>
 		<mml resource="1042"/>
 		<mml resource="2002"/>
@@ -285,7 +328,7 @@
 
 	<!-- In the Shadow of Our Pale Companion -->
 	<level index="43">
-		<music file="Data/Music/44AgallochInTheShadowOfOurPaleCompanion.wav"/>
+		<music file="Data/Music/43"/>
 		<mml resource="1010"/>
 		<mml resource="1060"/>
 		<mml resource="2021"/>
@@ -293,6 +336,7 @@
 
 	<!-- Ys -->
 	<level index="44">
+		<music file="Data/Music/44"/>
 		<mml resource="1020"/>
 		<mml resource="1060"/>
 		<mml resource="2003"/>
@@ -301,7 +345,7 @@
 
 	<!-- Return to Yggdrasill -->
 	<level index="45">
-		<music file="Data/Music/46AlcestSurLOceanCouleurDeFer.wav"/>
+		<music file="Data/Music/45"/>
 		<mml resource="2020"/>
 		<mml resource="2040"/>
 		<mml resource="14069"/>
@@ -309,18 +353,20 @@
 
 	<!-- Cel din urmă vis -->
 	<level index="46">
-		<music file="Data/Music/47PanopticonCoweringAtTheFootOfTheMountain.wav"/>
+		<music file="Data/Music/46"/>
 		<mml resource="2020"/>
 		<mml resource="2040"/>
 	</level>
 
 	<!-- Letter to the Night -->
 	<level index="47">
+		<music file="Data/Music/47"/>
 		<mml resource="2020"/>
 	</level>
 
 	<!-- Dimensional Bleedthrough -->
 	<level index="48">
+		<music file="Data/Music/48"/>
 		<mml resource="1030"/>
 		<mml resource="1043"/>
 		<mml resource="2011"/>
