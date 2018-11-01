@@ -10,7 +10,7 @@ Some links:
 · You will need Marathon Aleph One to play this: https://alephone.lhowon.org/  
 · Project thread at the Pfhorums: http://pfhorums.com/viewtopic.php?f=13&t=53553  
 · YouTube playlist with gameplay videos: https://youtube.com/playlist?list=PLoysJW6pXQ6nZP5tQN3ExHCnQhF6F5_Yk&disable_polymer=true  
-· Latest published versions of all game files apart from the map, which may or may not be current: https://www40.zippyshare.com/v/rJWF5R42/file.html  
+· Latest published versions of all game files apart from the map, which may or may not be current: https://www98.zippyshare.com/v/NufLKbto/file.html  
 · You will need Atque to merge this map: https://sourceforge.net/projects/igniferroque/
 
 The map included in the penultimate link is often out of date; you can make your own build of the map files here by merging this folder in Atque. I intend to create a more permanent repository for the game files somewhere else at some point, but I have not done so yet. It will not be practical for me to keep uploading the latest merged map file every time I make a small change, so you will need to merge it yourself if you want the most recent version.
