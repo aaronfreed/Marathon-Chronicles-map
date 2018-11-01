@@ -226,8 +226,11 @@
 		<music file="Data/Music/29"/>
 		<mml resource="1023"/>
 		<mml resource="1043"/>
+		<mml resource="2010"/>
 		<mml resource="2011"/>
+		<mml resource="2012"/>
 		<mml resource="2021"/>
+		<lua resource="2060"/>
 	</level>
 
 	<!-- Motherfucker=Redeemer -->
@@ -369,10 +372,13 @@
 		<music file="Data/Music/48"/>
 		<mml resource="1030"/>
 		<mml resource="1043"/>
+		<mml resource="2010"/>
 		<mml resource="2011"/>
+		<mml resource="2012"/>
 		<mml resource="2021"/>
 		<mml resource="2050"/>
 		<mml resource="2021"/>
+		<lua resource="2060"/>
 	</level>
 
 </marathon_levels>

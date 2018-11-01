@@ -1,0 +1,20 @@
+<marathon>
+	<!-- liquid definitions for turning water to blue goo -->
+	<liquids>		<liquid index="0" coll="21" frame="191" damage_freq="7">			<damage type="7" base="8" random="0"/>			<sound type="0" which="-1"/>
+			<sound type="1" which="-1"/>
+			<sound type="2" which="116"/>
+			<sound type="3" which="115"/>
+			<sound type="4" which="-1"/>
+			<sound type="5" which="3"/>			<sound type="7" which="116"/>
+			<sound type="8" which="115"/>
+		</liquid>
+	</liquids>	<!-- players burned by blue goo damage (hulk slap) -->	<player>		<damage index="5" death_sound="78" death_action="8"/>	</player>
+	<!-- blue goo fader -->	<faders>		<fader index="29" flags="0">			<color red="0" green=".69" blue=".788"/>		</fader>		<fader index="7">
+			<color red="0" green=".69" blue=".788"/>
+		</fader>
+	</faders>
+
+	<!-- blue goo map colour -->	<overhead_map>
+		<color index="2" red="0" green=".69" blue=".788"/>
+	</overhead_map>
+</marathon>

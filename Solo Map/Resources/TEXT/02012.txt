@@ -1,0 +1,28 @@
+<marathon>
+	<!-- liquid definitions for turning sewage to yellow goo -->
+	<liquids>		<liquid index="3" coll="21" frame="189" damage_freq="7">			<damage type="14" base="8" random="0"/>			<sound type="0" which="-1"/>
+			<sound type="1" which="-1"/>
+			<sound type="2" which="116"/>
+			<sound type="3" which="115"/>
+			<sound type="4" which="-1"/>
+			<sound type="5" which="3"/>			<sound type="7" which="116"/>
+			<sound type="8" which="115"/>
+		</liquid>
+		<liquid index="4" coll="21" frame="189" damage_freq="7">			<damage type="14" base="8" random="0"/>			<sound type="0" which="-1"/>
+			<sound type="1" which="-1"/>
+			<sound type="2" which="116"/>
+			<sound type="3" which="115"/>
+			<sound type="4" which="-1"/>
+			<sound type="5" which="3"/>			<sound type="7" which="116"/>
+			<sound type="8" which="115"/>
+		</liquid>
+	</liquids>	<!-- players burned by yellow goo damage (f’lickta claws) -->	<player>		<damage index="15" fader="26" death_sound="78" death_action="8"/>	</player>	<!-- yellow goo fader -->	<faders>		<fader index="31" flags="0">			<color red="1" green="1" blue="0"/>		</fader>		<fader index="32" flags="0">			<color red="1" green="1" blue="0"/>		</fader>		<fader index="26" type="0" initial_opacity=".5" final_opacity="0" period="300">
+			<color red="1" green="1" blue="0"/>
+		</fader>
+	</faders>
+
+	<!-- yellow goo map colour -->	<overhead_map>
+		<color index="4" red=".7" green=".7" blue="0"/>
+		<color index="5" red=".7" green=".7" blue="0"/>
+	</overhead_map>
+</marathon>
