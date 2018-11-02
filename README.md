@@ -30,6 +30,7 @@ Other levels are partially adapted from Bungie or Doubleaught levels. I’m not 
     · “You Think You’re Big Time? You’re Gonna Die Big Time!” for “Life Is Wasted on the Living”;  
 • **Greg Kirkpatrick**:  
     · co-design of “Poor Yorick” for part of “Notes on a Criminal Conspiracy”,  
+    · “Confound Delivery” for most other parts of “Notes on a Criminal Conspiracy”,  
     · co-design of “Son of Grendel” for “How to Disappear Completely”,  
     · “Hang Brain” for part of “Kill Your Sons”,  
     · “Acme Station (Michael Bay Remix)” and “Starless and Bible Black”,  
