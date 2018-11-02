@@ -120,9 +120,13 @@
 		<music file="Data/Music/15"/>
 		<mml resource="1030"/>
 		<mml resource="1043"/>
+		<mml resource="2010"/>
 		<mml resource="2011"/>
+		<mml resource="2012"/>
 		<mml resource="2030"/>
 		<mml resource="2032"/>
+		<mml resource="2052"/>
+		<lua resource="2060"/>
 	</level>
 
 	<!-- Slaughterhouse-Three -->

@@ -71,6 +71,9 @@ Commonly called game functions:
 
 02050 – Pfhor skeleton to blue Pfhor foetus
 02051 – Pfhor blood scenery to green Pfhor goo
+02052 – square gray organic object to green Pfhor goo
+
+02060 – Lua script for media fog in levels with exclusively Pfhor goo
 
 Random sound scripts:
 
