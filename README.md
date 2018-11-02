@@ -33,7 +33,7 @@ Other levels are partially adapted from Bungie or Doubleaught levels. I’m not 
     · co-design of “Son of Grendel” for “How to Disappear Completely”,  
     · “Hang Brain” for part of “Kill Your Sons”,  
     · “Acme Station (Michael Bay Remix)” and “Starless and Bible Black”,  
-    · “Charon Doesn’t Make Change” for “Transport Is Arranged”;
+    · “Charon Doesn’t Make Change” for “Transport Is Arranged”;  
 • **Chris Geisel**:  
     · co-design of “Poor Yorick” for part of “Notes on a Criminal Conspiracy”,  
     · co-design of “Son of Grendel” for “How to Disappear Completely”;  
