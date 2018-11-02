@@ -161,6 +161,7 @@ I hope you enjoy this scenario. Comments, suggestions, constructive criticism, p
 
 · **the Pfhorums**, where my username is currently The Man: http://pfhorums.com  
 · **Fool’s Gold**, where my username is currently Howth Castle and Environs, though it changes at my whim: http://fools-gold.org  
+· the Marathon Discord server, where I simply use my real name  
 · or, presumably, here.
 
 Aaron
