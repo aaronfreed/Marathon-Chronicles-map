@@ -1,6 +1,13 @@
 <marathon>
-	<!-- 360° dusk landscapes -->
-	<landscapes>
-		<landscape coll="29" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
-	</landscapes>
+	<!-- change weapon names back to defaults for flashback levels -->
+	<stringset index="137">
+		<string index="0">FISTS</string>		<string index="1">.44 MAGNUM MEGA CLASS</string>
+		<string index="2">ZEUS CLASS FUSION PISTOL</string>
+		<string index="3">MA-75B ASSAULT RIFLE/ GRENADE LAUNCHER</string>
+		<string index="4">SPNKR-X17 SSM LAUNCHER</string>
+		<string index="5">TOZT-7 NAPALM UNIT</string>
+		<string index="6">HUMAN MODIFIED FIGHTER STAFF</string>
+		<string index="7">WSTE-M COMBAT SHOTGUN</string>
+		<string index="8">(somehow related to time of applicability)</string>		<string index="9">UNKNOWN WEAPON CLASS system error 0xfded</string>
+	</stringset>
 </marathon>

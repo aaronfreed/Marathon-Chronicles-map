@@ -1,6 +1,0 @@
-<marathon>
-	<!-- 360° space landscapes -->
-	<landscapes>
-		<landscape coll="30" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
-	</landscapes>
-</marathon>

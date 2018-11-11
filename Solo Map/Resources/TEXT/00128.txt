@@ -19,7 +19,6 @@
 		<music file="Data/Music/02"/>
 		<mml resource="1023"/>
 		<mml resource="1050"/>
-		<mml resource="2030"/>
 	</level>
 
 	<!-- Cut Their Grain and Place Fire Therein -->
@@ -105,7 +104,6 @@
 		<music file="Data/Music/13"/>
 		<mml resource="1023"/>
 		<mml resource="1043"/>
-		<mml resource="2030"/>
 	</level>
 
 	<!-- Men Like Ravenous Fishes -->
@@ -123,8 +121,6 @@
 		<mml resource="2010"/>
 		<mml resource="2011"/>
 		<mml resource="2012"/>
-		<mml resource="2030"/>
-		<mml resource="2032"/>
 		<mml resource="2052"/>
 		<lua resource="2060"/>
 	</level>
@@ -141,7 +137,6 @@
 		<music file="Data/Music/17"/>
 		<mml resource="1062"/>
 		<mml resource="2000"/>
-		<mml resource="2032"/>
 	</level>
 
 	<!-- To Make an Idol of Our Fear and Call It God -->
@@ -189,7 +184,6 @@
 		<music file="Data/Music/24"/>
 		<mml resource="1014"/>
 		<mml resource="1040"/>
-		<mml resource="2031"/>
 	</level>
 
 	<!-- How to Disappear Completely -->
@@ -198,6 +192,8 @@
 		<mml resource="1021"/>
 		<mml resource="1060"/>
 		<mml resource="2021"/>
+		<mml resource="2030"/>
+		<mml resource="2031"/>
 		<mml resource="11014"/>
 	</level>
 
@@ -234,6 +230,8 @@
 		<mml resource="2011"/>
 		<mml resource="2012"/>
 		<mml resource="2021"/>
+		<mml resource="2030"/>
+		<mml resource="2031"/>
 		<lua resource="2060"/>
 	</level>
 
@@ -330,6 +328,8 @@
 		<mml resource="1042"/>
 		<mml resource="2002"/>
 		<mml resource="2021"/>
+		<mml resource="2030"/>
+		<mml resource="2031"/>
 		<mml resource="12014"/>
 	</level>
 
@@ -339,6 +339,8 @@
 		<mml resource="1010"/>
 		<mml resource="1060"/>
 		<mml resource="2021"/>
+		<mml resource="2030"/>
+		<mml resource="2031"/>
 	</level>
 
 	<!-- Ys -->
@@ -348,12 +350,16 @@
 		<mml resource="1060"/>
 		<mml resource="2003"/>
 		<mml resource="2021"/>
+		<mml resource="2030"/>
+		<mml resource="2031"/>
 	</level>
 
 	<!-- Return to Yggdrasill -->
 	<level index="45">
 		<music file="Data/Music/45"/>
 		<mml resource="2020"/>
+		<mml resource="2030"/>
+		<mml resource="2031"/>
 		<mml resource="2040"/>
 		<mml resource="14069"/>
 	</level>
@@ -380,8 +386,9 @@
 		<mml resource="2011"/>
 		<mml resource="2012"/>
 		<mml resource="2021"/>
+		<mml resource="2030"/>
+		<mml resource="2031"/>
 		<mml resource="2050"/>
-		<mml resource="2021"/>
 		<lua resource="2060"/>
 	</level>
 

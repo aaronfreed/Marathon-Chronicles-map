@@ -1,6 +1,94 @@
 <marathon>
-	<!-- 360° nighttime landscapes -->
-	<landscapes>
-		<landscape coll="28" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
-	</landscapes>
+	<!-- change item names back to defaults for flashback levels -->
+	<stringset index="150">
+		<string index="3">.44 CLIP (x8)</string>
+		<string index="4">.44 CLIPS (x8)</string>
+		<string index="5">ZEUS-CLASS FUSION PISTOL</string>
+		<string index="8">MA-75B ASSAULT RIFLE</string>
+		<string index="9">MA-75B CLIP (x52)</string>
+		<string index="10">MA-75B CLIPS (x52)</string>
+		<string index="11">MA-75B GRENADES (x7)</string>
+		<string index="12">MA-75B GRENADES (x7)</string>
+		<string index="13">SPNKR-X17 SSM LAUNCHER</string>
+		<string index="14">SSM MISSILE (x2)</string>
+		<string index="15">SSM MISSILES (x2)</string>
+		<string index="19">TOZT-7 NAPALM UNIT</string>
+		<string index="20">NAPALM CANISTER</string>
+		<string index="21">NAPALM CANISTERS</string>
+	</string>
+
+	<!-- a lot of changes to item behaviour for flashback levels --> 
+	<items>
+		<item index="1">
+			<shape coll="7" seq="39"/>
+		</item>
+
+		<item index="2">
+			<shape coll="7" seq="62"/>
+		</item>
+		
+		<item index="3">
+			<shape coll="7" seq="40"/>
+		</item>
+
+		<item index="4">
+			<shape coll="7" seq="41"/>
+		</item>
+
+		<item index="5" invalid="1">
+			<shape coll="7" seq="42"/>
+		</item>
+
+		<item index="6" invalid="1">
+			<shape coll="7" seq="60"/>
+		</item>
+
+		<item index="7" invalid="1">
+			<shape coll="7" seq="61"/>
+		</item>
+
+		<item index="8" invalid="1">
+			<shape coll="7" seq="58"/>
+		</item>
+
+		<item index="9" invalid="1">
+			<shape coll="7" seq="59"/>
+		</item>
+
+		<item index="15" invalid="1">
+			<shape coll="7" seq="43"/>
+		</item>
+
+		<item index="16" invalid="1">
+			<shape coll="7" seq="44"/>
+		</item>
+
+		<item index="18">
+			<shape coll="7" seq="70"/>
+		</item>
+
+		<item index="19">
+			<shape coll="7" seq="67"/>
+		</item>
+
+		<item index="20">
+			<shape coll="7" seq="68"/>
+		</item>
+
+		<item index="21">
+			<shape coll="7" seq="69"/>
+		</item>
+
+		<item index="23">
+			<shape coll="7" seq="63"/>
+		</item>
+
+		<item index="34">
+			<shape coll="7" seq="45"/>
+		</item>
+
+		<item index="35">
+			<shape coll="7" seq="64"/>
+		</item>
+	</items>
 </marathon>
