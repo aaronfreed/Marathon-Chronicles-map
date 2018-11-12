@@ -104,6 +104,10 @@
 		<music file="Data/Music/13"/>
 		<mml resource="1023"/>
 		<mml resource="1043"/>
+		<mml resource="2010"/>
+		<mml resource="2011"/>
+		<mml resource="2012"/>
+		<lua resource="2060"/>
 	</level>
 
 	<!-- Men Like Ravenous Fishes -->
@@ -111,6 +115,10 @@
 		<music file="Data/Music/14"/>
 		<mml resource="1030"/>
 		<mml resource="1043"/>
+		<mml resource="2010"/>
+		<mml resource="2011"/>
+		<mml resource="2012"/>
+		<lua resource="2060"/>
 	</level>
 
 	<!-- Room a Thousand Years Wide -->
