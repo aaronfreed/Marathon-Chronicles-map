@@ -1,0 +1,10 @@
+<marathon>
+<!-- Make RAIN semitransparent -->
+
+<opengl>
+<!-- RAIN TEX -->
+<texture coll="22" bitmap="19" opac_type="3" opac_scale="0.3" opac_shift="0.5"/>
+<texture coll="22" bitmap="20" opac_type="3" opac_scale="0.3" opac_shift="0.5"/>
+</opengl>
+
+</marathon>
