@@ -97,16 +97,41 @@ end
 Triggers = {}
 
 function Triggers.init(restoring_game)
-    for s in Scenery() do
-        s:delete()
-    end
-end
-
-function Triggers.pattern_buffer()
-   for s in Scenery() do
-	s:delete()
-   end
-   scenery_cleared = true
+	local polygon_list = {}
+	for p in Polygons() do
+		 if p.ceiling.transfer_mode == "landscape" then
+			  table.insert(polygon_list, p)
+			  p.ceiling.collection = "water"
+			  p.ceiling.texture_index = 29
+		 end
+	end
+	Level._triangles = uniform.build_triangle_list(polygon_list)
+	if #polygon_list == 0 then
+		 precipitation_count = 0
+	else
+		 local total_precipitation_area = 0
+		 for _, t in pairs(Level._triangles) do
+			  total_precipitation_area = total_precipitation_area + t.area
+		 end
+		 precipitation_count = total_precipitation_area * 2
+		 if precipitation_count > 700 then
+			  precipitation_count = 700
+		 end
+	end
+	
+	if restoring then
+		 Level._pool = {}
+		 local count = 0
+		 for s in Scenery() do
+			  if s.type == precipitation_type then
+					count = count + 1
+					table.insert(Level._pool, s)
+			  end
+		 end
+		 precipitation_count = count
+	else
+		 build_pool()
+	end
 end
 
 function Triggers.init()
@@ -143,7 +168,13 @@ function Triggers.idle()
 	    		e:position(x, y, p.floor.height, p)
 	 		end
       end
-   end
+		if e.polygon.media then
+			if e.z < e.polygon.media.height then
+				local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
+				e:position(x, y, p.ceiling.height, p)
+			end
+		end
+end
 
    levelfog()
 end
