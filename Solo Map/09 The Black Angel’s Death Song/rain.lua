@@ -167,14 +167,14 @@ function Triggers.idle()
 	    		local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
 	    		e:position(x, y, p.floor.height, p)
 	 		end
-      end
-		if e.polygon.media then
-			if e.z < e.polygon.media.height then
-				local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
-				e:position(x, y, p.ceiling.height, p)
+			if e.polygon.media then
+				if e.z < e.polygon.media.height then
+					local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
+					e:position(x, y, p.ceiling.height, p)
+				end
 			end
 		end
-end
+	end
 
    levelfog()
 end
