@@ -40,23 +40,18 @@ function suffocate()
 end
 
 function build_pool()
-	Level._pool = {}
- 
-	for i=1,1024 do
-		s = Scenery.new(0, 0, 0, 0, "gun")
-		s._fake = true
-	end
- 
-	for i=1,precipitation_count do
-		local x, y, z, p = uniform.xyz_in_triangle_list(Level._triangles)
-		table.insert(Level._pool, Scenery.new(x, y, z, p, precipitation_type))
-	end
- 
-	for s in Scenery() do
-		if s._fake then
-	  		s:delete()
-	   	end
-	end
+    Level._pool = {}
+    
+    local count = 0
+    for i = 1, precipitation_count do
+        local x, y, z, p = uniform.xyz_in_triangle_list(Level._triangles)
+        s = Scenery.new(x, y, z, p, precipitation_type)
+        if s then
+            count = count + 1
+            table.insert(Level._pool, s)
+        end
+    end
+    precipitation_count = count
 end
  
 function levelfog()
@@ -131,8 +126,6 @@ function Triggers.init(restoring_game)
     for p in Polygons() do
         if p.ceiling.transfer_mode == "landscape" then
             table.insert(polygon_list, p)
-            p.ceiling.collection = "water"
-            p.ceiling.texture_index = 29
         end
     end
     Level._triangles = uniform.build_triangle_list(polygon_list)
@@ -162,17 +155,6 @@ function Triggers.init(restoring_game)
     else
         build_pool()
     end
-end
- 
-function Triggers.init()
-	local polygon_list = {}
-	for p in Polygons() do
-	   	if p.ceiling.transfer_mode == "landscape" then
-	  		table.insert(polygon_list, p)
-	   	end
-	end
-	Level._triangles = uniform.build_triangle_list(polygon_list)
-	build_pool()
 end
  
 function Triggers.idle()
