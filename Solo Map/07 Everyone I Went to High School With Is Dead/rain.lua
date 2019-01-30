@@ -91,7 +91,7 @@ end
 
 Triggers = {}
 
-function Triggers.init(restoring_game)
+function Triggers.init(restoring)
 	local polygon_list = {}
 	for p in Polygons() do
 		if p.ceiling.transfer_mode == "landscape" then
