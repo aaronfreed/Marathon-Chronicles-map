@@ -1,0 +1,7 @@
+<marathon>
+	<!-- puts in Rubicon Pfhor ship sounds -->
+	<sounds>
+		<ambient index="25" sound="244"/>
+		<ambient index="26" sound="243"/>
+	</sounds>
+</marathon>

@@ -1,0 +1,6 @@
+<marathon>
+	<!-- changes "sewage" sound effect to "rain" (#219) -->
+	<sounds>
+		<ambient index="1" sound="219"/>
+	</sounds>
+</marathon>

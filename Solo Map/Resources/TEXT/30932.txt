@@ -1,0 +1,6 @@
+<marathon>
+	<!-- “Fire/S’pht Door” ambient sound slot to “Ascension Theme” (#232) -->
+	<sounds>
+		<ambient index="9" sound="232"/>
+	</sounds>
+</marathon>

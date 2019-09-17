@@ -75,6 +75,9 @@ Commonly called game functions:
 
 02060 – Lua script for media fog in levels with exclusively Pfhor goo
 
+02070 – Earth platform sounds
+02071 – Pfh’Joueur machinery sounds
+
 Random sound scripts:
 
 1 + position of random sound in second digit:
@@ -92,14 +95,352 @@ Random sound scripts:
 069 = house settling
 070 = tolling bell
 175 = Earth birds
+220 = horse
+221 = owl
+222 = crow
+238 = chimes
 
 resources in existence:
 
 11014
 11066
+11222
 12066
 13066
 13070
 13175
+13221
 14069
+
+Ambient sound scripts:
+
+3 + (second & third digits = ambient sound slot) + last two:
+
+00	Water
+01	Sewage
+02	Lava
+03	Goo
+04	Under Liquids
+05	Wind
+06	Waterfall
+07	Siren
+08	Fan
+09	S’pht Door
+10	S’pht Platform
+11	Heavy S’pht Door
+12	Heavy S’pht Platform
+13	Light Machinery
+14	Heavy Machinery
+15	Transformer
+16	Sparking Transformer
+17	Machine Binder
+18	Machine Bookpress
+19	Machine Puncher
+20	Electric
+21	Alarm
+22	Night Wind
+23	Pfhor Door
+24	Pfhor Platform
+25	Alien Noise 1 (Pfhor Ship #1)
+26	Alien Noise 2 (Pfhor Ship #2)
+27	Alien Harmonics (Jjaro Ship)
+
+00	(090) Water
+01	(091) Sewage
+02	(092) Lava
+03	(093) Goo
+04	(094) Under Media
+05	(095) Wind
+06	(096) Waterfall
+07	(097) Siren
+08	(098) Fan
+09	(099) Fire (S’pht Door slot)
+10	(100) S’pht Platform
+11	(101) Jjaro Ship
+12	(102) Rubicon Pfhor Platform (Heavy S’pht Platform slot)
+13	(103) Light Machinery
+14	(104) Heavy Machinery
+15	(105) Transformer
+16	(106) Crickets (Sparking Transformer slot)
+17	(144) Heavy S’pht Door
+18	(169) Dream Ambience
+19	(170) Machine Bookpress
+20	(171) Chant Drone
+21	(172) Electric Hum
+22	(173) Wind & Thunder
+23	(174) Night Wind
+24	(189) Pfhor Platform
+25	(193) Pfhor Door	
+26	(201) Pfhor Ship 1
+27	(202) Pfhor Ship 2
+28	(219) Rain
+29	(225) Earth Platform
+30	(228) Heavy Earth Door
+31	(231) Heavy Earth Platform
+32	(232) Ascension Theme
+33	(233) Pfh’Joueur Theme
+34	(238) Pfh’Joueur Chimes
+35	(239) Pfh’Joueur Wind & Mysterious Music
+36	(240) Pfh’Joueur Fan
+37	(241) Pfh’Joueur Heavy Machinery
+38	(242) Pfh’Joueur Light Machinery
+39	(243) Rubicon High-Pitched Pfhor Ship
+40	(244) Rubicon Low-Pitched Pfhor Ship
+41	(245) Rubicon Alien Harmonics
+42	(246) Sparking Transformer
+43	(247) Machine Bookpress
+44	(248) Machine Puncher
+
+complete list of sounds:
+
+000	Startup
+001	Teleport In
+002	Teleport Out
+003	Crunch
+004	Creak
+005	Absorbed
+006	Unused 1	Breathing
+007	Oxygen Warning
+008	Suffocation
+009	Energy Refuel
+010	Oxygen Refuel
+011	Can’t Toggle Switch
+012	Switch On
+013	Switch Off
+014	Puzzle Switch	Surface Explosion / Thunder
+015	Chip Insertion
+016	Pattern Buffer
+017	Destroy Wires
+018	Adjust Volume
+019	Got Powerup
+020	Got Item
+021	Bullet Ricochet
+022	Metallic Clank
+023	Empty Gun
+024	S’pht Door Opening
+025	S’pht Door Closing
+026	S’pht Door Obstructed
+027	S’pht Platform Starting
+028	S’pht Platform Stopping
+029	Loon
+030	SMG Firing
+031	SMG Reloading
+032	Heavy S’pht Platform Starting	Rubicon Pfhor Platform Starting
+033	Heavy S’pht Platform Stopping	Rubicon Pfhor Platform Stopping
+034	Fist Hitting
+035	Magnum Firing
+036	Rubicon Magnum Reloadin
+037	MA-75B Firing
+038	Grenade Launcher Firing
+039	Grenade Exploding
+040	Grenade Flyby
+041	Fusion Firing
+042	Fusion Exploding
+043	Fusion Flyby
+044	Fusion Charging
+045	Rocket Exploding
+046	Rocket Flyby
+047	Rocket Firing
+048	Flamethrower
+049	Body Falling
+050	Body Exploding
+051	Bullet Hitting Flesh
+052	Fighter Activate
+053	Fighter Wail
+054	Fighter Scream
+055	Fighter Chatter
+056	Fighter Attack
+057	Fighter Projectile Hit
+058	Fighter Projectile Flyby
+059	S’pht Attack
+060	S’pht Death
+061	S’pht Hit
+062	S’pht Projectile Flyby
+063	S’pht Projectile Hit
+064	Cyborg Moving
+065	Cyborg Attack
+066	Cyborg Hit	Chant
+067	Cyborg Death
+068	Cyborg Projectile Bounce
+069	Cyborg Projectile Hit	House Settling
+070	Unused 2	Bell Tolling
+071	Drone Activate
+072	Drone Start Attack
+073	Drone Attack
+074	Drone Dying
+075	Drone Death
+076	Drone Projectile Hit
+077	Drone Projectile Flyby
+078	Human Wail
+079	Human Scream
+080	Human Hit
+081	Human Chatter
+082	Assimilated Human Chatter
+083	Human Trash Talk
+084	Human Apology
+085	Human Activation
+086	Human Clear
+087	Human Stop Shooting Me
+088	Human Area Secure
+089	Kill the Player!
+090	Water
+091	Sewage
+092	Lava
+093	Goo
+094	Under Media
+095	Wind
+096	Waterfall
+097	Siren
+098	Fan
+099	S’pht Door	Fire
+100	S’pht Platform
+101	Alien Harmonics / Jjaro Ship
+102	Heavy S’pht Platform	Rubicon Pfhor Platform
+103	Light Machinery
+104	Heavy Machinery
+105	Transformer
+106	Sparking Transformer	Crickets
+107	Water Drip
+108	Walking in Water
+109	Exit Water
+110	Enter Water
+111	Small Water Splash
+112	Medium Water Splash	Disinteforcer Firing
+113	Large Water Splash
+114	Walking in Lava	Devlin Growl
+115	Exit Lava
+116	Enter Lava
+117	Small Lava Splash
+118	Medium Lava Splash	Maser Impact
+119	Large Lava Splash
+120	Walking in Sewage	Wasp Chatter
+121	Exit Sewage	Hulk Attack
+122	Enter Sewage	Hulk Death
+123	Small Sewage Splash	Looker Chatter
+124	Medium Sewage Splash	Maser Firing
+125	Large Sewage Splash	Disinteforcer Zap
+126	Walking in Goo	Earth Door Closing
+127	Exit Goo	Earth Door Opening
+128	Enter Goo	Earth Door Obstructed / Heavy Earth Door Obstructed
+129	Small Goo Splash	Wasp Attack
+130	Medium Goo Splash	Wasp Glob Impact
+131	Large Goo Splash	Looker Exploding
+132	Major Fusion Firing
+133	Major Fusion Charged
+134	MA-75B Reloading
+135	Assault Rifle Shell Casings
+136	Shotgun Firing
+137	Shotgun Reloading
+138	Ball Bounce	Duck Bounce
+139	You Are It
+140	Got the Ball	Got the Duck
+141	Computer Login
+142	Computer Logout
+143	Computer Page
+144	Heavy S’pht Door
+145	Heavy S’pht Door Opening
+146	Heavy S’pht Door Closing
+147	Heavy S’pht Door Open
+148	Heavy S’pht Door Closed
+149	Heavy S’pht Door Obstructed
+150	Hunter Activate
+151	Hunter Attack
+152	Hunter Dying	Bullet Flyby
+153	Hunter Landing
+154	Hunter Exploding
+155	Hunter Projectile Hit
+156	Hunter Projectile Flyby
+157	Enforcer Activate
+158	Enforcer Attack
+159	Enforcer Projectile Hit
+160	Enforcer Projectile Flyby
+161	F’lickta Melee Attack
+162	F’lickta Melee Attack Hit
+163	F’lickta Projectile Attack
+164	F’lickta Sewage Attack Hit
+165	F’lickta Sewage Flyby	now MOW-MDN Reloading
+166	F’lickta Lava Attack Hit
+167	F’lickta Lava Flyby
+168	F’lickta Dying
+169	Machine Binder	Dream Ambience
+170	Machine Bookpress
+171	Machine Puncher	Chant Drone
+172	Electric Hum
+173	Alarm	Wind & Thunder
+174	Night Wind
+175	Surface Explosion / Thunder	Daytime Birds
+176	Underground Explosion
+177	S’pht’Kr Attack
+178	S’pht’Kr Hit
+179	S’pht’Kr Flyby
+180	S’pht’Kr Being Hit
+181	S’pht’Kr Exploding
+182	Tick Chatter
+183	Tick Falling	MOW-MDN Empty
+184	Tick Flapping
+185	Tick Exploding	MOW-MDN Firing
+186	Lamp Exploding
+187	Pfhor Platform Start
+188	Pfhor Platform Stop
+189	Pfhor Platform
+190	Pfhor Door Opening
+191	Pfhor Door Closing
+192	Pfhor Door Obstructed
+193	Pfhor Door
+194	Pfhor Switch Off
+195	Pfhor Switch On
+196	Juggernaut Firing
+197	Juggernaut Warning
+198	Juggernaut Exploding
+199	Juggernaut Preparing to Fire
+200	Enforcer Exploding
+201	Alien Noise 1 / Pfhor Ship 1
+202	Alien Noise 2 / Pfhor Ship 2
+203	VacBob Wail
+204	VacBob Scream
+205	VacBob Hit
+206	VacBob Chatter
+207	Assimilated VacBob Chatter
+208	VacBob Trash Talk
+209	VacBob Apology
+210	VacBob Activation
+211	VacBob Clear
+212	VacBob Stop Shooting Me
+213	VacBob Area Secure
+214	VacBob Kill the Plater
+215		Glass Breaking
+216		Can’t Toggle Earth Switch
+217		Earth Switch On
+218		Earth Switch Off
+219		Rain
+220		Horse
+221		Owl
+222		Crow
+223		Earth Platform Start / Heavy Earth Platform Start
+224		Earth Platform Stop / Heavy Earth Platform Stop
+225		Earth Platform
+226		(duplicate sound; change to Earth Wires Destroyed)
+227		Heavy Earth Door Opening
+228		Heavy Earth Door Closing / Heavy Earth Door
+229		Heavy Earth Door Open
+230		Heavy Earth Door Closed
+231		Heavy Earth Platform
+232		(duplicate sound; change to Ascension Theme)
+233		(duplicate sound; change to Pfh’Joueur Theme)
+234		Exit Sewage
+235		Enter Sewage
+236		Small Sewage Splash
+237		Large Sewage Splash
+238		Chimes
+239		Wind & Mysterious Music
+240		Pfh’Joueur Fan
+241		Pfh’Joueur Heavy Machinery
+242		Pfh’Joueur Light Machinery
+243		Rubicon Pfhor Ship 1 (higher pitched)
+244		Rubicon Pfhor Ship 2 (lower pitched)
+245		Rubicon Alien Harmonics
+246		Sparking Transformer
+247		Machine Bookpress
+248		Machine Puncher
+
 -->

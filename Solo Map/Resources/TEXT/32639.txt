@@ -1,0 +1,6 @@
+<marathon>
+	<!-- changes "Pfhor Ship #2" sound effect to "Rubicon Pfhor Ship #1" (#243) -->
+	<sounds>
+		<ambient index="26" sound="243"/>
+	</sounds>
+</marathon>

@@ -1,0 +1,6 @@
+<marathon>
+	<!-- changes "Light Machinery" sound effect to "Pfh’Joueur Light Machinery" (#242) -->
+	<sounds>
+		<ambient index="13" sound="242"/>
+	</sounds>
+</marathon>

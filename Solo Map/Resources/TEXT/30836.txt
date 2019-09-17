@@ -1,0 +1,6 @@
+<marathon>
+	<!-- changes "Fan" sound effect to "Pfh’Joueur Fan" (#240) -->
+	<sounds>
+		<ambient index="8" sound="240"/>
+	</sounds>
+</marathon>

@@ -1,0 +1,6 @@
+<marathon>
+	<!-- “Siren #1” ambient sound slot to “Pfh’Joueur Wind & Mysterious Music” (#239) -->
+	<sounds>
+		<ambient index="7" sound="239"/>
+	</sounds>
+</marathon>

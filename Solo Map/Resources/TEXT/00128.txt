@@ -5,6 +5,8 @@
 		<music file="Data/Music/00"/>
 		<mml resource="2000"/>
 		<mml resource="2001"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Take the Veil Cerpin Taxt -->
@@ -12,6 +14,8 @@
 		<music file="Data/Music/01"/>
 		<mml resource="1011"/>
 		<mml resource="1050"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Pleiades’ Dust -->
@@ -19,6 +23,8 @@
 		<music file="Data/Music/02"/>
 		<mml resource="1023"/>
 		<mml resource="1050"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Cut Their Grain and Place Fire Therein -->
@@ -47,14 +53,20 @@
 	<level index="6">
 		<music file="Data/Music/06"/>
 		<mml resource="2020"/>
+		<mml resource="2070"/>
 		<mml resource="13066"/>
+		<mml resource="30932"/>
 	</level>
 
 	<!-- Everyone I Went to High School With Is Dead -->
 	<level index="7">
 		<music file="Data/Music/07"/>
 		<mml resource="1012"/>
+		<mml resource="2070"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 		<mml resource="11014"/>
+		<mml resource="30128"/>
 	</level>
 
 	<!-- Here Comes the Flood -->
@@ -62,8 +74,10 @@
 		<music file="Data/Music/08"/>
 		<mml resource="1021"/>
 		<mml resource="1062"/>
+		<mml resource="2070"/>
+		<mml resource="2072"/>
 		<mml resource="11066"/>
-		<mml resource="13175"/>
+		<mml resource="13221"/>
 		<mml resource="14069"/>
 	</level>
 
@@ -72,6 +86,8 @@
 		<music file="Data/Music/09"/>
 		<mml resource="1012"/>
 		<mml resource="1062"/>
+		<mml resource="2070"/>
+		<mml resource="11222"/>
 	</level>
 
 	<!-- Miranda, That Ghost Just Isn’t Holy Anymore -->
@@ -79,6 +95,7 @@
 		<music file="Data/Music/10"/>
 		<mml resource="1021"/>
 		<mml resource="1060"/>
+		<mml resource="2070"/>
 		<mml resource="12066"/>
 		<mml resource="13070"/>
 		<mml resource="14069"/>
@@ -97,6 +114,9 @@
 		<music file="Data/Music/12"/>
 		<mml resource="1031"/>
 		<mml resource="2000"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
+		<mml resource="30932"/>
 	</level>
 
 	<!-- The Paradox of Tolerance -->
@@ -108,6 +128,8 @@
 		<mml resource="2011"/>
 		<mml resource="2012"/>
 		<lua resource="2060"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Men Like Ravenous Fishes -->
@@ -119,6 +141,8 @@
 		<mml resource="2011"/>
 		<mml resource="2012"/>
 		<lua resource="2060"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Room a Thousand Years Wide -->
@@ -131,6 +155,8 @@
 		<mml resource="2012"/>
 		<mml resource="2052"/>
 		<lua resource="2060"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Slaughterhouse-Three -->
@@ -145,17 +171,24 @@
 		<music file="Data/Music/17"/>
 		<mml resource="1062"/>
 		<mml resource="2000"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
+		<mml resource="30932"/>
 	</level>
 
 	<!-- To Make an Idol of Our Fear and Call It God -->
 	<level index="18">
 		<music file="Data/Music/18"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Neon Valley Street -->
 	<level index="19">
 		<music file="Data/Music/19"/>
 		<mml resource="1041"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Delusions of Adequacy… -->
@@ -163,6 +196,8 @@
 		<music file="Data/Music/20"/>
 		<mml resource="1011"/>
 		<mml resource="1051"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- With Strength I Burn -->
@@ -170,6 +205,8 @@
 		<music file="Data/Music/21"/>
 		<mml resource="1021"/>
 		<mml resource="1061"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Slaughterhouse-Four -->
@@ -185,6 +222,7 @@
 		<music file="Data/Music/23"/>
 		<mml resource="1022"/>
 		<mml resource="1051"/>
+		<mml resource="30932"/>
 	</level>
 
 	<!-- Notes on a Criminal Conspiracy -->
@@ -192,6 +230,8 @@
 		<music file="Data/Music/24"/>
 		<mml resource="1014"/>
 		<mml resource="1040"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- How to Disappear Completely -->
@@ -227,6 +267,7 @@
 		<mml resource="2000"/>
 		<mml resource="2001"/>
 		<mml resource="2020"/>
+		<mml resource="30932"/>
 	</level>
 
 	<!-- Kill Your Sons -->
@@ -254,6 +295,8 @@
 	<level index="31">
 		<music file="Data/Music/31"/>
 		<mml resource="1061"/>
+		<mml resource="2071"/>
+		<mml resource="2072"/>
 	</level>
 
 	<!-- Acme Station (Michael Bay remix) -->
@@ -369,7 +412,10 @@
 		<mml resource="2030"/>
 		<mml resource="2031"/>
 		<mml resource="2040"/>
+		<mml resource="2070"/>
 		<mml resource="14069"/>
+		<mml resource="30735"/>
+		<mml resource="30932"/>
 	</level>
 
 	<!-- Cel din urmă vis -->
@@ -377,6 +423,7 @@
 		<music file="Data/Music/46"/>
 		<mml resource="2020"/>
 		<mml resource="2040"/>
+		<mml resource="30932"/>
 	</level>
 
 	<!-- Letter to the Night -->

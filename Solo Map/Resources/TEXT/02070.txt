@@ -1,0 +1,51 @@
+<marathon>
+	<!-- Earth platform sounds -->
+	<platforms>
+		<!-- Disable ambient sound for S’pht Door & S’pht Door Split types -->
+		<platform index="0"
+			moving="-1"
+		/>
+	
+		<platform index="1"
+			moving="-1"
+		/>
+	
+		<!-- Turn S’pht Door Locked into Earth Door -->
+		<platform index="2"
+			start_extend="126"
+			start_contract="127"
+			obstructed="128"
+			uncontrollable="128"
+			moving="-1"
+		/>
+
+		<platform index="4"
+			start_extend="223"
+			start_contract="223"
+			stop_extend="224"
+			stop_contract="224"
+		/>
+
+		<platform index="5"
+			start_extend="227"
+			start_contract="228"
+			stop_extend="229"
+			stop_contract="230"
+			obstructed="128"
+			uncontrollable="128"
+		/>
+
+		<platform index="7"
+			start_extend="223"
+			start_contract="223"
+			stop_extend="224"
+			stop_contract="224"
+		/>
+	</platforms>
+
+	<sounds>
+		<ambient index="10" sound="225"/>
+		<ambient index="11" sound="228"/>
+		<ambient index="12" sound="231"/>
+	</sounds>
+</marathon>

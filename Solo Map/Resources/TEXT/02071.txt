@@ -1,0 +1,8 @@
+<marathon>
+	<!-- puts in Pfh’Joueur ambient sounds -->
+	<sounds>
+		<ambient index="8" sound="240"/>
+		<ambient index="13" sound="242"/>
+		<ambient index="14" sound="241"/>
+	</sounds>
+</marathon>
