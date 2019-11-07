@@ -33,6 +33,7 @@
 		<mml resource="1021"/>
 		<mml resource="1062"/>
 		<mml resource="2021"/>
+		<mml resource="32145"/>
 	</level>
 
 	<!-- Revisions of the Past -->
@@ -61,12 +62,13 @@
 	<!-- Everyone I Went to High School With Is Dead -->
 	<level index="7">
 		<music file="Data/Music/07"/>
-		<mml resource="1012"/>
+		<mml resource="1015"/>
 		<mml resource="2070"/>
 		<mml resource="2071"/>
 		<mml resource="2072"/>
 		<mml resource="11014"/>
 		<mml resource="30128"/>
+		<mml resource="32145"/>
 	</level>
 
 	<!-- Here Comes the Flood -->
@@ -77,6 +79,7 @@
 		<mml resource="2070"/>
 		<mml resource="2072"/>
 		<mml resource="11066"/>
+		<mml resource="12222"/>
 		<mml resource="13221"/>
 		<mml resource="14069"/>
 	</level>
@@ -88,6 +91,7 @@
 		<mml resource="1062"/>
 		<mml resource="2070"/>
 		<mml resource="11222"/>
+		<mml resource="32145"/>
 	</level>
 
 	<!-- Miranda, That Ghost Just Isn’t Holy Anymore -->
@@ -243,6 +247,7 @@
 		<mml resource="2030"/>
 		<mml resource="2031"/>
 		<mml resource="11014"/>
+		<mml resource="32228"/>
 	</level>
 
 	<!-- Another One in the Dark -->

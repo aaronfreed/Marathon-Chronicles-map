@@ -1,0 +1,4 @@
+<marathon>	<!-- Turn underground explosions random sound into crow -->
+	<sounds>
+		<random index="2" sound="222"/>
+	</sounds></marathon>

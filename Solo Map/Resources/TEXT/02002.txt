@@ -1,29 +1,24 @@
 <marathon>
 	<!-- Marathon 2 switch panels in sewage collection -->
 	<opengl>
-		<texture coll="20" bitmap="0" 
-			normal_image="Data/20 Sewage/000m2.dds" 
-			type="0"
+		<texture coll="20" bitmap="0" type="0" 
+			normal_image="Data/20 Sewage/000m2.png" 
 		/>
 
-		<texture coll="20" bitmap="1" 
-			normal_image="Data/20 Sewage/001m2.dds" 
-			type="0"
+		<texture coll="20" bitmap="1" type="0" 
+			normal_image="Data/20 Sewage/001m2.png" 
 		/>
 
-		<texture coll="20" bitmap="2" 
-			normal_image="Data/20 Sewage/002m2.dds" 
-			type="0"
+		<texture coll="20" bitmap="2" type="0" 
+			normal_image="Data/20 Sewage/002m2.png" 
 		/>
 
-		<texture coll="20" bitmap="3" 
-			normal_image="Data/20 Sewage/003m2.dds" 
-			type="0"
+		<texture coll="20" bitmap="3" type="0" 
+			normal_image="Data/20 Sewage/003m2.png" 
 		/>
 
-		<texture coll="20" bitmap="4" 
-			normal_image="Data/20 Sewage/004m2.dds" 
-			type="0"
+		<texture coll="20" bitmap="4" type="0" 
+			normal_image="Data/20 Sewage/004m2.png" 
 		/>
 	</opengl>
 </marathon>

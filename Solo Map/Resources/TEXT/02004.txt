@@ -1,0 +1,24 @@
+<marathon>
+	<!-- Marathon 2 switch panels in lava collection -->
+	<opengl>
+		<texture coll="18" bitmap="0" type="0"
+			normal_image="Data/18 Lava/000m2.png" 
+		/>
+
+		<texture coll="18" bitmap="1" type="0"
+			normal_image="Data/18 Lava/001m2.png" 
+		/>
+
+		<texture coll="18" bitmap="2" type="0"
+			normal_image="Data/18 Lava/002m2.png" 
+		/>
+
+		<texture coll="18" bitmap="3" type="0"
+			normal_image="Data/18 Lava/003m2.png" 
+		/>
+
+		<texture coll="18" bitmap="4" type="0"
+			normal_image="Data/18 Lava/004m2.png" 
+		/>
+	</opengl>
+</marathon>

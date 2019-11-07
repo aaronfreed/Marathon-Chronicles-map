@@ -1,0 +1,6 @@
+<marathon>
+	<!-- “Night Wind” ambient sound slot to “Rain & Night Wind” (#219) -->
+	<sounds>
+		<ambient index="22" sound="219"/>
+	</sounds>
+</marathon>

@@ -1,0 +1,6 @@
+<marathon>
+	<!-- “Wind & Thunder” ambient sound slot (formerly “Alarm / Siren #2”) to “Rain, Wind, & Thunder” (#220) -->
+	<sounds>
+		<ambient index="21" sound="220"/>
+	</sounds>
+</marathon>

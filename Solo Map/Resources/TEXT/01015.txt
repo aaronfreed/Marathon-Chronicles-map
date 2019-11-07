@@ -1,0 +1,7 @@
+<marathon>
+	<!-- Fog for stormy weather (hide landscapes) -->
+	<opengl>
+		<fog on="true" type="0" depth="42" landscapes="true">			<color red=".2" green=".2" blue=".2"/>
+		</fog>
+	</opengl>
+</marathon>

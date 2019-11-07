@@ -1,38 +1,39 @@
 <marathon>
 	<!-- Jjaro switch panels -->
 	<opengl>
-		<texture coll="20" bitmap="0" 
-			normal_image="Data/20 Sewage/000j.dds" 
-			glow_image="Data/20 Sewage/000jgm.dds" 
+		<texture coll="20" bitmap="0" type="0" 
+			normal_image="Data/20 Sewage/000j.png" 
+			glow_image="Data/20 Sewage/000jgm.png" 
 			glow_bloom_scale="0.2" 
 			minimum_glow_intensity="0"
-			type="0"
 		/>
 
-		<texture coll="20" bitmap="1" 
-			normal_image="Data/20 Sewage/001j.dds" 
-			type="0"
-		/>
-
-		<texture coll="20" bitmap="2" 
-			normal_image="Data/20 Sewage/002j.dds" 
-			glow_image="Data/20 Sewage/002jgm.dds" 
+		<texture coll="20" bitmap="1" type="0" 
+			normal_image="Data/20 Sewage/001j.png" 
+			glow_image="Data/20 Sewage/001jgm.png" 
 			glow_bloom_scale="0.2" 
 			minimum_glow_intensity="0"
-			type="0"
 		/>
 
-		<texture coll="20" bitmap="3" 
-			normal_image="Data/20 Sewage/003j.dds" 
-			type="0"
-		/>
-
-		<texture coll="20" bitmap="4" 
-			normal_image="Data/20 Sewage/039.dds" 
-			glow_image="Data/20 Sewage/039gm.dds" 
+		<texture coll="20" bitmap="2" type="0" 
+			normal_image="Data/20 Sewage/002j.png" 
+			glow_image="Data/20 Sewage/002jgm.png" 
 			glow_bloom_scale="0.2" 
 			minimum_glow_intensity="0"
-			type="0"
+		/>
+
+		<texture coll="20" bitmap="3" type="0" 
+			normal_image="Data/20 Sewage/003j.png" 
+			glow_image="Data/20 Sewage/003jgm.png" 
+			glow_bloom_scale="0.2" 
+			minimum_glow_intensity="0"
+		/>
+
+		<texture coll="20" bitmap="4" type="0" 
+			normal_image="Data/20 Sewage/039.png" 
+			glow_image="Data/20 Sewage/039gm.png" 
+			glow_bloom_scale="0.2" 
+			minimum_glow_intensity="0"
 		/>
 	</opengl>
 </marathon>

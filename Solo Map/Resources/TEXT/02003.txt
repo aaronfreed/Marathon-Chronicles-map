@@ -1,39 +1,47 @@
 <marathon>
 	<!-- Marathon 2 switch panels in water collection (including lava rechargers) -->
 	<opengl>
-		<texture coll="17" bitmap="0" 
-			normal_image="Data/17 Water/000m2.dds" 
-			type="0"
+		<texture coll="17" bitmap="0" type="0" 
+			normal_image="Data/17 Water/000m2.png" 
+			glow_image="Data/17 Water/000m2gm.png" 
+			glow_bloom_scale="0.2"
+			minimum_glow_intensity="0"
 		/>
 
-		<texture coll="17" bitmap="1" 
-			normal_image="Data/17 Water/001m2.dds" 
-			type="0"
+		<texture coll="17" bitmap="1" type="0" 
+			normal_image="Data/17 Water/001m2.png" 
+			glow_image="Data/17 Water/001m2gm.png" 
+			glow_bloom_scale="0.2"
+			minimum_glow_intensity="0"
 		/>
 
-		<texture coll="17" bitmap="2" 
-			normal_image="Data/17 Water/002m2.dds" 
-			type="0"
+		<texture coll="17" bitmap="2" type="0" 
+			normal_image="Data/17 Water/002m2.png" 
+			glow_image="Data/17 Water/002m2gm.png" 
+			glow_bloom_scale="0.2"
+			minimum_glow_intensity="0"
 		/>
 
-		<texture coll="17" bitmap="3" 
-			normal_image="Data/17 Water/003m2.dds" 
-			type="0"
+		<texture coll="17" bitmap="3" type="0" 
+			normal_image="Data/17 Water/003m2.png" 
 		/>
 
-		<texture coll="17" bitmap="4" 
-			normal_image="Data/17 Water/004m2.dds" 
-			type="0"
+		<texture coll="17" bitmap="4" type="0" 
+			normal_image="Data/17 Water/004m2.png" 
+			glow_image="Data/17 Water/004m2gm.png" 
+			glow_bloom_scale="0.2"
+			minimum_glow_intensity="0"
 		/>
 
-		<texture coll="18" bitmap="2" 
-			normal_image="Data/17 Water/002m2.dds" 
-			type="0"
+		<texture coll="18" bitmap="2" type="0" 
+			normal_image="Data/17 Water/002m2.png" 
+			glow_image="Data/17 Water/002m2gm.png" 
+			glow_bloom_scale="0.2"
+			minimum_glow_intensity="0"
 		/>
 
-		<texture coll="18" bitmap="3" 
-			normal_image="Data/17 Water/003m2.dds" 
-			type="0"
+		<texture coll="18" bitmap="3" type="0" 
+			normal_image="Data/17 Water/003m2.png" 
 		/>
 	</opengl>
 </marathon>

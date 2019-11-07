@@ -12,6 +12,7 @@ Above-media fog resources:
 01012 – stormy earth
 01013 – dusk lh’owon tower
 01014 – jjaro mist/pfhor prime city
+01015 – storm earth w/ hidden landscapes
 
 01020 – nighttime m2 lh’owon
 01021 – nighttime blue
@@ -63,9 +64,8 @@ Commonly called game functions:
 02020 – miner’s light off
 02021 – miner’s light 21%
 
-02030 – 360° night landscapes
-02031 – 360° dusk landscapes
-02032 – 360° space landscapes
+02030 – flashback item sprites, inventory names, vacuum-disabled weapons
+02031 – flashback active weapon names
 
 02040 – Pfhor must be exterminated
 
@@ -173,7 +173,8 @@ Ambient sound scripts:
 25	(193) Pfhor Door	
 26	(201) Pfhor Ship 1
 27	(202) Pfhor Ship 2
-28	(219) Rain
+28	(219) Rain & Night Wind
+45	(220) Rain, Wind, & Thunder
 29	(225) Earth Platform
 30	(228) Heavy Earth Door
 31	(231) Heavy Earth Platform
@@ -229,7 +230,7 @@ complete list of sounds:
 033	Heavy S’pht Platform Stopping	Rubicon Pfhor Platform Stopping
 034	Fist Hitting
 035	Magnum Firing
-036	Rubicon Magnum Reloadin
+036	Rubicon Magnum Reloading
 037	MA-75B Firing
 038	Grenade Launcher Firing
 039	Grenade Exploding
@@ -318,7 +319,7 @@ complete list of sounds:
 122	Enter Sewage	Hulk Death
 123	Small Sewage Splash	Looker Chatter
 124	Medium Sewage Splash	Maser Firing
-125	Large Sewage Splash	Disinteforcer Zap
+125	Large Sewage Splash	Rubicon Static / Disinteforcer Zap
 126	Walking in Goo	Earth Door Closing
 127	Exit Goo	Earth Door Opening
 128	Enter Goo	Earth Door Obstructed / Heavy Earth Door Obstructed
@@ -358,7 +359,7 @@ complete list of sounds:
 162	F’lickta Melee Attack Hit
 163	F’lickta Projectile Attack
 164	F’lickta Sewage Attack Hit
-165	F’lickta Sewage Flyby	now MOW-MDN Reloading
+165	F’lickta Sewage Flyby	MOW-MDN Reloading
 166	F’lickta Lava Attack Hit
 167	F’lickta Lava Flyby
 168	F’lickta Dying
@@ -412,21 +413,21 @@ complete list of sounds:
 216		Can’t Toggle Earth Switch
 217		Earth Switch On
 218		Earth Switch Off
-219		Rain
-220		Horse
+219		Rain & Night Wind
+220		Rain, Wind, & Thunder
 221		Owl
 222		Crow
 223		Earth Platform Start / Heavy Earth Platform Start
 224		Earth Platform Stop / Heavy Earth Platform Stop
 225		Earth Platform
-226		(duplicate sound; change to Earth Wires Destroyed)
+226		Earth Wires Destroyed
 227		Heavy Earth Door Opening
 228		Heavy Earth Door Closing / Heavy Earth Door
 229		Heavy Earth Door Open
 230		Heavy Earth Door Closed
 231		Heavy Earth Platform
-232		(duplicate sound; change to Ascension Theme)
-233		(duplicate sound; change to Pfh’Joueur Theme)
+232		Ascension Theme
+233		Pfh’Joueur Theme
 234		Exit Sewage
 235		Enter Sewage
 236		Small Sewage Splash
@@ -442,5 +443,42 @@ complete list of sounds:
 246		Sparking Transformer
 247		Machine Bookpress
 248		Machine Puncher
+
+scenery:
+
+Lava:
+Bone = Red flame
+Bones = Combination of Bones and Bone from original game 
+Block #1 = Combination of Block #1, Block #2, and Block #3 from original game
+Block #2 = Burning torch
+Block #3 = Psychedelic chair
+
+Earth (Sewage in Weland): 
+Stubby green light = Lamp 
+Long green light = Bottle
+Junk = Corn
+Big antenna #1 = Table candle
+Big antenna #2 = Small tree
+Alien supply can = Big candle
+Bones = Fire
+Big bones = Water fountain
+Pfhor pieces = Big tree
+Bob pieces = Plant in urn
+Bob blood = Tree stump
+
+Sewage (Jjaro in Weland):
+Short ceiling light = Stubby green light
+Long light = Long green light
+Weird rod = Junk
+Pfhor ship = Big antenna #1
+Sun = Big antenna #2
+Large glass container = Alien supply can
+Nub #1 = Bones
+Nub #2 = Big bones
+Lh’owon = Pfhor pieces
+Floor whip antenna = Bob pieces
+Ceiling whip antenna = Bob blood
+
+Note that numerous levels within the scenario and net maps make changes to these assignments with MML. In particular, several levels restore the original Jjaro scenery objects, and several levels also alter scenery objects for the purposes of precipitation (usually the "alien bones" slot from the Pfhor scenery, since none of the Pfhor levels use precipitation), but there are other changes beyond those.
 
 -->
