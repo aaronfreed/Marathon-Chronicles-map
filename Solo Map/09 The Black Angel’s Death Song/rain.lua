@@ -141,30 +141,12 @@ function Triggers.idle()
 	    		local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
 	    		e:position(x, y, p.floor.height, p)
 	 		end
-    	end
-	end
- 
-	if scenery_cleared == true then
-		build_pool()
-		scenery_cleared = false
-	end
-	local pool = Level._pool
-	local position = pool[1].position
-	local phase = precipitation_phase
-	local gravity = phase * precipitation_gravity
-	local wind = phase * precipitation_wind
-	local phase_match = Game.ticks % phase
-	for i = 1,precipitation_count do
-    	if i % phase == phase_match then
-	 		local e = pool[i]
-	 		position(e, e.x - wind, e.y - wind, e.z - gravity, e.polygon)
-	 		if e.z < e.polygon.floor.height then
-	    		local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
-	    		e:position(x, y, p.ceiling.height, p)
-	 		elseif e.z > e.polygon.ceiling.height then
-	    		local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
-	    		e:position(x, y, p.floor.height, p)
-	 		end
+			if e.polygon.media then
+				if e.z < e.polygon.media.height then
+					local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
+					e:position(x, y, p.ceiling.height, p)
+				end
+			end
     	end
 	end
  
